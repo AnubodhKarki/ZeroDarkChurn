@@ -37,4 +37,5 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Verify results.parquet loads
-        run: python -c "import pandas as pd; df = pd.read_parquet('data/output/results.parquet'); print(f'results.parquet OK — {len(df)} rows, columns: {list(df.columns)}')"
+        run: |
+          python -c "import pandas as pd; df = pd.read_parquet('data/output/results.parquet'); print('results.parquet OK - ' + str(len(df)) + ' rows, columns: ' + str(list(df.columns)))"
