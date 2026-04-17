@@ -26,3 +26,4 @@ venv/
 # macOS
 .DS_Store
 *.txt
+huggingface.txt
