@@ -8,6 +8,10 @@ numpy==2.1.1
 faker==30.3.0
 pyarrow==17.0.0
 
+# HTTP client (pinned: openai 1.51 and anthropic 0.34 pass 'proxies' to httpx,
+# which was removed in httpx 0.28.0)
+httpx<0.28.0
+
 # Pipeline
 python-dotenv==1.0.1
 
