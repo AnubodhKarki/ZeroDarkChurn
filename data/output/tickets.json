@@ -1,0 +1,1578 @@
+[
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We're experiencing inconsistent speech recognition accuracy with the DevAPICo API in our call center analytics app. Some calls are being transcribed with significant errors, affecting our data analytics. Could you please provide guidance on optimizing the API settings for better accuracy?",
+    "created_at": "2024-09-02",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0001_01",
+    "account_id": "acc_0001"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing significant inaccuracies with the speech-to-text API during meetings. The transcriptions often miss key phrases or misinterpret words, which affects the app's usability. Can you provide any insights or solutions to improve the recognition accuracy?",
+    "created_at": "2024-09-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0002_01",
+    "account_id": "acc_0002"
+  },
+  {
+    "subject": "Issue with API response latency",
+    "body": "We're experiencing significant latency in the API responses when transcribing longer podcast episodes. This delay is affecting the user experience, as it takes too long for transcriptions to complete. Can we get an update on any ongoing issues or optimizations being considered?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0003_01",
+    "account_id": "acc_0003"
+  },
+  {
+    "subject": "Clarification on API usage limits",
+    "body": "I need clarification on the API usage limits for our transcription app. We want to ensure we're not exceeding any thresholds that could impact our service. Please provide the current limit data and any recommendations for scaling efficiently.",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0003_02",
+    "account_id": "acc_0003"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing issues with the speech recognition accuracy in the DevAPICo API. Certain phrases are not being transcribed correctly, which affects the user experience of our accessibility app. Could you provide any insights into how we might improve this aspect?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0004_01",
+    "account_id": "acc_0004"
+  },
+  {
+    "subject": "API response time concern",
+    "body": "We've noticed that the API response time has increased significantly during peak usage hours. This delay is impacting our app's performance and user satisfaction. Is there a known issue or planned maintenance that we should be aware of?",
+    "created_at": "2024-10-01",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0004_02",
+    "account_id": "acc_0004"
+  },
+  {
+    "subject": "Authentication token expiration issue",
+    "body": "I am having trouble with the authentication tokens expiring too quickly while using the API. This is causing disruptions in our app's functionality as users are frequently logged out. Any guidance on adjusting the token expiration settings would be appreciated.",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0004_03",
+    "account_id": "acc_0004"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We're experiencing inconsistent accuracy with the speech-to-text API in our meeting assistant app. Certain phrases are being misinterpreted, which affects the overall user experience. I would appreciate any guidance or potential solutions to improve this issue.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0005_01",
+    "account_id": "acc_0005"
+  },
+  {
+    "subject": "Issue with API response delays",
+    "body": "We've been experiencing significant delays in API response times while using the speech-to-text service. This issue is impacting our development timeline and overall user experience. Could you please investigate and provide an update on this matter?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0006_01",
+    "account_id": "acc_0006"
+  },
+  {
+    "subject": "Evaluating alternatives due to pricing",
+    "body": "We're currently evaluating VoxCore as a potential alternative to DevAPICo due to ongoing frustrations with reliability and pricing issues. The costs have been increasingly challenging for our budget, and we need to ensure the best solution for our project. Can you provide any insights on upcoming pricing structures or improvements?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0006_02",
+    "account_id": "acc_0006"
+  },
+  {
+    "subject": "Audio Quality Issues with Transcription",
+    "body": "We're experiencing inconsistencies with the audio quality in the transcriptions provided by the API. Some segments seem to be completely missed, affecting our app's overall performance. Can you provide any insights or potential fixes for this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0007_01",
+    "account_id": "acc_0007"
+  },
+  {
+    "subject": "API Response Time Delays",
+    "body": "I've noticed that the response times for the speech-to-text API have increased significantly over the past few weeks. This is impacting user experience in our application. Could you please investigate the cause and let us know if there's a way to improve it?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0007_02",
+    "account_id": "acc_0007"
+  },
+  {
+    "subject": "Integration Issues with New Features",
+    "body": "We are trying to integrate some of the new features released in the latest API update, but are encountering several errors during implementation. Can you provide any guidance on the best practices for these new features?",
+    "created_at": "2024-08-20",
+    "status": "open",
+    "ticket_id": "tkt_acc_0007_03",
+    "account_id": "acc_0007"
+  },
+  {
+    "subject": "Considering Alternatives to DevAPICo",
+    "body": "Due to ongoing frustrations with the reliability and pricing of the DevAPICo service, we're actively evaluating TranscriBit as a potential alternative. If there are upcoming improvements or pricing adjustments on your end, please let me know as we may reconsider staying.",
+    "created_at": "2024-09-30",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0007_04",
+    "account_id": "acc_0007"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We're experiencing significant accuracy issues with the speech-to-text API during testing. Specifically, it struggles with background noise and accents. This is causing delays in our development timeline, and we're seeking guidance on potential solutions.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0008_01",
+    "account_id": "acc_0008"
+  },
+  {
+    "subject": "Evaluating SpeechLayer as alternative solution",
+    "body": "Due to ongoing frustrations with the reliability and pricing of the DevAPICo API, we're actively evaluating SpeechLayer as an alternative. The inconsistencies in performance have impacted our project deadlines significantly. Any insights or suggestions would be appreciated.",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0008_02",
+    "account_id": "acc_0008"
+  },
+  {
+    "subject": "Issue with Audio Quality in Transcriptions",
+    "body": "We're experiencing consistent issues with the audio quality in the transcriptions provided by the DevAPICo. Many calls are coming through with significant background noise, making it hard to derive accurate insights. Can you advise on any settings or adjustments we can make to improve this?",
+    "created_at": "2024-09-02",
+    "status": "open",
+    "ticket_id": "tkt_acc_0009_01",
+    "account_id": "acc_0009"
+  },
+  {
+    "subject": "Question on Pricing for High Volume Usage",
+    "body": "As we are ramping up our usage of the speech-to-text API, I wanted to clarify the pricing structure for high volume usage. Are there any bulk pricing options available, or do we have to stick to the standard tier?",
+    "created_at": "2024-09-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0009_02",
+    "account_id": "acc_0009"
+  },
+  {
+    "subject": "Evaluating Alternatives to DevAPICo",
+    "body": "Due to ongoing frustrations with the reliability and pricing of the DevAPICo API, we are actively evaluating AudioNest as a potential alternative. We\u2019ve noticed several instances of downtime and inconsistent performance that are impacting our analytics. Any insights on your plans to address these issues would be appreciated.",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0009_03",
+    "account_id": "acc_0009"
+  },
+  {
+    "subject": "Request for API rate limit clarification",
+    "body": "I'm encountering issues with the rate limits set for the speech-to-text API. Can you provide detailed information on the current limits and any potential options for increasing them? This is crucial for our call center analytics app as we expect a high volume of calls.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0010_01",
+    "account_id": "acc_0010"
+  },
+  {
+    "subject": "Integration issue with call data retrieval",
+    "body": "We are having trouble integrating the speech-to-text API with our call data retrieval system. The responses seem to be inconsistent, and we need assistance diagnosing the problem. Any insights would be appreciated.",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0010_02",
+    "account_id": "acc_0010"
+  },
+  {
+    "subject": "Pricing concerns for high usage",
+    "body": "As we approach the final stages of development, I've started evaluating VoxCore as an alternative to your API. I'm frustrated with the reliability we've experienced and the pricing structure seems less favorable for our expected usage. Any chance we can discuss potential adjustments to our current plan?",
+    "created_at": "2024-08-25",
+    "status": "open",
+    "ticket_id": "tkt_acc_0010_03",
+    "account_id": "acc_0010"
+  },
+  {
+    "subject": "Feedback on API performance metrics",
+    "body": "I would like to provide feedback on the API performance metrics we've been tracking. While overall performance has improved, there are still some latency issues during peak hours that impact our service. Can we discuss this further?",
+    "created_at": "2024-11-01",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0010_04",
+    "account_id": "acc_0010"
+  },
+  {
+    "subject": "API response time issues",
+    "body": "We are experiencing significant delays in API response times when processing audio files. This is impacting our application\u2019s performance and user experience. Can you provide any insights or updates on potential fixes?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0011_01",
+    "account_id": "acc_0011"
+  },
+  {
+    "subject": "Error handling for large files",
+    "body": "We have encountered an issue where the API fails to handle larger audio files, resulting in unexpected errors. Our application needs to support a variety of file sizes. Can you please advise on best practices or any limitations we should be aware of?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0011_02",
+    "account_id": "acc_0011"
+  },
+  {
+    "subject": "Evaluating TranscriBit as an alternative",
+    "body": "Due to ongoing reliability issues and pricing concerns with the DevAPICo service, we are actively evaluating TranscriBit as a potential alternative. We need to understand any upcoming improvements or pricing adjustments that might influence our decision. Can you provide any further information?",
+    "created_at": "2024-11-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0011_03",
+    "account_id": "acc_0011"
+  },
+  {
+    "subject": "API response time issues",
+    "body": "I'm experiencing significant delays with the DevAPICo speech-to-text API responses. These latency issues are affecting our call center analytics app's performance, especially during peak hours. Could you please investigate and provide any updates on potential fixes?",
+    "created_at": "2024-09-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0012_01",
+    "account_id": "acc_0012"
+  },
+  {
+    "subject": "Considering alternatives to DevAPICo",
+    "body": "We've been facing ongoing reliability issues with the speech-to-text API, which has led us to explore other options. Currently, we're actively evaluating SpeechLayer as a potential alternative due to concerns over pricing and performance. Any insights or assistance regarding this would be appreciated.",
+    "created_at": "2024-10-25",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0012_02",
+    "account_id": "acc_0012"
+  },
+  {
+    "subject": "Speech Recognition Accuracy Issues",
+    "body": "I've noticed significant inaccuracies in the speech-to-text transcriptions during testing. Certain phrases with technical jargon are consistently misinterpreted. Can you provide any guidance on improving recognition accuracy?",
+    "created_at": "2024-09-02",
+    "status": "open",
+    "ticket_id": "tkt_acc_0013_01",
+    "account_id": "acc_0013"
+  },
+  {
+    "subject": "API Rate Limiting Concerns",
+    "body": "We are hitting the API rate limits more frequently than anticipated, which disrupts our testing process. Is there a way to increase our quota temporarily or adjust our usage recommendations?",
+    "created_at": "2024-09-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0013_02",
+    "account_id": "acc_0013"
+  },
+  {
+    "subject": "Pricing Structure Clarification",
+    "body": "I need clarification on the pricing tiers of the DevAPICo service. We're evaluating alternatives like AudioNest due to some frustrations with the current pricing model and reliability issues. Can you provide a breakdown of the costs associated with higher usage?",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0013_03",
+    "account_id": "acc_0013"
+  },
+  {
+    "subject": "Integration with Existing Codebase",
+    "body": "I've run into challenges while trying to integrate the speech-to-text API with our existing codebase. There are compatibility issues with our current framework. Any advice on best practices for integration would be appreciated.",
+    "created_at": "2024-10-10",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0013_04",
+    "account_id": "acc_0013"
+  },
+  {
+    "subject": "API response time issues",
+    "body": "I'm experiencing significant delays in response times from the DevAPICo speech-to-text API. This is affecting our transcription app's performance, especially during peak usage hours. Can we get an update on any ongoing issues?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0014_01",
+    "account_id": "acc_0014"
+  },
+  {
+    "subject": "Need clarification on pricing model",
+    "body": "I have some questions regarding the pricing structure for high-volume transcription requests with DevAPICo. The current model seems unclear, and I want to ensure we stay within budget as we scale our application. Could someone provide detailed information?",
+    "created_at": "2024-09-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0014_02",
+    "account_id": "acc_0014"
+  },
+  {
+    "subject": "Error handling for transcription failures",
+    "body": "We are encountering issues with error handling when a transcription fails. The API doesn\u2019t seem to provide adequate feedback on why certain requests fail. Any suggestions on how to improve our error handling?",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0014_03",
+    "account_id": "acc_0014"
+  },
+  {
+    "subject": "Evaluating VoxCore as an alternative",
+    "body": "Due to ongoing frustrations with the reliability and pricing of the DevAPICo API, we are actively evaluating VoxCore as a potential alternative. We've been experiencing too many inconsistencies that impact our user's experience, and we need to make a decision soon.",
+    "created_at": "2024-10-15",
+    "status": "open",
+    "ticket_id": "tkt_acc_0014_04",
+    "account_id": "acc_0014"
+  },
+  {
+    "subject": "API authentication issues",
+    "body": "I'm encountering issues with the API authentication tokens. They seem to expire too quickly, causing interruptions during testing. Can you provide guidance on setting up persistent authentication?",
+    "created_at": "2024-08-25",
+    "status": "open",
+    "ticket_id": "tkt_acc_0015_01",
+    "account_id": "acc_0015"
+  },
+  {
+    "subject": "Inconsistent transcription accuracy",
+    "body": "I've noticed that the transcription accuracy varies significantly between sessions. This inconsistency is affecting our user experience. Could you help me understand the factors that might influence accuracy?",
+    "created_at": "2024-09-02",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0015_02",
+    "account_id": "acc_0015"
+  },
+  {
+    "subject": "Pricing concerns with API usage",
+    "body": "As we scale up our usage of the speech-to-text API, the costs have become a concern. I'm actively evaluating TranscriBit as an alternative due to frustration with reliability and pricing. Can you provide insights on potential discounts or pricing tiers?",
+    "created_at": "2024-09-15",
+    "status": "open",
+    "ticket_id": "tkt_acc_0015_03",
+    "account_id": "acc_0015"
+  },
+  {
+    "subject": "Integration with our app",
+    "body": "I need assistance with integrating the speech-to-text API into our voice agent app. Specifically, I'm looking for examples or best practices for handling audio input efficiently. Any documentation or resources you can share?",
+    "created_at": "2024-10-11",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0015_04",
+    "account_id": "acc_0015"
+  },
+  {
+    "subject": "Clarification on API rate limits",
+    "body": "Hi team, I'm currently working on integrating the speech-to-text API into our voice agent app, and I need some clarification on the rate limits for our usage. Could you provide detailed information on how the limits are enforced, especially during peak times? Thanks!",
+    "created_at": "2024-09-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0016_01",
+    "account_id": "acc_0016"
+  },
+  {
+    "subject": "Lower usage this month",
+    "body": "Hey, just a quick note that our API usage has been lower this month since the team has been attending conferences and the business is in a slower period. We expect the volume to pick back up soon as we ramp up our projects. Please let me know if you need any more info!",
+    "created_at": "2024-10-05",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0016_02",
+    "account_id": "acc_0016"
+  },
+  {
+    "subject": "Error rates in speech-to-text responses",
+    "body": "We've been experiencing elevated error rates with the speech-to-text API recently. After investigating, I discovered that the issue stemmed from a misconfiguration in our infrastructure, not with DevAPICo's service. I have corrected the settings and tested the results, which are now functioning as expected. Thank you for your support!",
+    "created_at": "2024-09-05",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0018_01",
+    "account_id": "acc_0018"
+  },
+  {
+    "subject": "Integration issue with call metrics",
+    "body": "I am encountering issues while integrating the call metrics feature with our existing application. The API seems to return inconsistent data formats, which is causing confusion in our analytics dashboards. Could you provide clarification on the expected data structure for this feature?",
+    "created_at": "2024-10-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0018_02",
+    "account_id": "acc_0018"
+  },
+  {
+    "subject": "Issue with API rate limits",
+    "body": "We are experiencing issues with hitting API rate limits during peak usage. Can you provide information on current limits and any recommendations for efficient usage? Thanks!",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0019_01",
+    "account_id": "acc_0019"
+  },
+  {
+    "subject": "Inconsistent transcription quality",
+    "body": "We've noticed some inconsistencies in the transcription quality for certain audio files. Could you investigate and confirm if there are any known issues or updates on your end?",
+    "created_at": "2024-09-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0019_02",
+    "account_id": "acc_0019"
+  },
+  {
+    "subject": "Elevated error rates traced to misconfiguration",
+    "body": "I noticed elevated error rates recently while using the API. After further investigation, I traced the issue back to a misconfiguration on our own infrastructure. All is resolved now, and we appreciate your support.",
+    "created_at": "2024-09-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0019_03",
+    "account_id": "acc_0019"
+  },
+  {
+    "subject": "Feature request for language support",
+    "body": "We would like to request support for additional languages, specifically Spanish and French. These languages are crucial for our target audience in our upcoming podcast series. Can you provide a timeline for this feature?",
+    "created_at": "2024-10-02",
+    "status": "open",
+    "ticket_id": "tkt_acc_0019_04",
+    "account_id": "acc_0019"
+  },
+  {
+    "subject": "Issue with audio file processing",
+    "body": "We're experiencing delays when processing audio files over 5 minutes in length. It seems to be a timeout issue related to the DevAPICo API. Could you provide insights on how to optimize the processing time?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0020_01",
+    "account_id": "acc_0020"
+  },
+  {
+    "subject": "Speech recognition accuracy concerns",
+    "body": "We've noticed a significant drop in accuracy with specific accents during transcription. Could you share any tips on improving recognition rates for diverse speech patterns using DevAPICo?",
+    "created_at": "2024-09-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0020_02",
+    "account_id": "acc_0020"
+  },
+  {
+    "subject": "API limits clarification",
+    "body": "Could you clarify the current API rate limits for our account? We want to ensure we stay within the allowed usage while scaling our podcast app features.",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0020_03",
+    "account_id": "acc_0020"
+  },
+  {
+    "subject": "Decided against SpeechLayer integration",
+    "body": "After evaluating SpeechLayer as an alternative for our transcription needs, we concluded that DevAPICo provides better overall performance and reliability for our use case. We would like to proceed with optimizing our current setup.",
+    "created_at": "2024-08-25",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0020_04",
+    "account_id": "acc_0020"
+  },
+  {
+    "subject": "Feedback on new API features",
+    "body": "We've reviewed the latest API features and would love to provide feedback based on our experience so far. Some features are particularly helpful for our podcast app, and we have suggestions for future improvements.",
+    "created_at": "2024-11-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0020_05",
+    "account_id": "acc_0020"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I've noticed that the speech-to-text API is struggling to accurately transcribe spoken words in our meeting assistant app. This seems to happen particularly with technical jargon and overlapping speech. Can we investigate possible improvements or adjustments to enhance recognition accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0025_01",
+    "account_id": "acc_0025"
+  },
+  {
+    "subject": "Issue with audio quality in transcriptions",
+    "body": "I've noticed that the transcriptions from the speech-to-text API are inconsistent when it comes to audio quality. Some clear recordings produce inaccurate text results. Can we investigate if there are any settings or configurations that could improve this? Thanks!",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0026_01",
+    "account_id": "acc_0026"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing inconsistent speech recognition accuracy with the DevAPICo API in our meeting assistant app. Certain phrases are not being accurately transcribed, which affects user experience. Could you provide any insights or potential fixes for this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0027_01",
+    "account_id": "acc_0027"
+  },
+  {
+    "subject": "API Rate Limit Exceeded",
+    "body": "We are running into issues with the API rate limits while testing our voice agent app. It seems that the requests are being throttled even when we stay within the guidelines. Can you provide insights or potential workarounds for this limitation?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0028_01",
+    "account_id": "acc_0028"
+  },
+  {
+    "subject": "Unexpected Transcription Errors",
+    "body": "We've encountered unexpected transcription errors during our recent tests. Certain phrases are not being transcribed accurately, which affects the overall user experience. Could you help us investigate if there are any known issues or adjustments we should make?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0028_02",
+    "account_id": "acc_0028"
+  },
+  {
+    "subject": "Integration Documentation Clarification",
+    "body": "The documentation regarding integration with the speech-to-text API is somewhat unclear. We need clarification on specific endpoints and their expected parameters. Can someone provide a more detailed explanation or examples?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0028_03",
+    "account_id": "acc_0028"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We've noticed that the speech-to-text API is struggling with certain accents, leading to inaccuracies in transcription. This is affecting the usability of our accessibility app. Can we investigate potential improvements to the model?",
+    "created_at": "2024-09-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0029_01",
+    "account_id": "acc_0029"
+  },
+  {
+    "subject": "API response time lag",
+    "body": "The response time from the speech-to-text API has increased significantly during peak usage hours. This delay is impacting user experience in our app. What can be done to optimize performance?",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0029_02",
+    "account_id": "acc_0029"
+  },
+  {
+    "subject": "Integration with third-party services",
+    "body": "We're trying to integrate the speech-to-text API with a third-party video conferencing tool, but are running into compatibility issues. Could you provide guidance on how to handle this integration smoothly?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0029_03",
+    "account_id": "acc_0029"
+  },
+  {
+    "subject": "User feedback on interface design",
+    "body": "We've received user feedback suggesting that the interface for the speech-to-text feature is not intuitive enough. Are there any design resources or best practices you can recommend to improve it?",
+    "created_at": "2024-11-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0029_04",
+    "account_id": "acc_0029"
+  },
+  {
+    "subject": "Error handling in API requests",
+    "body": "Currently, our app does not handle errors from the speech-to-text API gracefully. We need to implement better error messaging for our users. Can you suggest best practices for API error responses?",
+    "created_at": "2024-09-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0029_05",
+    "account_id": "acc_0029"
+  },
+  {
+    "subject": "Issue with API response time",
+    "body": "We've noticed that the response time from the speech-to-text API has increased significantly during peak hours. This delay is impacting our call center analytics app's performance and user experience. Can we investigate the cause and consider potential optimizations?",
+    "created_at": "2024-09-02",
+    "status": "open",
+    "ticket_id": "tkt_acc_0030_01",
+    "account_id": "acc_0030"
+  },
+  {
+    "subject": "Error handling for audio file uploads",
+    "body": "I'm encountering an issue where the app crashes when users upload audio files that exceed the maximum size limit. We need to implement proper error handling to inform users of the issue without crashing the app. Can you provide guidance on best practices for this?",
+    "created_at": "2024-10-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0030_02",
+    "account_id": "acc_0030"
+  },
+  {
+    "subject": "Request for additional API documentation",
+    "body": "I've been integrating the speech-to-text API, but I'm struggling to find comprehensive documentation for some advanced features. It would be helpful to have more examples and explanations regarding specific parameters and their effects on the output. Can we get an update on this?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0030_03",
+    "account_id": "acc_0030"
+  },
+  {
+    "subject": "Issue with API response latency",
+    "body": "I'm experiencing significant latency in the speech-to-text API responses. This is affecting the user experience of our accessibility app. Can someone investigate the server performance or any recent changes that might have caused this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0031_01",
+    "account_id": "acc_0031"
+  },
+  {
+    "subject": "Error handling for unsupported languages",
+    "body": "Currently, the API does not handle unsupported languages gracefully and returns generic error messages. We need specific error codes for unsupported languages to improve user feedback in our app. Can we get a fix for this?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0031_02",
+    "account_id": "acc_0031"
+  },
+  {
+    "subject": "Documentation update request",
+    "body": "I've noticed that the documentation for the speech-to-text API is lacking examples of real-time transcription. This would be very helpful for developers implementing it in their applications. Can we initiate an update to include these examples?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0031_03",
+    "account_id": "acc_0031"
+  },
+  {
+    "subject": "API Rate Limit Issues",
+    "body": "I'm experiencing frequent rate limit errors while testing the speech-to-text API. This is affecting my ability to transcribe longer podcasts effectively. Can you provide guidance on how to handle or increase the limits?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0032_01",
+    "account_id": "acc_0032"
+  },
+  {
+    "subject": "Accuracy of Transcriptions",
+    "body": "The transcription accuracy seems to drop significantly with background noise. I'm curious if there are specific parameters I can adjust in the API to improve accuracy in noisy environments. Any insights would be appreciated.",
+    "created_at": "2024-09-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0032_02",
+    "account_id": "acc_0032"
+  },
+  {
+    "subject": "Integration with Audio Formats",
+    "body": "I'm having trouble integrating various audio formats with the API. It seems to only work with certain file types, and I need to support more formats for flexibility. Can you confirm which formats are currently supported?",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0032_03",
+    "account_id": "acc_0032"
+  },
+  {
+    "subject": "Webhook Response Delays",
+    "body": "I've noticed significant delays in receiving webhook responses after transcription is complete. This is impacting my application's responsiveness. What steps can I take to troubleshoot or improve the response times?",
+    "created_at": "2024-10-15",
+    "status": "open",
+    "ticket_id": "tkt_acc_0032_04",
+    "account_id": "acc_0032"
+  },
+  {
+    "subject": "Error Handling in API Calls",
+    "body": "I'm looking for best practices on handling errors in API calls. Currently, my app fails silently, and I want to ensure that users are informed when something goes wrong. Any recommendations would be helpful.",
+    "created_at": "2024-08-25",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0032_05",
+    "account_id": "acc_0032"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm noticing a significant drop in speech recognition accuracy during real-time processing. This issue appears when using the API in noisy environments. Can we look into potential improvements or adjustments?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0033_01",
+    "account_id": "acc_0033"
+  },
+  {
+    "subject": "Integration with existing audio framework",
+    "body": "I'm having trouble integrating the speech-to-text API with our existing audio framework. The response times seem slower than expected. Any guidance on optimizing this integration would be appreciated.",
+    "created_at": "2024-08-20",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0033_02",
+    "account_id": "acc_0033"
+  },
+  {
+    "subject": "Error handling for API response",
+    "body": "I've encountered issues with error handling when the API returns unexpected responses. It currently crashes the app instead of providing a fallback. Can we implement a more robust error handling mechanism?",
+    "created_at": "2024-10-10",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0033_03",
+    "account_id": "acc_0033"
+  },
+  {
+    "subject": "Speech Recognition Accuracy Issue",
+    "body": "We're experiencing inconsistencies in speech recognition accuracy for our app. Certain accents and background noises seem to affect the transcription quality. Can we get insights on optimizing the API settings for improved accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0034_01",
+    "account_id": "acc_0034"
+  },
+  {
+    "subject": "API Rate Limit Exceeded Error",
+    "body": "We've received a 'Rate Limit Exceeded' error while testing the app during peak usage hours. Can you provide details on rate limits and suggest a solution to handle high volumes better?",
+    "created_at": "2024-10-20",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0034_02",
+    "account_id": "acc_0034"
+  },
+  {
+    "subject": "Integration with Video Conferencing Tools",
+    "body": "We're working on integrating the speech-to-text API with our video conferencing features. Are there any best practices or existing documentation that could help streamline this process?",
+    "created_at": "2024-08-25",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0034_03",
+    "account_id": "acc_0034"
+  },
+  {
+    "subject": "Background Noise Filtering Feature Request",
+    "body": "We'd like to request a feature for improved background noise filtering in the speech-to-text output. This would greatly enhance the user experience during meetings held in noisy environments. Is this something that can be prioritized?",
+    "created_at": "2024-11-02",
+    "status": "open",
+    "ticket_id": "tkt_acc_0034_04",
+    "account_id": "acc_0034"
+  },
+  {
+    "subject": "Latency Issues During Transcription",
+    "body": "Users have reported latency issues during real-time transcription. The delay seems to be affecting the flow of conversations in meetings. Can we investigate potential causes and solutions?",
+    "created_at": "2024-09-15",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0034_05",
+    "account_id": "acc_0034"
+  },
+  {
+    "subject": "Error in speech recognition accuracy",
+    "body": "We've noticed that the speech recognition accuracy has dropped significantly in the last few days. Can you provide any insights on recent changes or issues that might be affecting performance? Any troubleshooting steps would be appreciated.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0035_01",
+    "account_id": "acc_0035"
+  },
+  {
+    "subject": "API rate limit exceeded warning",
+    "body": "I received a notice that our app has exceeded the API rate limit. We believe this might be due to a sudden increase in user activity. Could you confirm the current rate limits and any potential solutions?",
+    "created_at": "2024-10-01",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0035_02",
+    "account_id": "acc_0035"
+  },
+  {
+    "subject": "Integration issues with latest update",
+    "body": "After the recent API update, we're experiencing integration issues with our current implementation. The old endpoints seem to be deprecated, and we need guidance on transitioning to the new ones effectively.",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0035_03",
+    "account_id": "acc_0035"
+  },
+  {
+    "subject": "Request for additional documentation",
+    "body": "We are in need of more comprehensive documentation regarding the new features added in the latest API release. Specific examples of use cases would help us implement the changes more smoothly.",
+    "created_at": "2024-09-15",
+    "status": "open",
+    "ticket_id": "tkt_acc_0035_04",
+    "account_id": "acc_0035"
+  },
+  {
+    "subject": "Voice model customization not functioning",
+    "body": "The voice model customization feature is not working as expected. Changes made in the settings are not reflected in the output. Please advise if there are known issues or additional steps we need to take.",
+    "created_at": "2024-11-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0035_05",
+    "account_id": "acc_0035"
+  },
+  {
+    "subject": "Issue with API key authentication",
+    "body": "I'm having trouble authenticating my API key with the DevAPICo service. The API responds with an 'Unauthorized' error even though I'm certain the key is correct. Could you please verify if there are any issues on your end?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0037_01",
+    "account_id": "acc_0037"
+  },
+  {
+    "subject": "Callback URL not triggering",
+    "body": "I've set up a callback URL for the speech-to-text API, but it doesn't seem to be triggering after the transcription is complete. I've double-checked the URL and settings but haven't had any luck. Any insights would be appreciated.",
+    "created_at": "2024-10-02",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0037_02",
+    "account_id": "acc_0037"
+  },
+  {
+    "subject": "Transcription accuracy issues",
+    "body": "I've noticed that the transcription accuracy for certain audio files is significantly lower than expected. This affects user experience, and I would like to understand if there are known limitations in audio quality or formats that could be causing this.",
+    "created_at": "2024-08-28",
+    "status": "open",
+    "ticket_id": "tkt_acc_0037_03",
+    "account_id": "acc_0037"
+  },
+  {
+    "subject": "Rate limit exceeded error",
+    "body": "I received a 'Rate limit exceeded' error while testing the API with multiple concurrent requests. Can you provide guidance on best practices for handling rate limits and any potential options for increasing my application's limits?",
+    "created_at": "2024-09-15",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0037_04",
+    "account_id": "acc_0037"
+  },
+  {
+    "subject": "API response time is slow",
+    "body": "I've been experiencing unusually slow response times from the speech-to-text API during peak hours. This is impacting our application's performance. Is there any way to optimize our requests or any updates to the API that might improve speed?",
+    "created_at": "2024-11-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0037_05",
+    "account_id": "acc_0037"
+  },
+  {
+    "subject": "Issues with speech recognition accuracy",
+    "body": "I'm experiencing inconsistent accuracy with the speech-to-text API in our meeting assistant app. Certain accents and background noise seem to significantly affect transcription quality. Can you provide guidance on optimizing the API for better performance in these scenarios?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0039_01",
+    "account_id": "acc_0039"
+  },
+  {
+    "subject": "Need help with speech recognition accuracy",
+    "body": "We're experiencing issues with the speech-to-text accuracy for certain accents when using the DevAPICo API. The transcriptions are often incorrect, which impacts our voice agent's performance. Can you provide any insights or guidance on improving recognition for diverse accents?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0040_01",
+    "account_id": "acc_0040"
+  },
+  {
+    "subject": "API Authentication Issue",
+    "body": "I'm experiencing issues with the authentication process for the speech-to-text API. Despite using the correct API keys, I keep receiving a 401 Unauthorized error. Any assistance with this would be appreciated.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0041_01",
+    "account_id": "acc_0041"
+  },
+  {
+    "subject": "Speech Recognition Accuracy Concerns",
+    "body": "I've noticed that the speech recognition accuracy drops significantly with background noise. Is there any recommended approach or additional settings to improve performance in noisy environments? Looking forward to your insights.",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0041_02",
+    "account_id": "acc_0041"
+  },
+  {
+    "subject": "Issue with audio file format support",
+    "body": "I'm experiencing issues with the audio file formats accepted by the speech-to-text API. It seems that while the documentation lists several formats, I'm unable to get .wav files to process correctly. Could you provide clarification or assistance on this?",
+    "created_at": "2024-09-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0042_01",
+    "account_id": "acc_0042"
+  },
+  {
+    "subject": "Latency in speech recognition responses",
+    "body": "I've noticed significant latency in the responses from the speech-to-text API during peak hours. This is causing delays in our call center analytics app. Is there a way to optimize the request handling or any advice you can offer?",
+    "created_at": "2024-10-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0042_02",
+    "account_id": "acc_0042"
+  },
+  {
+    "subject": "Issue with Speech-to-Text Accuracy",
+    "body": "We're experiencing inconsistencies with the speech-to-text accuracy in our call center analytics app. Some calls are being transcribed poorly, affecting our data quality. Can you provide insights on potential causes or solutions?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0043_01",
+    "account_id": "acc_0043"
+  },
+  {
+    "subject": "API Rate Limit Exceeded Error",
+    "body": "We have encountered an 'API Rate Limit Exceeded' error while testing our application. This issue is hindering our ability to gather necessary data for analysis. Please advise on how we can increase our rate limit.",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0043_02",
+    "account_id": "acc_0043"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm encountering problems with the speech-to-text API where the accuracy seems to drop significantly with background noise. This impacts user experience, and I need guidance on improving the recognition quality. Any tips or settings adjustments would be appreciated.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0044_01",
+    "account_id": "acc_0044"
+  },
+  {
+    "subject": "Issue with Speech Recognition Accuracy",
+    "body": "We're experiencing unexpected inaccuracies with the speech recognition feature of the DevAPICo API. Certain common phrases are being misinterpreted, which affects the overall user experience. Could you please investigate this issue and provide guidance on how to improve accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0045_01",
+    "account_id": "acc_0045"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing issues with the speech-to-text API when processing certain accents. The accuracy drops significantly with non-standard dialects, which is critical for our accessibility app. Can we investigate this further?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0046_01",
+    "account_id": "acc_0046"
+  },
+  {
+    "subject": "API rate limits causing delays",
+    "body": "We've hit the API rate limits during peak usage times, causing significant delays in response times for our users. I would like to discuss potential solutions or adjustments to accommodate higher traffic. Please advise on this matter.",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0046_02",
+    "account_id": "acc_0046"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We've noticed that the speech-to-text API is struggling with recognizing certain accents, which affects meeting transcriptions. This could impact user experience significantly. Can we get any insights on improving the accuracy for diverse speech patterns?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0047_01",
+    "account_id": "acc_0047"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We are facing challenges with the speech recognition accuracy in our meeting assistant app. The API seems to struggle with certain accents and background noise, which affects transcription quality. Can we get any insights on improving the recognition settings?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0049_01",
+    "account_id": "acc_0049"
+  },
+  {
+    "subject": "Request for additional language support",
+    "body": "We would like to request support for additional languages in the DevAPICo for our upcoming release. Currently, we only have English and Spanish, but our user base is growing in other regions. What is the process for adding more languages?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0049_02",
+    "account_id": "acc_0049"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We're experiencing inconsistencies with the speech-to-text accuracy in our voice agent app. Some common phrases are misinterpreted, leading to user frustration. Can you provide guidance on optimizing our requests for better accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0050_01",
+    "account_id": "acc_0050"
+  },
+  {
+    "subject": "API rate limit exceeded error",
+    "body": "We received an 'API rate limit exceeded' error while testing our application. This seems to occur during peak usage times. Could you clarify the current rate limits and suggest best practices for handling this issue?",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0050_02",
+    "account_id": "acc_0050"
+  },
+  {
+    "subject": "Issue with Speech Recognition Accuracy",
+    "body": "We're experiencing inconsistent accuracy with the speech-to-text API in our application. Some phrases are being misinterpreted, which affects the user experience. Could you provide insights or solutions for improving recognition accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0051_01",
+    "account_id": "acc_0051"
+  },
+  {
+    "subject": "Rate Limit Exceeded Error",
+    "body": "We've encountered a 'Rate Limit Exceeded' error during peak usage times. This is affecting user interactions with the voice agent. Can you clarify the rate limits and suggest strategies to mitigate this issue?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0051_02",
+    "account_id": "acc_0051"
+  },
+  {
+    "subject": "Integration Documentation Missing",
+    "body": "The integration documentation for the speech-to-text API seems to be incomplete. We're having trouble with the setup process, specifically with authentication steps. Could you update the documentation or provide additional resources?",
+    "created_at": "2024-08-21",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0051_03",
+    "account_id": "acc_0051"
+  },
+  {
+    "subject": "Issue with API response format",
+    "body": "I'm experiencing inconsistencies in the response format of the speech-to-text API. Sometimes the JSON structure changes unexpectedly, which causes parsing issues in our app. Can you provide clarification on this matter?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0053_01",
+    "account_id": "acc_0053"
+  },
+  {
+    "subject": "Rate limit concerns",
+    "body": "We're hitting the rate limits on the speech-to-text API during peak usage times. This is impacting our app's performance significantly. Is there a way to increase our rate limit or handle this better?",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0053_02",
+    "account_id": "acc_0053"
+  },
+  {
+    "subject": "Transcription accuracy issues",
+    "body": "We've noticed a drop in transcription accuracy with certain audio inputs. This seems to occur particularly with background noise. Can you investigate this issue and suggest possible solutions?",
+    "created_at": "2024-08-20",
+    "status": "open",
+    "ticket_id": "tkt_acc_0053_03",
+    "account_id": "acc_0053"
+  },
+  {
+    "subject": "Integration documentation feedback",
+    "body": "The integration documentation for the speech-to-text API could use some improvements. Some sections are unclear, making it difficult for new developers to implement it smoothly. I'd like to suggest a review.",
+    "created_at": "2024-11-01",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0053_04",
+    "account_id": "acc_0053"
+  },
+  {
+    "subject": "Authentication issues with speech-to-text API",
+    "body": "I'm experiencing authentication problems when trying to connect to the speech-to-text API. The token I generated seems to be invalid, and I receive a 401 error. Could you please provide guidance on how to generate a valid token?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0054_01",
+    "account_id": "acc_0054"
+  },
+  {
+    "subject": "Audio format compatibility question",
+    "body": "I need clarification on the supported audio formats for the speech-to-text API. Our app currently uses .wav and .mp3 formats, but I want to ensure they are compatible with your service. Could you confirm this?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0054_02",
+    "account_id": "acc_0054"
+  },
+  {
+    "subject": "Rate limit exceeded errors",
+    "body": "We've started to receive rate limit exceeded errors while testing the API under high load. Can you provide details on the current rate limits and any potential solutions to manage these limits effectively?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0054_03",
+    "account_id": "acc_0054"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing significant inaccuracies with the speech recognition feature of the DevAPICo API. Certain phrases are being misinterpreted, which affects the user experience of our application. Can we investigate if there are specific configurations or updates that might improve accuracy?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0055_01",
+    "account_id": "acc_0055"
+  },
+  {
+    "subject": "Need clarification on API rate limits",
+    "body": "I need clarification regarding the API rate limits for the speech-to-text service. We're running into issues when processing multiple audio files in quick succession. Understanding the limits will help us optimize our request handling.",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0055_02",
+    "account_id": "acc_0055"
+  },
+  {
+    "subject": "Issue with API response time",
+    "body": "I've noticed that the response time for the speech-to-text API has significantly increased over the past week. This delay is affecting the user experience of our application. Can you please investigate this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0057_01",
+    "account_id": "acc_0057"
+  },
+  {
+    "subject": "Error handling for audio file uploads",
+    "body": "We are encountering an error when uploading audio files larger than 10MB. The API doesn't seem to return a proper error message, making it hard to handle on our end. Could you provide guidance on how to manage this scenario?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0057_02",
+    "account_id": "acc_0057"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing inconsistent accuracy with the speech-to-text API. Certain phrases are being misinterpreted, which affects the overall user experience of our application. Could you provide guidance on how to improve recognition accuracy or any settings that might help?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0058_01",
+    "account_id": "acc_0058"
+  },
+  {
+    "subject": "Issue with speech-to-text accuracy",
+    "body": "I'm encountering significant inaccuracies in the speech-to-text transcription from the DevAPICo API. The transcriptions often miss key terms used in our call center scripts, which affects our analytics. Can you provide guidance on how to improve the accuracy, or are there specific configurations we should be using?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0060_01",
+    "account_id": "acc_0060"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We've noticed that the speech-to-text API is struggling with certain accents and background noise. This is affecting the overall user experience of our voice agent app. Can we get some insights on how to improve recognition accuracy in these scenarios?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0061_01",
+    "account_id": "acc_0061"
+  },
+  {
+    "subject": "Issue with Speech Recognition Accuracy",
+    "body": "I'm experiencing inconsistent speech-to-text accuracy with the API during meetings. In particular, background noise seems to affect transcription quality significantly. Could you provide any recommendations for optimizing the API settings or handling noisy environments more effectively?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0062_01",
+    "account_id": "acc_0062"
+  },
+  {
+    "subject": "Issue with API response latency",
+    "body": "We're experiencing significant latency when making requests to the speech-to-text API. This is affecting our app's performance and user experience. Can you provide any insights or solutions to improve response times?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0063_01",
+    "account_id": "acc_0063"
+  },
+  {
+    "subject": "Documentation clarification needed",
+    "body": "I need clarification on the usage of the 'language' parameter in the API. The documentation seems to be unclear regarding supported languages and their codes. Any additional details would be appreciated.",
+    "created_at": "2024-10-01",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0063_02",
+    "account_id": "acc_0063"
+  },
+  {
+    "subject": "Unexpected error handling behavior",
+    "body": "We encountered an unexpected error when processing certain audio files, which isn't covered in the error handling section of the documentation. Can you assist with understanding this issue and suggest a workaround?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0063_03",
+    "account_id": "acc_0063"
+  },
+  {
+    "subject": "Speech recognition accuracy issues",
+    "body": "I've noticed that the speech-to-text API sometimes misinterprets certain phrases, especially in noisy environments. Can you provide any insights on improving accuracy or best practices for handling background noise? This is critical for our voice agent app's user experience.",
+    "created_at": "2024-09-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0065_01",
+    "account_id": "acc_0065"
+  },
+  {
+    "subject": "Authentication failure on API calls",
+    "body": "We're experiencing frequent authentication failures when making API calls to the speech-to-text service. This is impacting our development timeline as we cannot proceed without reliable access. Could you assist in troubleshooting this issue?",
+    "created_at": "2024-10-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0065_02",
+    "account_id": "acc_0065"
+  },
+  {
+    "subject": "Request for additional language support",
+    "body": "Our voice agent app needs to support more languages, but I noticed that some languages are currently unavailable in the API. Is there a roadmap for adding additional language support? This would greatly enhance our app's usability in diverse markets.",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0065_03",
+    "account_id": "acc_0065"
+  },
+  {
+    "subject": "Speech recognition accuracy issues",
+    "body": "I've noticed that the speech-to-text API is struggling with accuracy, particularly with certain accents and background noise during testing. It would be helpful to understand if there are any recommended settings or adjustments for improving recognition rates in these scenarios. Any insights would be greatly appreciated!",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0069_01",
+    "account_id": "acc_0069"
+  },
+  {
+    "subject": "Issue with audio format recognition",
+    "body": "I'm having trouble getting the speech-to-text API to recognize audio in WAV format. It seems to fail consistently despite the format being supported. Can you provide any insights or documentation on this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0070_01",
+    "account_id": "acc_0070"
+  },
+  {
+    "subject": "Latency problems during transcription",
+    "body": "We've noticed significant latency when transcribing longer audio files using the API. This is impacting our application's performance. Is there a way to optimize this, or are there known issues?",
+    "created_at": "2024-10-01",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0070_02",
+    "account_id": "acc_0070"
+  },
+  {
+    "subject": "API key authentication errors",
+    "body": "We are experiencing intermittent authentication errors with our API key when making requests. This is causing disruptions in our development workflow. Can you help us identify the cause?",
+    "created_at": "2024-09-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0070_03",
+    "account_id": "acc_0070"
+  },
+  {
+    "subject": "Inconsistent transcription accuracy",
+    "body": "The accuracy of transcriptions seems to vary widely between different audio samples. Some files are returning nearly perfect results, while others are not accurate at all. What factors could be affecting this?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0070_04",
+    "account_id": "acc_0070"
+  },
+  {
+    "subject": "Rate limiting issues",
+    "body": "We're running into rate limiting issues even when we believe we are under the limits. This is causing errors in our application. Can you clarify the rate limits or suggest how to handle this?",
+    "created_at": "2024-10-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0070_05",
+    "account_id": "acc_0070"
+  },
+  {
+    "subject": "API key authorization issue",
+    "body": "I'm encountering an authorization error when trying to access the speech-to-text API with my API key. I've verified that the key is correct and has the necessary permissions. Can someone assist me in troubleshooting this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0071_01",
+    "account_id": "acc_0071"
+  },
+  {
+    "subject": "Unexpected response format",
+    "body": "After making a request to the speech-to-text API, I'm receiving an unexpected response format that is causing parsing issues in my application. It would be helpful if I could get clarification on the response structure. Please advise on how to handle this.",
+    "created_at": "2024-09-17",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0071_02",
+    "account_id": "acc_0071"
+  },
+  {
+    "subject": "High latency in speech transcription",
+    "body": "I've noticed significant latency in the response time for speech transcription during peak hours. This is impacting our application's performance. Any insights into the cause or potential optimizations would be appreciated.",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0071_03",
+    "account_id": "acc_0071"
+  },
+  {
+    "subject": "Feature request for multi-language support",
+    "body": "I would like to request the addition of multi-language support for the speech-to-text API. Our application would greatly benefit from being able to transcribe calls in various languages. Is this a possibility for future updates?",
+    "created_at": "2024-10-15",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0071_04",
+    "account_id": "acc_0071"
+  },
+  {
+    "subject": "Help with integration testing",
+    "body": "I'm currently setting up integration tests for the speech-to-text API in our app. However, I'm struggling with mocking API responses effectively. Any best practices or resources you could share would be invaluable.",
+    "created_at": "2024-11-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0071_05",
+    "account_id": "acc_0071"
+  },
+  {
+    "subject": "Issue with speech-to-text accuracy",
+    "body": "I'm noticing significant inaccuracies with the speech-to-text results, especially with accented speech. This is affecting the usability of our accessibility app for diverse user groups. Can we investigate the underlying model or provide any tuning options?",
+    "created_at": "2024-09-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0072_01",
+    "account_id": "acc_0072"
+  },
+  {
+    "subject": "Request for API usage metrics",
+    "body": "We need detailed usage metrics for the speech-to-text API to better understand load and optimize performance. Can you provide access to these metrics or set up a report that we can review regularly?",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0072_02",
+    "account_id": "acc_0072"
+  },
+  {
+    "subject": "Unable to access speech-to-text API",
+    "body": "I'm currently facing issues accessing the speech-to-text API endpoints. I keep receiving a 403 Forbidden error when trying to authenticate. Could someone assist in troubleshooting this issue?",
+    "created_at": "2024-09-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0073_01",
+    "account_id": "acc_0073"
+  },
+  {
+    "subject": "Accuracy issues with transcription results",
+    "body": "I've noticed that the transcription accuracy for certain accents is significantly lower. During testing, phrases are often misinterpreted. Can we have a discussion on improving this aspect?",
+    "created_at": "2024-09-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0073_02",
+    "account_id": "acc_0073"
+  },
+  {
+    "subject": "API rate limits clarification needed",
+    "body": "I need clarification on the current rate limits imposed on the speech-to-text API. Our application is scaling quickly and I want to ensure we stay within the allowed usage. Can someone provide details?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0073_03",
+    "account_id": "acc_0073"
+  },
+  {
+    "subject": "Integration issues with voice agent app",
+    "body": "I'm experiencing integration issues between the voice agent app and the speech-to-text API. The response time seems significantly delayed, affecting user experience. Any insights or solutions would be appreciated.",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0073_04",
+    "account_id": "acc_0073"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I've noticed that the speech-to-text API is struggling with specific accents during testing. This is causing inconsistent results in our meeting assistant app. Can we get some tips on how to improve accuracy or any updates planned for the API?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0076_01",
+    "account_id": "acc_0076"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We've been experiencing inconsistent speech recognition accuracy with the DevAPICo API. It seems to struggle particularly with industry-specific jargon during calls. Can you provide insights or potential solutions to improve this?",
+    "created_at": "2024-09-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0077_01",
+    "account_id": "acc_0077"
+  },
+  {
+    "subject": "Integration challenges with call data",
+    "body": "I'm having trouble integrating the call data from DevAPICo into our analytics dashboard. The data format doesn't match our existing schema, causing errors in the processing stage. Any guidance on how to resolve this would be appreciated.",
+    "created_at": "2024-10-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0077_02",
+    "account_id": "acc_0077"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We've noticed that the speech recognition accuracy has dropped significantly in our voice agent app over the past few days. This is affecting user experience, particularly with background noise. Can you please investigate and provide any updates?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0078_01",
+    "account_id": "acc_0078"
+  },
+  {
+    "subject": "Error handling for unsupported languages",
+    "body": "Our app is currently encountering errors when users speak in unsupported languages. It would be helpful to implement better error handling to inform users when their language isn't supported. Can you guide us on the best approach to achieve this?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0078_02",
+    "account_id": "acc_0078"
+  },
+  {
+    "subject": "Issues with Real-Time Speech Recognition",
+    "body": "I'm experiencing delays in real-time speech recognition using the API. The transcriptions seem to lag behind the audio input, making it difficult for users to rely on the service. Can you provide any insights or potential fixes?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0079_01",
+    "account_id": "acc_0079"
+  },
+  {
+    "subject": "Error Handling for Unrecognized Speech",
+    "body": "I need assistance with implementing error handling for unrecognized speech inputs. Currently, the app crashes when it encounters an unknown word. How can I gracefully manage these scenarios and provide user feedback?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0079_02",
+    "account_id": "acc_0079"
+  },
+  {
+    "subject": "Documentation Update Request",
+    "body": "I noticed that the API documentation lacks examples for multilingual support. Since our app is intended for a diverse user base, having this information would be invaluable. Can we get this added to the docs?",
+    "created_at": "2024-08-18",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0079_03",
+    "account_id": "acc_0079"
+  },
+  {
+    "subject": "Issue with audio file compatibility",
+    "body": "I'm encountering issues with certain audio file formats not being processed correctly by the API. Specifically, files in WAV format seem to return errors during transcription. Can we get clarification on supported formats and any potential workarounds?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0082_01",
+    "account_id": "acc_0082"
+  },
+  {
+    "subject": "Transcription accuracy concerns",
+    "body": "I've noticed a significant drop in transcription accuracy during testing with various accents. This seems to be impacting user experience for our app. Is there any ongoing work to improve this aspect of the API?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0082_02",
+    "account_id": "acc_0082"
+  },
+  {
+    "subject": "Issue with API authentication errors",
+    "body": "I've been encountering intermittent authentication errors when trying to connect to the speech-to-text API. This happens sporadically, and I need assistance in diagnosing whether it's a configuration issue on my end or a problem with the API itself. Any insights would be appreciated.",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0083_01",
+    "account_id": "acc_0083"
+  },
+  {
+    "subject": "Unexpected output format in response",
+    "body": "The API is returning a different format for the transcription results than what is specified in the documentation. This has caused our app to break down when processing responses. Can you clarify if there has been a recent change in the output format?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0083_02",
+    "account_id": "acc_0083"
+  },
+  {
+    "subject": "Rate limit exceeded notifications",
+    "body": "I've started receiving notifications about exceeding the rate limit for the speech-to-text API. However, our usage has not changed significantly. Could you help me verify the current rate limits and check if there's an issue on the server side?",
+    "created_at": "2024-10-30",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0083_03",
+    "account_id": "acc_0083"
+  },
+  {
+    "subject": "Issue with speech-to-text API accuracy",
+    "body": "I'm encountering unexpected inaccuracies with the speech-to-text API when transcribing certain accents. During testing, some phrases are being misinterpreted, leading to incorrect outputs. Can someone please assist me in troubleshooting this issue?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0084_01",
+    "account_id": "acc_0084"
+  },
+  {
+    "subject": "API key authentication issue",
+    "body": "I'm experiencing an authentication issue with the API key for our podcast transcription app. The key seems to be valid, but requests are being denied with a 401 error. Can you help me troubleshoot this?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0085_01",
+    "account_id": "acc_0085"
+  },
+  {
+    "subject": "Transcription accuracy concerns",
+    "body": "We've noticed that the transcription accuracy is inconsistent, particularly with names and technical terms. This is affecting our app's reliability for users. Is there a way to improve this or provide feedback on specific transcripts?",
+    "created_at": "2024-09-20",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0085_02",
+    "account_id": "acc_0085"
+  },
+  {
+    "subject": "Rate limit exceeded notifications",
+    "body": "Our app has been hitting the rate limit frequently, even with moderate usage. We require clarification on the rate limits and potential ways to increase them for our application. Any advice would be appreciated.",
+    "created_at": "2024-10-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0085_03",
+    "account_id": "acc_0085"
+  },
+  {
+    "subject": "Request for additional language support",
+    "body": "We are looking to add support for additional languages in our podcast transcription app. Could you provide information on the timeline and process for requesting new language support through your API?",
+    "created_at": "2024-10-15",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0085_04",
+    "account_id": "acc_0085"
+  },
+  {
+    "subject": "Issue with API Authentication",
+    "body": "I'm encountering authentication errors when trying to connect to the speech-to-text API. I've double-checked the API keys and permissions, but the issue persists. Could you please assist in troubleshooting this?",
+    "created_at": "2024-09-01",
+    "status": "open",
+    "ticket_id": "tkt_acc_0086_01",
+    "account_id": "acc_0086"
+  },
+  {
+    "subject": "Performance Lag During High Load",
+    "body": "During peak hours, the response time of the API significantly increases, affecting our application's performance. We need to analyze if there are any rate limiting or scaling issues on the server side. Any insights would be appreciated.",
+    "created_at": "2024-09-15",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0086_02",
+    "account_id": "acc_0086"
+  },
+  {
+    "subject": "Transcription Accuracy Concerns",
+    "body": "I've noticed inconsistencies in the transcription accuracy for calls with multiple speakers. It seems the API struggles with distinguishing between voices. I'd like to know if there are recommended practices to improve this.",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0086_03",
+    "account_id": "acc_0086"
+  },
+  {
+    "subject": "Resolved API Rate Limit Notification",
+    "body": "We encountered a rate limit notification while testing our application. After some adjustments, we were able to optimize our API calls. This issue has been resolved, and I appreciate the quick response from the support team.",
+    "created_at": "2024-10-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0086_04",
+    "account_id": "acc_0086"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We're experiencing inconsistent results with the speech-to-text API, particularly with noisy backgrounds. This is affecting the accuracy of transcriptions in our accessibility app. Could you provide insights on improving recognition in such environments?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0087_01",
+    "account_id": "acc_0087"
+  },
+  {
+    "subject": "API response timeout errors",
+    "body": "We've encountered timeout errors while making requests to the speech-to-text API during peak usage. This is causing delays in our app's functionality. Can we investigate potential optimizations or rate limits?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0087_02",
+    "account_id": "acc_0087"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm experiencing issues with the speech-to-text API not accurately transcribing certain audio files. It seems to struggle particularly with background noise and overlapping speech. Can you provide insights on how to improve the accuracy or any recommended settings?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0088_01",
+    "account_id": "acc_0088"
+  },
+  {
+    "subject": "Issue with long audio file transcriptions",
+    "body": "I'm encountering issues when attempting to transcribe audio files longer than 60 minutes. The API seems to time out or return incomplete data for these files. Can you provide guidance on best practices for handling longer audio streams?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0089_01",
+    "account_id": "acc_0089"
+  },
+  {
+    "subject": "Speech Recognition Accuracy Issues",
+    "body": "I've noticed that the speech-to-text accuracy drops significantly with background noise. This is impacting user experience in our meeting assistant app. Can we explore settings or adjustments to improve performance in noisy environments?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0090_01",
+    "account_id": "acc_0090"
+  },
+  {
+    "subject": "API Response Time Delays",
+    "body": "We're experiencing longer than expected response times from the speech-to-text API during peak hours. This delay is affecting the live transcription feature in our app. Could you investigate if there are any throttling issues or optimization options available?",
+    "created_at": "2024-10-01",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0090_02",
+    "account_id": "acc_0090"
+  },
+  {
+    "subject": "Integration with Other APIs",
+    "body": "I\u2019m trying to integrate the speech-to-text API with a video conferencing tool but running into compatibility issues. Are there best practices or documentation available for integrating with third-party platforms?",
+    "created_at": "2024-09-15",
+    "status": "open",
+    "ticket_id": "tkt_acc_0090_03",
+    "account_id": "acc_0090"
+  },
+  {
+    "subject": "User Authentication Failures",
+    "body": "It seems that some users are encountering authentication failures when attempting to access the speech-to-text features. I suspect it could be related to the token expiration settings. Can you assist in troubleshooting this issue?",
+    "created_at": "2024-08-22",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0090_04",
+    "account_id": "acc_0090"
+  },
+  {
+    "subject": "Language Support Expansion",
+    "body": "We\u2019re planning to expand our app's language support and need to know which languages are currently available in the speech-to-text API. Additionally, are there any upcoming languages planned for release that we should be aware of?",
+    "created_at": "2024-11-10",
+    "status": "open",
+    "ticket_id": "tkt_acc_0090_05",
+    "account_id": "acc_0090"
+  },
+  {
+    "subject": "Issue with Speech Recognition Accuracy",
+    "body": "I'm experiencing inconsistencies with the speech recognition accuracy in the DevAPICo. Certain spoken phrases are not being transcribed correctly, impacting the app's usability for our clients. Could we investigate this issue further?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0091_01",
+    "account_id": "acc_0091"
+  },
+  {
+    "subject": "Integration Challenges with API",
+    "body": "I am facing some challenges while integrating the speech-to-text API into our accessibility app. The documentation seems insufficient in explaining the authentication process, and I'd appreciate any guidance or examples you could provide. Thank you!",
+    "created_at": "2024-10-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0091_02",
+    "account_id": "acc_0091"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "We are experiencing low accuracy in speech-to-text transcriptions, especially with background noise. Can you provide insights on optimizing the API for noisy environments? Any configuration settings we should adjust?",
+    "created_at": "2024-09-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0092_01",
+    "account_id": "acc_0092"
+  },
+  {
+    "subject": "Rate limit exceeded errors",
+    "body": "We have been encountering 'rate limit exceeded' errors during peak usage times. Can you clarify the current rate limits for our account and suggest how we might handle high-traffic scenarios more effectively?",
+    "created_at": "2024-10-12",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0092_02",
+    "account_id": "acc_0092"
+  },
+  {
+    "subject": "Integration with existing systems",
+    "body": "We're having trouble integrating the speech-to-text API with our existing user management system. Could you provide a step-by-step guide or example code for connecting the two systems seamlessly?",
+    "created_at": "2024-08-20",
+    "status": "open",
+    "ticket_id": "tkt_acc_0092_03",
+    "account_id": "acc_0092"
+  },
+  {
+    "subject": "Feedback on recent API update",
+    "body": "I wanted to provide feedback on the latest API update. While the new features are great, we've noticed some bugs that need addressing. I've detailed them in a separate document for your review.",
+    "created_at": "2024-09-30",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0092_04",
+    "account_id": "acc_0092"
+  },
+  {
+    "subject": "API response delay",
+    "body": "I've noticed significant delays in the API response times during peak hours. This affects the user experience of our podcast transcription app. Can we investigate the server load and any possible optimizations?",
+    "created_at": "2024-09-05",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0093_01",
+    "account_id": "acc_0093"
+  },
+  {
+    "subject": "Transcription accuracy issues",
+    "body": "The transcription accuracy for some dialects seems to be lower than expected. Users have reported misinterpretations of words, especially with non-standard accents. We need to look into enhancing the model's training data for better performance.",
+    "created_at": "2024-10-12",
+    "status": "open",
+    "ticket_id": "tkt_acc_0093_02",
+    "account_id": "acc_0093"
+  },
+  {
+    "subject": "Integration with audio formats",
+    "body": "We're experiencing issues with the API's compatibility with certain audio formats, especially .m4a files. This prevents users from uploading their podcasts seamlessly. Can we get clarification on supported formats and any workarounds?",
+    "created_at": "2024-08-20",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0093_03",
+    "account_id": "acc_0093"
+  },
+  {
+    "subject": "Issue with speech recognition accuracy",
+    "body": "I'm noticing that the speech-to-text API is not accurately transcribing certain technical jargon used in our meetings. This leads to significant misunderstandings in our meeting notes. Can we explore ways to improve the vocabulary set for better accuracy?",
+    "created_at": "2024-08-25",
+    "status": "open",
+    "ticket_id": "tkt_acc_0095_01",
+    "account_id": "acc_0095"
+  },
+  {
+    "subject": "API rate limit questions",
+    "body": "We have reached our API rate limit during peak usage hours. Can you provide guidance on the process for increasing our limits? We'd like to ensure that our users can depend on consistent performance.",
+    "created_at": "2024-09-10",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0095_02",
+    "account_id": "acc_0095"
+  },
+  {
+    "subject": "Integration with calendar services",
+    "body": "I am having trouble integrating the speech-to-text API with our existing calendar services. The API is not capturing the event details correctly from the calendar. Any suggestions on how to troubleshoot this?",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0095_03",
+    "account_id": "acc_0095"
+  },
+  {
+    "subject": "Help with authentication errors",
+    "body": "We've started encountering authentication errors when trying to connect to the speech-to-text API. This is affecting our development timeline, and we need assistance resolving this issue as soon as possible.",
+    "created_at": "2024-11-02",
+    "status": "pending",
+    "ticket_id": "tkt_acc_0095_04",
+    "account_id": "acc_0095"
+  },
+  {
+    "subject": "Feedback on API documentation",
+    "body": "While reviewing the API documentation, I found some sections unclear, particularly around error codes. Providing more examples and potential solutions would greatly help developers. Is there a process for submitting documentation feedback?",
+    "created_at": "2024-09-15",
+    "status": "closed",
+    "ticket_id": "tkt_acc_0095_05",
+    "account_id": "acc_0095"
+  },
+  {
+    "subject": "Issues with speech recognition accuracy",
+    "body": "We've been experiencing inconsistent accuracy with the speech-to-text API when handling various accents. This is affecting the overall user experience of our accessibility app. Could you provide any insights or potential fixes for this issue?",
+    "created_at": "2024-10-05",
+    "status": "open",
+    "ticket_id": "tkt_acc_0098_01",
+    "account_id": "acc_0098"
+  }
+]

@@ -1,0 +1,101 @@
+account_id,company_name,funding_stage,funding_amount_usd,signup_date,tier,monthly_tier_limit,current_mrr_usd,primary_use_case
+acc_0001,"Rodriguez, Figueroa and Sanchez",series_a,8266541,2023-08-06,starter,100000,188,call_center_analytics
+acc_0002,Doyle Ltd,series_c_plus,242673528,2023-09-12,growth,1000000,691,meeting_assistant
+acc_0003,"Mcclain, Miller and Henderson",seed,1426995,2023-07-02,starter,100000,177,podcast_transcription
+acc_0004,Davis and Sons,seed,1068096,2024-01-08,growth,1000000,594,accessibility
+acc_0005,"Guzman, Hoffman and Baldwin",series_a,10579972,2023-09-26,starter,100000,119,meeting_assistant
+acc_0006,"Gardner, Robinson and Lawrence",series_b,50027257,2024-07-09,growth,1000000,1199,other
+acc_0007,Blake and Sons,bootstrapped,0,2024-07-30,starter,100000,185,other
+acc_0008,"Henderson, Ramirez and Lewis",series_c_plus,138198085,2024-04-11,growth,1000000,1203,accessibility
+acc_0009,Garcia-James,bootstrapped,0,2024-08-11,starter,100000,144,call_center_analytics
+acc_0010,Abbott-Munoz,series_a,8245823,2023-08-19,growth,1000000,1549,call_center_analytics
+acc_0011,Blair PLC,seed,2580649,2023-09-02,enterprise,10000000,7037,other
+acc_0012,Dudley Group,series_a,4677029,2024-07-07,growth,1000000,510,call_center_analytics
+acc_0013,Arnold Ltd,series_a,10978210,2023-10-23,enterprise,10000000,12149,voice_agent
+acc_0014,"Mcclure, Ward and Lee",seed,849492,2024-08-19,growth,1000000,1501,podcast_transcription
+acc_0015,Williams and Sons,seed,1913090,2023-09-22,enterprise,10000000,10251,voice_agent
+acc_0016,Galloway-Wyatt,seed,1259875,2024-10-01,starter,100000,136,voice_agent
+acc_0017,James Group,bootstrapped,0,2024-03-22,growth,1000000,1779,meeting_assistant
+acc_0018,"Flowers, Martin and Kelly",bootstrapped,0,2024-05-26,starter,100000,107,call_center_analytics
+acc_0019,"Adams, Zuniga and Wong",series_a,9684385,2023-09-13,growth,1000000,1495,podcast_transcription
+acc_0020,"Reid, Ferguson and Sanchez",series_a,5003675,2024-10-05,starter,100000,67,podcast_transcription
+acc_0021,Gray-Mayo,seed,903179,2024-02-04,growth,1000000,727,podcast_transcription
+acc_0022,"Watts, Robinson and Nguyen",seed,1253780,2023-11-30,starter,100000,121,accessibility
+acc_0023,Perez Inc,bootstrapped,0,2023-06-14,free,10000,0,podcast_transcription
+acc_0024,Morales-Jones,bootstrapped,0,2023-06-10,starter,100000,204,other
+acc_0025,"Walter, Edwards and Rios",seed,1180603,2024-08-28,growth,1000000,1852,meeting_assistant
+acc_0026,Wilkerson-Day,seed,1948048,2024-07-18,free,10000,0,podcast_transcription
+acc_0027,Baker and Sons,series_a,11633555,2024-03-10,growth,1000000,1439,meeting_assistant
+acc_0028,"Hoffman, Baker and Richards",bootstrapped,0,2024-03-18,starter,100000,57,voice_agent
+acc_0029,"Ross, Robinson and Bright",seed,861310,2024-08-25,starter,100000,166,accessibility
+acc_0030,"Snyder, Campos and Callahan",seed,1367174,2023-12-20,enterprise,10000000,2296,call_center_analytics
+acc_0031,Burton Ltd,seed,2456838,2024-09-04,enterprise,10000000,8326,accessibility
+acc_0032,Carlson-Cruz,seed,1683723,2024-06-02,enterprise,10000000,6310,podcast_transcription
+acc_0033,"Ferrell, Rice and Maddox",seed,554030,2023-08-22,starter,100000,228,voice_agent
+acc_0034,Frazier Inc,bootstrapped,0,2023-11-09,starter,100000,105,meeting_assistant
+acc_0035,"Dyer, Potter and Mack",series_a,12223769,2024-08-23,starter,100000,232,other
+acc_0036,Rodriguez-Graham,seed,1427305,2023-08-20,free,10000,0,call_center_analytics
+acc_0037,Smith-Bowen,seed,2882248,2024-05-21,growth,1000000,1271,other
+acc_0038,"Baker, Mason and White",bootstrapped,0,2024-09-24,enterprise,10000000,7656,call_center_analytics
+acc_0039,Harrell LLC,series_b,48687360,2023-07-20,enterprise,10000000,13614,meeting_assistant
+acc_0040,"Romero, Gonzalez and Brooks",series_a,10939935,2024-04-09,free,10000,0,voice_agent
+acc_0041,Ryan PLC,series_a,6149526,2023-06-27,free,10000,0,other
+acc_0042,George Group,series_a,4839411,2024-07-17,free,10000,0,call_center_analytics
+acc_0043,Rodriguez LLC,series_b,23839559,2024-05-11,starter,100000,204,call_center_analytics
+acc_0044,Allen-Allen,bootstrapped,0,2024-10-09,starter,100000,94,other
+acc_0045,"Arroyo, Miller and Tucker",series_a,4461990,2024-02-01,free,10000,0,other
+acc_0046,Spence PLC,bootstrapped,0,2023-09-02,starter,100000,192,accessibility
+acc_0047,Anderson Group,bootstrapped,0,2024-08-14,growth,1000000,1890,meeting_assistant
+acc_0048,"Martin, Rose and Obrien",seed,2157160,2023-06-17,free,10000,0,podcast_transcription
+acc_0049,Hickman Ltd,series_b,16118677,2024-01-07,free,10000,0,meeting_assistant
+acc_0050,"Harris, Collins and Carney",bootstrapped,0,2024-03-17,free,10000,0,voice_agent
+acc_0051,"Brooks, Lam and Hayes",seed,2832558,2023-09-02,enterprise,10000000,8075,voice_agent
+acc_0052,Walker LLC,bootstrapped,0,2023-08-20,free,10000,0,accessibility
+acc_0053,Chapman and Sons,bootstrapped,0,2024-01-20,growth,1000000,1408,other
+acc_0054,"Robinson, Jones and Welch",seed,1435460,2024-03-13,starter,100000,179,other
+acc_0055,Jones Inc,seed,1119598,2024-06-18,growth,1000000,1618,other
+acc_0056,Jones-Young,bootstrapped,0,2023-12-18,free,10000,0,accessibility
+acc_0057,"Washington, Ryan and Cummings",series_a,6724016,2024-08-04,free,10000,0,other
+acc_0058,"Johnston, Sanchez and Kennedy",bootstrapped,0,2024-07-30,free,10000,0,other
+acc_0059,Lee-Davis,bootstrapped,0,2024-09-18,free,10000,0,call_center_analytics
+acc_0060,Gomez-Jenkins,seed,2201786,2024-03-30,free,10000,0,call_center_analytics
+acc_0061,"Brown, Valdez and Lucas",seed,2687512,2023-08-09,free,10000,0,voice_agent
+acc_0062,Powell LLC,bootstrapped,0,2024-06-11,free,10000,0,meeting_assistant
+acc_0063,Wright and Sons,seed,623135,2024-04-09,starter,100000,153,other
+acc_0064,"West, Henderson and Ramirez",bootstrapped,0,2023-07-03,growth,1000000,647,meeting_assistant
+acc_0065,Baxter Inc,series_b,59080680,2023-09-03,growth,1000000,1668,voice_agent
+acc_0066,Morton-Chase,bootstrapped,0,2024-01-17,growth,1000000,1270,voice_agent
+acc_0067,Williams PLC,seed,1462723,2023-11-25,growth,1000000,898,meeting_assistant
+acc_0068,Novak and Sons,seed,1081424,2024-04-12,starter,100000,122,meeting_assistant
+acc_0069,Russell Group,seed,2214358,2024-05-18,free,10000,0,accessibility
+acc_0070,Hancock Inc,seed,1320903,2024-01-17,enterprise,10000000,13031,other
+acc_0071,Gray Group,series_a,9392667,2023-11-29,starter,100000,106,call_center_analytics
+acc_0072,House-Glover,series_a,13328628,2024-08-10,free,10000,0,accessibility
+acc_0073,Henderson-Bernard,bootstrapped,0,2023-10-12,starter,100000,65,voice_agent
+acc_0074,"Stanley, Tucker and Lee",series_c_plus,252212202,2023-12-19,free,10000,0,other
+acc_0075,Novak PLC,series_a,14352324,2024-06-09,growth,1000000,1384,meeting_assistant
+acc_0076,"Daniels, Adkins and Brown",bootstrapped,0,2024-01-02,starter,100000,163,meeting_assistant
+acc_0077,"Woods, Calhoun and Schmidt",seed,2409808,2023-09-05,starter,100000,147,call_center_analytics
+acc_0078,Yu Inc,bootstrapped,0,2024-08-18,enterprise,10000000,3140,voice_agent
+acc_0079,Jones Inc,seed,2435803,2023-11-09,starter,100000,115,accessibility
+acc_0080,"Hensley, Powell and David",bootstrapped,0,2024-04-14,growth,1000000,970,other
+acc_0081,"Sanchez, Wheeler and Harvey",bootstrapped,0,2023-06-27,free,10000,0,voice_agent
+acc_0082,Sandoval-Cunningham,series_a,9635916,2023-06-27,free,10000,0,podcast_transcription
+acc_0083,Donovan-Harris,seed,1440898,2023-06-01,growth,1000000,1575,other
+acc_0084,"Edwards, Baker and Anderson",series_b,43668324,2024-08-15,free,10000,0,other
+acc_0085,"Evans, Stewart and Walton",series_a,3147632,2024-02-28,starter,100000,214,podcast_transcription
+acc_0086,Smith PLC,seed,1254818,2023-07-06,starter,100000,205,call_center_analytics
+acc_0087,"Ferrell, Jones and Lewis",series_c_plus,271008005,2024-05-25,free,10000,0,accessibility
+acc_0088,Anderson-Bailey,series_c_plus,219764336,2023-11-20,free,10000,0,other
+acc_0089,Suarez LLC,series_b,16304977,2024-06-16,free,10000,0,podcast_transcription
+acc_0090,Moore-Bass,bootstrapped,0,2023-07-10,growth,1000000,1483,meeting_assistant
+acc_0091,"Turner, Riggs and Roman",bootstrapped,0,2024-09-20,free,10000,0,accessibility
+acc_0092,"Smith, Montoya and Evans",bootstrapped,0,2023-08-10,growth,1000000,584,voice_agent
+acc_0093,"Garcia, Humphrey and Baker",series_b,49744877,2023-10-26,growth,1000000,1755,podcast_transcription
+acc_0094,Newton and Sons,bootstrapped,0,2024-02-02,free,10000,0,meeting_assistant
+acc_0095,Campbell-Clark,series_a,13213573,2024-07-29,growth,1000000,1600,meeting_assistant
+acc_0096,Harris-Walters,series_a,14762457,2023-12-10,free,10000,0,call_center_analytics
+acc_0097,Wagner-King,series_a,3508206,2023-07-24,free,10000,0,podcast_transcription
+acc_0098,Davis Group,bootstrapped,0,2024-07-15,free,10000,0,accessibility
+acc_0099,Williams-Cook,seed,2460202,2023-11-27,enterprise,10000000,9441,podcast_transcription
+acc_0100,Walsh LLC,seed,1945043,2023-10-26,enterprise,10000000,10440,meeting_assistant

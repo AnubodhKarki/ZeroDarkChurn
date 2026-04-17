@@ -1,0 +1,3516 @@
+[
+  {
+    "timestamp": "2024-09-01T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, I'm trying to implement the new API endpoint for call duration, but I\u2019m running into some CORS issues. Anyone have tips on how to fix this?",
+    "message_id": "msg_acc_0001_01",
+    "account_id": "acc_0001"
+  },
+  {
+    "timestamp": "2024-09-15T09:45:17Z",
+    "author": "Lila",
+    "text": "Just pushed the latest updates to the analytics dashboard! Let me know if you encounter any bugs or if something looks off.",
+    "message_id": "msg_acc_0001_02",
+    "account_id": "acc_0001"
+  },
+  {
+    "timestamp": "2024-10-03T11:30:05Z",
+    "author": "Nate",
+    "text": "Quick heads up: I\u2019m refactoring the data models to improve performance. It might cause some temporary issues with the current calls, so be aware!",
+    "message_id": "msg_acc_0001_03",
+    "account_id": "acc_0001"
+  },
+  {
+    "timestamp": "2024-10-20T16:10:55Z",
+    "author": "Maya",
+    "text": "Does anyone have a moment to review my pull request for the call summary feature? I\u2019d love some feedback before merging.",
+    "message_id": "msg_acc_0001_04",
+    "account_id": "acc_0001"
+  },
+  {
+    "timestamp": "2024-11-05T08:50:12Z",
+    "author": "Ahmed",
+    "text": "I\u2019m noticing some discrepancies in the call stats vs. what\u2019s showing in the dashboard. Can anyone help me track down this data inconsistency?",
+    "message_id": "msg_acc_0001_05",
+    "account_id": "acc_0001"
+  },
+  {
+    "timestamp": "2024-08-25T10:14:32Z",
+    "author": "Alex",
+    "text": "Hey team, quick question: are we using the new API rate limits in our meeting assistant app? I want to make sure we're not hitting any walls with our requests.",
+    "message_id": "msg_acc_0002_01",
+    "account_id": "acc_0002"
+  },
+  {
+    "timestamp": "2024-09-05T14:47:18Z",
+    "author": "Jenna",
+    "text": "Just a heads up, I ran into an issue with the meeting summary generation feature. It seems to be failing with some meeting formats. I'll dig deeper and keep you posted!",
+    "message_id": "msg_acc_0002_02",
+    "account_id": "acc_0002"
+  },
+  {
+    "timestamp": "2024-10-01T09:30:45Z",
+    "author": "Sam",
+    "text": "Just pushed an update to the branch for the UI refresh. It should look cleaner now. Please take a look when you get a chance!",
+    "message_id": "msg_acc_0002_03",
+    "account_id": "acc_0002"
+  },
+  {
+    "timestamp": "2024-11-10T16:22:11Z",
+    "author": "Maya",
+    "text": "Can someone remind me what the criteria are for our testing phase? I want to ensure the meeting assistant meets all requirements before we roll it out.",
+    "message_id": "msg_acc_0002_04",
+    "account_id": "acc_0002"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:17",
+    "author": "Jake",
+    "text": "Hey team, I'm running into an issue where the audio files aren't uploading correctly to the server. Has anyone else experienced this? I was thinking it might be a problem with the file size limit.",
+    "message_id": "msg_acc_0003_01",
+    "account_id": "acc_0003"
+  },
+  {
+    "timestamp": "2024-09-01T09:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, I ran into an issue with the color contrast settings. Can someone take a look at my pull request when you have a chance?",
+    "message_id": "msg_acc_0004_01",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-10-05T11:45:12Z",
+    "author": "Emma",
+    "text": "Quick update: I've completed the initial testing on the screen reader compatibility feature. All looks good so far!",
+    "message_id": "msg_acc_0004_02",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-08-20T14:37:45Z",
+    "author": "Liam",
+    "text": "Does anyone know if we have a style guide for the app? I want to make sure my UI components align with our design standards.",
+    "message_id": "msg_acc_0004_03",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-11-10T16:22:01Z",
+    "author": "Sophia",
+    "text": "Just pushed a small fix for the keyboard navigation issue on the main page. Please check it out and let me know if you spot anything else.",
+    "message_id": "msg_acc_0004_04",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-09-12T10:05:55Z",
+    "author": "Mia",
+    "text": "Hey all, I need some feedback on the new accessibility settings modal. I\u2019ve uploaded a few screenshots in the design channel.",
+    "message_id": "msg_acc_0004_05",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-10-22T15:18:34Z",
+    "author": "Noah",
+    "text": "I'm getting some errors while trying to integrate the new language support feature. Anyone else experiencing this?",
+    "message_id": "msg_acc_0004_06",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-08-30T13:27:48Z",
+    "author": "Oliver",
+    "text": "Looks like we need to update the dependency for the accessibility library. Let's make sure to do that before the next release.",
+    "message_id": "msg_acc_0004_07",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-11-03T17:05:12Z",
+    "author": "Isabella",
+    "text": "Just a heads-up that I'll be working on the offline support feature this week. Should have an update by Friday!",
+    "message_id": "msg_acc_0004_08",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-09-25T12:44:56Z",
+    "author": "Ethan",
+    "text": "I'm having trouble with the voice command functionality\u2014seems like it's not recognizing certain keywords. Anyone have suggestions?",
+    "message_id": "msg_acc_0004_09",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-10-15T09:54:03Z",
+    "author": "Ava",
+    "text": "Reminder for everyone: the demo for our accessibility app is coming up next week. Please make sure your features are ready!",
+    "message_id": "msg_acc_0004_10",
+    "account_id": "acc_0004"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:11Z",
+    "author": "Alex",
+    "text": "Hey team, quick question about the API integration for the meeting assistant. Are we planning to implement OAuth2 for authentication, or should we stick with API keys for now?",
+    "message_id": "msg_acc_0005_01",
+    "account_id": "acc_0005"
+  },
+  {
+    "timestamp": "2024-10-20T11:45:37Z",
+    "author": "Jordan",
+    "text": "Just pushed an update to the meeting scheduling feature! It now checks for conflicts before booking. Let me know if you spot any issues!",
+    "message_id": "msg_acc_0005_02",
+    "account_id": "acc_0005"
+  },
+  {
+    "timestamp": "2024-09-02T10:15:32Z",
+    "author": "Jake",
+    "text": "Hey team, I'm running into an issue with the API response times. Has anyone else experienced slowdowns when querying the user data endpoints?",
+    "message_id": "msg_acc_0006_01",
+    "account_id": "acc_0006"
+  },
+  {
+    "timestamp": "2024-10-12T14:47:05Z",
+    "author": "Sara",
+    "text": "Just pushed the latest updates to the repo! Make sure to pull the latest code before starting your work on the new features.",
+    "message_id": "msg_acc_0006_02",
+    "account_id": "acc_0006"
+  },
+  {
+    "timestamp": "2024-11-01T09:00:21Z",
+    "author": "Ethan",
+    "text": "Honestly, I'm getting pretty frustrated with how often the integration is failing. If things don't improve soon, I might seriously consider switching our stack to VoxCore. Anyone else feeling this way?",
+    "message_id": "msg_acc_0006_03",
+    "account_id": "acc_0006"
+  },
+  {
+    "timestamp": "2024-09-01T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, I'm stuck on that API endpoint we were discussing. Can someone remind me what the expected response format is supposed to be? Thanks!",
+    "message_id": "msg_acc_0007_01",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-09-05T14:45:00Z",
+    "author": "Ava",
+    "text": "Quick update: I've pushed the latest changes for the user authentication module. Please review when you get a chance!",
+    "message_id": "msg_acc_0007_02",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-09-12T09:30:45Z",
+    "author": "Mason",
+    "text": "I ran into a weird issue with the database connection. It seems like it keeps timing out. Has anyone else experienced this?",
+    "message_id": "msg_acc_0007_03",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-09-20T16:00:00Z",
+    "author": "Liam",
+    "text": "Just a heads up, I've implemented the new logging feature. Should help us track down those pesky bugs more easily.",
+    "message_id": "msg_acc_0007_04",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-10-01T11:20:10Z",
+    "author": "Sophia",
+    "text": "Honestly, I'm getting pretty frustrated with our current setup. The documentation is such a mess, I'm seriously considering switching to TranscriBit for our next project.",
+    "message_id": "msg_acc_0007_05",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-10-15T15:05:00Z",
+    "author": "Ethan",
+    "text": "Does anyone know if there's a way to mock the third-party API for our testing? I think it would streamline things a lot.",
+    "message_id": "msg_acc_0007_06",
+    "account_id": "acc_0007"
+  },
+  {
+    "timestamp": "2024-08-18T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the accessibility standards we\u2019re following. Are we prioritizing WCAG 2.1 AA, or is there something else we should be aiming for?",
+    "message_id": "msg_acc_0008_01",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-08-22T14:45:12Z",
+    "author": "Sara",
+    "text": "Just pushed a commit that implements color contrast adjustments. Please check it out and let me know if there are any issues with the new styles!",
+    "message_id": "msg_acc_0008_02",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-09-04T09:30:45Z",
+    "author": "Daniel",
+    "text": "I'm running into an issue with the screen reader functionality. It seems like the app isn't announcing some elements correctly. Has anyone else experienced this?",
+    "message_id": "msg_acc_0008_03",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-09-15T13:22:57Z",
+    "author": "Emma",
+    "text": "Just wanted to give a heads up that I\u2019m testing the app on various devices today. I\u2019ll update you all if I find anything concerning on mobile!",
+    "message_id": "msg_acc_0008_04",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-10-05T16:10:02Z",
+    "author": "Michael",
+    "text": "I\u2019m honestly getting really frustrated with how our current speech recognition setup is performing. I\u2019m seriously considering switching to SpeechLayer if we can\u2019t resolve these latency issues soon.",
+    "message_id": "msg_acc_0008_05",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-11-01T11:05:17Z",
+    "author": "Laura",
+    "text": "Hey all, I\u2019ve updated the documentation to include the latest API endpoints. Check it out when you get a chance and let me know if anything\u2019s missing!",
+    "message_id": "msg_acc_0008_06",
+    "account_id": "acc_0008"
+  },
+  {
+    "timestamp": "2024-08-25T14:32:10Z",
+    "author": "Lucas",
+    "text": "Hey team, quick question about the new API endpoints. Are we expecting any changes to the data structure in the next release, or should I proceed with the current schema?",
+    "message_id": "msg_acc_0009_01",
+    "account_id": "acc_0009"
+  },
+  {
+    "timestamp": "2024-09-15T10:45:22Z",
+    "author": "Maya",
+    "text": "Just a heads up, I'm running into some issues with the data processing module. It seems to be hanging on large datasets. Anyone else experiencing this?",
+    "message_id": "msg_acc_0009_02",
+    "account_id": "acc_0009"
+  },
+  {
+    "timestamp": "2024-10-05T16:27:55Z",
+    "author": "Ravi",
+    "text": "Update: I've implemented the new tracking features for call analytics. Should be ready for testing by tomorrow! Let me know if anyone has time to look it over.",
+    "message_id": "msg_acc_0009_03",
+    "account_id": "acc_0009"
+  },
+  {
+    "timestamp": "2024-11-02T12:18:45Z",
+    "author": "Sophie",
+    "text": "I'm getting really frustrated with the audio quality issues we're facing. I'm seriously considering switching to AudioNest if this doesn't get resolved soon. Anyone have success with them?",
+    "message_id": "msg_acc_0009_04",
+    "account_id": "acc_0009"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45",
+    "author": "Jake",
+    "text": "Hey team, just a heads up\u2014I\u2019m running into an issue with the API response times. Anyone else experiencing slowdowns when pulling call logs?",
+    "message_id": "msg_acc_0010_01",
+    "account_id": "acc_0010"
+  },
+  {
+    "timestamp": "2024-10-02T11:15:30",
+    "author": "Maya",
+    "text": "Quick update: I finished implementing the new dashboard features for the call center analytics app. Should be ready for review by end of the week!",
+    "message_id": "msg_acc_0010_02",
+    "account_id": "acc_0010"
+  },
+  {
+    "timestamp": "2024-10-20T16:42:10",
+    "author": "Liam",
+    "text": "Honestly, I\u2019m getting really frustrated with the current setup. If we can\u2019t resolve these bugs soon, I might seriously consider switching to VoxCore for our call analytics.",
+    "message_id": "msg_acc_0010_03",
+    "account_id": "acc_0010"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, quick question: does anyone know if we have a set deadline for the new API integration? I'm trying to plan my tasks accordingly.",
+    "message_id": "msg_acc_0011_01",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:10Z",
+    "author": "Maya",
+    "text": "Just a heads-up, I've run into a bug with the data parsing module. It looks like it's failing on certain edge cases. I'll need some help troubleshooting this.",
+    "message_id": "msg_acc_0011_02",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-09-13T09:30:45Z",
+    "author": "Ethan",
+    "text": "I pushed some updates to the repo this morning. The new feature for user authentication should be working now. Let me know if you run into any issues!",
+    "message_id": "msg_acc_0011_03",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-09-25T13:45:55Z",
+    "author": "Sara",
+    "text": "Quick update: I've completed the frontend design mockups for the new feature. You can check them out in the Figma link I shared earlier!",
+    "message_id": "msg_acc_0011_04",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-10-03T11:05:20Z",
+    "author": "Liam",
+    "text": "I'm really getting frustrated with the current API limits we're running into. I\u2019m honestly considering switching to TranscriBit if this keeps up. Anyone else feeling the same?",
+    "message_id": "msg_acc_0011_05",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-10-15T15:18:00Z",
+    "author": "Olivia",
+    "text": "Hey everyone, reminder that our code review session is tomorrow. Please make sure to have your PRs ready for feedback!",
+    "message_id": "msg_acc_0011_06",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-11-01T08:40:35Z",
+    "author": "Noah",
+    "text": "Just finished implementing the feedback from the last review. Everything is in the develop branch now. Let\u2019s aim for a demo next week if everyone\u2019s on board!",
+    "message_id": "msg_acc_0011_07",
+    "account_id": "acc_0011"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:35Z",
+    "author": "Liam",
+    "text": "Hey team, I'm running into some weird API rate limit issues with our current setup. Has anyone else experienced this? I\u2019m thinking we might need to rethink our approach if this keeps up.",
+    "message_id": "msg_acc_0012_01",
+    "account_id": "acc_0012"
+  },
+  {
+    "timestamp": "2024-10-12T09:48:12Z",
+    "author": "Sara",
+    "text": "Ugh, I\u2019m really frustrated with the transcription accuracy we\u2019re getting. I\u2019m seriously considering switching to SpeechLayer if we can\u2019t resolve this soon. Anyone have insights or experience with them?",
+    "message_id": "msg_acc_0012_02",
+    "account_id": "acc_0012"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:47Z",
+    "author": "Jenna",
+    "text": "Quick update: I pushed the latest build to the staging environment. Let me know if you encounter any issues!",
+    "message_id": "msg_acc_0013_01",
+    "account_id": "acc_0013"
+  },
+  {
+    "timestamp": "2024-09-12T09:17:05Z",
+    "author": "Aaron",
+    "text": "Hey team, does anyone have insights on how to optimize our voice recognition API response times? I'm seeing some lag.",
+    "message_id": "msg_acc_0013_02",
+    "account_id": "acc_0013"
+  },
+  {
+    "timestamp": "2024-10-01T11:45:12Z",
+    "author": "Mike",
+    "text": "Ugh, I'm really frustrated with our current voice processing framework. Seriously considering switching to AudioNest if we can't resolve these bugs soon.",
+    "message_id": "msg_acc_0013_03",
+    "account_id": "acc_0013"
+  },
+  {
+    "timestamp": "2024-10-15T16:30:23Z",
+    "author": "Lisa",
+    "text": "Can anyone confirm if the speech-to-text feature is currently working? I keep getting errors in the logs and can't pinpoint the issue.",
+    "message_id": "msg_acc_0013_04",
+    "account_id": "acc_0013"
+  },
+  {
+    "timestamp": "2024-11-02T08:04:58Z",
+    "author": "Ben",
+    "text": "Just merged the new features for the voice agent! Check out the documentation I updated for any questions on implementation.",
+    "message_id": "msg_acc_0013_05",
+    "account_id": "acc_0013"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:47Z",
+    "author": "Liam",
+    "text": "Hey team, I\u2019m still struggling with the API response times for our transcription app. Has anyone else experienced slowdowns? I\u2019m seriously considering switching to VoxCore if we can\u2019t resolve this soon.",
+    "message_id": "msg_acc_0014_01",
+    "account_id": "acc_0014"
+  },
+  {
+    "timestamp": "2024-10-12T09:15:23Z",
+    "author": "Sofia",
+    "text": "Quick update: I pushed the latest changes to the transcription algorithm. It should improve accuracy a bit. Let me know if you spot any issues!",
+    "message_id": "msg_acc_0014_02",
+    "account_id": "acc_0014"
+  },
+  {
+    "timestamp": "2024-09-03T14:28:17",
+    "author": "Jenna",
+    "text": "Hey team, has anyone else run into issues with the voice recognition accuracy? It's driving me nuts\u2014I'm seriously considering switching to TranscriBit if we can't get this sorted out soon.",
+    "message_id": "msg_acc_0015_01",
+    "account_id": "acc_0015"
+  },
+  {
+    "timestamp": "2024-10-12T09:45:02",
+    "author": "Liam",
+    "text": "Quick update: I've implemented the new API endpoints for the voice agent app. Should be ready for testing later today! Let me know if you want to pair up.",
+    "message_id": "msg_acc_0015_02",
+    "account_id": "acc_0015"
+  },
+  {
+    "timestamp": "2024-09-10T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, just a heads up that usage is down this month. I think a lot of us have been traveling and it's a slower business period anyway. No worries, we'll bounce back soon!",
+    "message_id": "msg_acc_0016_01",
+    "account_id": "acc_0016"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, quick question! Are we still on track for the beta release next week, or do we need to adjust our timelines?",
+    "message_id": "msg_acc_0017_01",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:05Z",
+    "author": "Emily",
+    "text": "Just pushed some updates to the API docs. Let me know if you spot any issues or if something needs clarification!",
+    "message_id": "msg_acc_0017_02",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-09-15T09:45:12Z",
+    "author": "Tom",
+    "text": "Heads up, I found a bug where the meeting notes don\u2019t save properly when the user switches tabs. I\u2019ll look into it ASAP.",
+    "message_id": "msg_acc_0017_03",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-09-25T16:30:45Z",
+    "author": "Maya",
+    "text": "Looks like usage is down this month! I think it's just a slow period since everyone's been traveling lately. No worries, we'll bounce back!",
+    "message_id": "msg_acc_0017_04",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-10-10T11:05:58Z",
+    "author": "Liam",
+    "text": "I finished the integration with the calendar API. Everything seems to be working smoothly on my end. Let\u2019s test it out together soon!",
+    "message_id": "msg_acc_0017_05",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-11-03T13:17:20Z",
+    "author": "Sophie",
+    "text": "Can someone remind me what our plan is for the user feedback session? I want to make sure I\u2019m prepared for any questions.",
+    "message_id": "msg_acc_0017_06",
+    "account_id": "acc_0017"
+  },
+  {
+    "timestamp": "2024-09-10T14:23:47Z",
+    "author": "Jake",
+    "text": "Hey team, I was going through the user feedback and noticed a few requests for more detailed call analytics. Should we schedule a quick brainstorming session to discuss potential features?",
+    "message_id": "msg_acc_0018_01",
+    "account_id": "acc_0018"
+  },
+  {
+    "timestamp": "2024-10-02T09:15:30Z",
+    "author": "Liam",
+    "text": "Quick update: I saw a spike in errors over the weekend, but I traced it back to a DNS misconfiguration on our end. It's all fixed now, so everything should be back to normal.",
+    "message_id": "msg_acc_0018_02",
+    "account_id": "acc_0018"
+  },
+  {
+    "timestamp": "2024-11-03T16:45:12Z",
+    "author": "Ava",
+    "text": "Just wanted to remind everyone that the demo for the call center analytics app is on Thursday at 2 PM. Make sure to check your parts and let me know if you need any help!",
+    "message_id": "msg_acc_0018_03",
+    "account_id": "acc_0018"
+  },
+  {
+    "timestamp": "2024-09-05T14:32:10Z",
+    "author": "Liam",
+    "text": "Hey team, is anyone else having trouble with the audio upload feature? I keep getting a 500 error when trying to submit files.",
+    "message_id": "msg_acc_0019_01",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-10-01T09:15:45Z",
+    "author": "Maya",
+    "text": "Just pushed an update to the transcription logic! It should improve accuracy on longer episodes. Let me know if you spot any issues!",
+    "message_id": "msg_acc_0019_02",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-08-20T11:05:30Z",
+    "author": "Ethan",
+    "text": "Quick heads up: I noticed a spike in errors the other day, but it turned out to be a DNS misconfiguration on our end. All fixed now, so we should be back to normal!",
+    "message_id": "msg_acc_0019_03",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-09-15T16:22:18Z",
+    "author": "Ava",
+    "text": "Can someone remind me what our plan is for the user feedback feature? I want to make sure I'm aligned before I dive into coding it.",
+    "message_id": "msg_acc_0019_04",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-10-10T12:45:53Z",
+    "author": "Noah",
+    "text": "Just a quick update: I've finished the initial UI for the settings page. Hoping to get some feedback before I start on the integration.",
+    "message_id": "msg_acc_0019_05",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-11-02T08:50:12Z",
+    "author": "Olivia",
+    "text": "Does anyone know if we have a preferred library for handling timestamps in our transcripts? I want to make sure we're consistent.",
+    "message_id": "msg_acc_0019_06",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-08-25T17:30:47Z",
+    "author": "Sophia",
+    "text": "FYI, I\u2019m working on optimizing the search functionality today. Should have some results by the end of the day!",
+    "message_id": "msg_acc_0019_07",
+    "account_id": "acc_0019"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:42",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m having trouble with the audio file upload feature. It seems to hang on larger files. Anyone else facing this?",
+    "message_id": "msg_acc_0020_01",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-08-25T14:48:27",
+    "author": "Maya",
+    "text": "Just pushed a fix for the timestamping issue in the transcript. It should be accurate now, give it a whirl!",
+    "message_id": "msg_acc_0020_02",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-09-01T09:32:15",
+    "author": "Liam",
+    "text": "Has anyone tested the new UI changes on mobile? I\u2019m getting mixed results on my device.",
+    "message_id": "msg_acc_0020_03",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-09-10T11:22:09",
+    "author": "Sophia",
+    "text": "Quick update: I looked at SpeechLayer for audio processing, but I think sticking with DevAPICo is the right call for our needs.",
+    "message_id": "msg_acc_0020_04",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-09-12T16:01:54",
+    "author": "Noah",
+    "text": "I\u2019ve added some basic error handling for the API calls. Should make debugging a bit easier moving forward.",
+    "message_id": "msg_acc_0020_05",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-09-20T13:47:36",
+    "author": "Olivia",
+    "text": "I\u2019m working on the user feedback feature today. Let me know if you have any suggestions before I finalize it!",
+    "message_id": "msg_acc_0020_06",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-09-25T15:31:12",
+    "author": "Ethan",
+    "text": "Heads up, I found a bug where the transcripts don\u2019t save for certain audio formats. Investigating now.",
+    "message_id": "msg_acc_0020_07",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-10-05T17:18:23",
+    "author": "Ava",
+    "text": "Just finished integrating the new language support. It should work for Spanish and French now. Testing it out!",
+    "message_id": "msg_acc_0020_08",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-10-12T08:45:00",
+    "author": "Oliver",
+    "text": "Can someone remind me where we left off with the database schema updates? I want to make sure I\u2019m aligned.",
+    "message_id": "msg_acc_0020_09",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-10-15T11:56:48",
+    "author": "Isabella",
+    "text": "I\u2019m planning to do a code review tomorrow. Please make sure your branches are up to date. Thanks!",
+    "message_id": "msg_acc_0020_10",
+    "account_id": "acc_0020"
+  },
+  {
+    "timestamp": "2024-08-20T14:32:11Z",
+    "author": "Lucas",
+    "text": "Hey team, quick question about the new color contrast feature. Are we using the WCAG guidelines, or did we decide to go with something custom?",
+    "message_id": "msg_acc_0022_01",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-09-05T09:45:23Z",
+    "author": "Maya",
+    "text": "Just pushed the latest changes for the screen reader compatibility. Let me know if you find any issues when testing!",
+    "message_id": "msg_acc_0022_02",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-09-12T11:10:45Z",
+    "author": "Ethan",
+    "text": "I've been getting some weird errors when running the accessibility tests. Has anyone else seen this? I might need help debugging.",
+    "message_id": "msg_acc_0022_03",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-10-01T15:20:30Z",
+    "author": "Zara",
+    "text": "I just finished implementing the keyboard navigation features! \ud83c\udf89 Would love some feedback on the user flow when you get a chance.",
+    "message_id": "msg_acc_0022_04",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-10-15T08:55:50Z",
+    "author": "Sam",
+    "text": "Reminder: our demo for the stakeholders is this Friday! Let's make sure all the critical features are working smoothly by Thursday.",
+    "message_id": "msg_acc_0022_05",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-11-03T17:05:12Z",
+    "author": "Nina",
+    "text": "Hey everyone, I\u2019m working on the final touches for the documentation. If anyone has specific points they want highlighted, let me know!",
+    "message_id": "msg_acc_0022_06",
+    "account_id": "acc_0022"
+  },
+  {
+    "timestamp": "2024-08-20T14:35:22Z",
+    "author": "Jake",
+    "text": "Hey team, quick question. Are we using the latest version of the transcription API? I found some discrepancies in the outputs.",
+    "message_id": "msg_acc_0023_01",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-09-05T09:15:45Z",
+    "author": "Maya",
+    "text": "Just pushed an update to the transcription model! It should improve accuracy by about 10%. Let me know if you notice any issues!",
+    "message_id": "msg_acc_0023_02",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-09-12T11:47:18Z",
+    "author": "Raj",
+    "text": "I\u2019m running into a bug where the app crashes on longer audio files. Anyone else experiencing this?",
+    "message_id": "msg_acc_0023_03",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-09-25T16:22:31Z",
+    "author": "Nina",
+    "text": "I added a new feature that allows users to highlight sections of the transcript. It\u2019s in the latest build\u2014give it a try!",
+    "message_id": "msg_acc_0023_04",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-10-01T10:05:12Z",
+    "author": "Tom",
+    "text": "Reminder: we have our sprint review on Friday. Let\u2019s make sure the demo for the transcription app is polished!",
+    "message_id": "msg_acc_0023_05",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-10-10T13:38:56Z",
+    "author": "Sofia",
+    "text": "Anyone available for a quick pair programming session? I\u2019m stuck on optimizing the search function in the transcripts.",
+    "message_id": "msg_acc_0023_06",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-10-15T15:55:20Z",
+    "author": "Leo",
+    "text": "I\u2019ve fixed the issue with the timestamp formatting in the exported transcripts. Should be good to go now!",
+    "message_id": "msg_acc_0023_07",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-11-03T08:30:45Z",
+    "author": "Ella",
+    "text": "Hey everyone, I\u2019m working on the documentation for the API integration. Any specific areas you think I should focus on?",
+    "message_id": "msg_acc_0023_08",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-11-07T12:48:33Z",
+    "author": "Sam",
+    "text": "I'm testing the new UI changes today. I\u2019ll report back with any feedback or issues I find.",
+    "message_id": "msg_acc_0023_09",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-11-12T17:02:19Z",
+    "author": "Liam",
+    "text": "Just a heads up, the latest deployment has some updated dependencies. Make sure to run `npm install` before testing.",
+    "message_id": "msg_acc_0023_10",
+    "account_id": "acc_0023"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45Z",
+    "author": "Jason",
+    "text": "Hey team, I'm running into an issue with the API authentication on the new app. It keeps throwing a 401 error even though I double-checked the keys. Anyone else facing this?",
+    "message_id": "msg_acc_0024_01",
+    "account_id": "acc_0024"
+  },
+  {
+    "timestamp": "2024-08-20T14:35:17Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the API integration. Are we planning to use OAuth 2.0 for authentication, or is there a different method in mind?",
+    "message_id": "msg_acc_0025_01",
+    "account_id": "acc_0025"
+  },
+  {
+    "timestamp": "2024-09-12T09:12:45Z",
+    "author": "Maya",
+    "text": "Just pushed an update to the meeting notes feature! Now it pulls in the agenda automatically from the calendar. Let me know if anyone finds any issues!",
+    "message_id": "msg_acc_0025_02",
+    "account_id": "acc_0025"
+  },
+  {
+    "timestamp": "2024-10-01T11:50:32Z",
+    "author": "Liam",
+    "text": "Heads up, I ran into a bug with the notification system. It seems like reminders aren't being sent out on time. I'll investigate further and keep you posted.",
+    "message_id": "msg_acc_0025_03",
+    "account_id": "acc_0025"
+  },
+  {
+    "timestamp": "2024-11-05T15:27:09Z",
+    "author": "Sofia",
+    "text": "Just a quick update: I\u2019ve finished the UI mockups for the new dashboard. I'll share them in the design channel for feedback soon!",
+    "message_id": "msg_acc_0025_04",
+    "account_id": "acc_0025"
+  },
+  {
+    "timestamp": "2024-09-10T14:32:17Z",
+    "author": "Lucas",
+    "text": "Hey team, I\u2019m running into an issue with the API response times during our testing. Anyone else experiencing delays, or is it just me? I might need to review the endpoint code.",
+    "message_id": "msg_acc_0027_01",
+    "account_id": "acc_0027"
+  },
+  {
+    "timestamp": "2024-09-01T10:15:23",
+    "author": "Alex",
+    "text": "Hey team, I just pushed the new intent recognition model. Can someone take a look at the integration tests when they get a chance?",
+    "message_id": "msg_acc_0028_01",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-09-05T14:47:56",
+    "author": "Jordan",
+    "text": "Quick update: the API response times are back to normal after that server issue last night. Thanks for your patience!",
+    "message_id": "msg_acc_0028_02",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-09-10T08:22:11",
+    "author": "Sam",
+    "text": "Does anyone know why the voice agent keeps failing on certain accents? I think it might be a training data issue.",
+    "message_id": "msg_acc_0028_03",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-09-15T11:05:40",
+    "author": "Taylor",
+    "text": "Just a heads-up, I\u2019ll be working on the voice command feedback loop today. Might take a bit, so don\u2019t hesitate to ping me if you need anything.",
+    "message_id": "msg_acc_0028_04",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-09-20T16:30:02",
+    "author": "Jamie",
+    "text": "Found a bug in the user authentication flow. Users are getting 500 errors when logging in. I'll start debugging this now.",
+    "message_id": "msg_acc_0028_05",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-10-01T09:45:12",
+    "author": "Casey",
+    "text": "Can someone review my pull request for the new logging functionality? I want to make sure we\u2019re capturing all relevant data.",
+    "message_id": "msg_acc_0028_06",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-10-10T13:55:33",
+    "author": "Robin",
+    "text": "I just deployed the updated version of the voice agent. Please test it out and let me know if you encounter any issues.",
+    "message_id": "msg_acc_0028_07",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-10-15T17:20:05",
+    "author": "Riley",
+    "text": "Who\u2019s free to discuss the new feature roadmap? I\u2019d like to align on priorities for the next release.",
+    "message_id": "msg_acc_0028_08",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-10-25T12:30:47",
+    "author": "Morgan",
+    "text": "I'm seeing some inconsistencies in the speech recognition accuracy. Let's gather some stats from the last week to analyze.",
+    "message_id": "msg_acc_0028_09",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-11-05T15:10:15",
+    "author": "Drew",
+    "text": "I\u2019ll be out of the office tomorrow for a conference. If anything urgent comes up, feel free to message me, but I might be slow to respond.",
+    "message_id": "msg_acc_0028_10",
+    "account_id": "acc_0028"
+  },
+  {
+    "timestamp": "2024-09-01T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the color contrast ratio requirements. Are we following WCAG 2.1 AA standards for our app, or should we aim for AAA? Just want to make sure we're aligned.",
+    "message_id": "msg_acc_0029_01",
+    "account_id": "acc_0029"
+  },
+  {
+    "timestamp": "2024-10-10T09:15:30Z",
+    "author": "Maya",
+    "text": "Just pushed the latest updates for the screen reader compatibility feature! \ud83c\udf89 Let me know if you encounter any issues. Testing will be key, so I appreciate any feedback.",
+    "message_id": "msg_acc_0029_02",
+    "account_id": "acc_0029"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the call center analytics endpoint today, anyone else?",
+    "message_id": "msg_acc_0030_01",
+    "account_id": "acc_0030"
+  },
+  {
+    "timestamp": "2024-08-23T09:15:42Z",
+    "author": "Jake",
+    "text": "Hey team, I'm working on the color contrast feature today. Can anyone remind me what the minimum ratio is we need to meet for compliance?",
+    "message_id": "msg_acc_0031_01",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-09-02T14:05:12Z",
+    "author": "Sara",
+    "text": "Quick update: I pushed the latest changes to the voiceover functionality. Please check it out and let me know if you hit any issues!",
+    "message_id": "msg_acc_0031_02",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-09-12T11:45:30Z",
+    "author": "Liam",
+    "text": "I'm seeing some weird behavior with the keyboard navigation in the app. It seems to skip some elements. Anyone else run into this?",
+    "message_id": "msg_acc_0031_03",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-09-20T17:32:01Z",
+    "author": "Maya",
+    "text": "Just finished the initial sketches for the new onboarding flow! Let me know if anyone wants to take a look before I start coding.",
+    "message_id": "msg_acc_0031_04",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-10-01T08:22:18Z",
+    "author": "Ethan",
+    "text": "Hey all, I've documented the API changes we discussed in yesterday's meeting. Check the wiki for details!",
+    "message_id": "msg_acc_0031_05",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-10-10T13:30:55Z",
+    "author": "Olivia",
+    "text": "Reminder: our demo for the stakeholders is in two weeks. Let's make sure all features are polished and ready!",
+    "message_id": "msg_acc_0031_06",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-10-18T15:40:12Z",
+    "author": "Aiden",
+    "text": "I ran some tests on the text-to-speech feature, and it sounds way smoother now! Kudos to everyone involved!",
+    "message_id": "msg_acc_0031_07",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-11-03T10:05:45Z",
+    "author": "Zoe",
+    "text": "Could someone help me troubleshoot the screen reader compatibility issue? It seems to be ignoring some ARIA labels.",
+    "message_id": "msg_acc_0031_08",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-11-10T16:20:30Z",
+    "author": "Noah",
+    "text": "I\u2019m merging the final updates to the accessibility metrics dashboard today. Should be live by EOD!",
+    "message_id": "msg_acc_0031_09",
+    "account_id": "acc_0031"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m running into a weird issue where the audio file doesn\u2019t seem to be recognized for transcription. Anyone else encountered this before?",
+    "message_id": "msg_acc_0032_01",
+    "account_id": "acc_0032"
+  },
+  {
+    "timestamp": "2024-10-28T09:15:12Z",
+    "author": "Sara",
+    "text": "Quick update: I've implemented the new speech recognition model, and initial tests look promising! Let\u2019s sync up later to discuss next steps.",
+    "message_id": "msg_acc_0032_02",
+    "account_id": "acc_0032"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:47Z",
+    "author": "Jamie",
+    "text": "Hey team, I'm running into an issue with the voice recognition module. It keeps throwing an error when I try to handle multiple intents. Has anyone faced this before?",
+    "message_id": "msg_acc_0033_01",
+    "account_id": "acc_0033"
+  },
+  {
+    "timestamp": "2024-10-12T09:35:12Z",
+    "author": "Alex",
+    "text": "Quick update: I've just finished implementing the fallback mechanism for unrecognized commands. Should make the user experience a lot smoother. Let me know if you want to review it together!",
+    "message_id": "msg_acc_0033_02",
+    "account_id": "acc_0033"
+  },
+  {
+    "timestamp": "2024-11-01T16:45:56Z",
+    "author": "Riley",
+    "text": "Question for the group: What's the best way to handle the user's speech speed? I've noticed some users talk really fast and it messes with our parsing logic. Any thoughts?",
+    "message_id": "msg_acc_0033_03",
+    "account_id": "acc_0033"
+  },
+  {
+    "timestamp": "2024-08-25T14:32:10Z",
+    "author": "Jade",
+    "text": "Hey team, quick question about the meeting notes feature. Should we allow users to add tags to their notes or keep it simple for now?",
+    "message_id": "msg_acc_0034_01",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-09-01T09:15:45Z",
+    "author": "Leo",
+    "text": "Just pushed the latest updates for the scheduling algorithm. Let me know if you run into any issues while testing!",
+    "message_id": "msg_acc_0034_02",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-09-05T16:47:22Z",
+    "author": "Maya",
+    "text": "Running into a bug where the app crashes when trying to save a new meeting. Anyone else facing this? I\u2019ll dig into it more.",
+    "message_id": "msg_acc_0034_03",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-09-12T11:24:13Z",
+    "author": "Ravi",
+    "text": "Just a heads up, I\u2019ll be out for the rest of the week. If anything urgent comes up, ping me here and I\u2019ll try to respond when I can.",
+    "message_id": "msg_acc_0034_04",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-09-18T13:08:35Z",
+    "author": "Sophie",
+    "text": "Can someone remind me where we left off with the UI mockups for the dashboard? I want to make sure I'm aligned with the latest changes.",
+    "message_id": "msg_acc_0034_05",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-10-02T08:50:12Z",
+    "author": "Dylan",
+    "text": "Just merged the pull request for the team chat integration! \ud83c\udf89 If anyone has time to review, that would be great!",
+    "message_id": "msg_acc_0034_06",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-10-10T10:05:55Z",
+    "author": "Nina",
+    "text": "I finished implementing the notification system for reminders. Should I schedule a quick demo for everyone to see how it works?",
+    "message_id": "msg_acc_0034_07",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-10-20T14:59:34Z",
+    "author": "Omar",
+    "text": "I\u2019ll be working on enhancing the performance of the app over the next few days. If you have any suggestions, let me know!",
+    "message_id": "msg_acc_0034_08",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-11-01T17:23:41Z",
+    "author": "Clara",
+    "text": "Heads up! We have a meeting with the product team on Monday morning. Let\u2019s come prepared with our latest updates on the app!",
+    "message_id": "msg_acc_0034_09",
+    "account_id": "acc_0034"
+  },
+  {
+    "timestamp": "2024-08-18T14:32:10Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m stuck on this API integration. Can someone help me troubleshoot the authentication error I keep getting?",
+    "message_id": "msg_acc_0035_01",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-09-05T09:17:45Z",
+    "author": "Maya",
+    "text": "Just pushed a new feature regarding user notifications. Please check it out and provide feedback when you can!",
+    "message_id": "msg_acc_0035_02",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-09-10T11:45:00Z",
+    "author": "Sam",
+    "text": "Heads up! I found a bug in the user profile update function. It\u2019s throwing a 500 error; I\u2019ll dive into it after lunch.",
+    "message_id": "msg_acc_0035_03",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-09-15T16:20:30Z",
+    "author": "Liam",
+    "text": "Quick question: what\u2019s the naming convention we\u2019re using for endpoints in the new app? I want to make sure I\u2019m consistent.",
+    "message_id": "msg_acc_0035_04",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-09-20T08:55:12Z",
+    "author": "Sophie",
+    "text": "I\u2019ve finished the initial draft of the API documentation. Would love some eyes on it to make sure I didn\u2019t miss anything important!",
+    "message_id": "msg_acc_0035_05",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-10-05T13:05:22Z",
+    "author": "Ethan",
+    "text": "Just wanted to share that the load testing went well yesterday. We\u2019re seeing a good response time under stress. \ud83c\udf89",
+    "message_id": "msg_acc_0035_06",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-10-12T10:12:00Z",
+    "author": "Olivia",
+    "text": "I\u2019m working on the database migration right now, but I might need some help with the schema changes. Can anyone hop on a quick call?",
+    "message_id": "msg_acc_0035_07",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-11-03T15:40:50Z",
+    "author": "Noah",
+    "text": "Reminder: we have a demo scheduled for next week. Let\u2019s make sure we\u2019re all ready to showcase the new features!",
+    "message_id": "msg_acc_0035_08",
+    "account_id": "acc_0035"
+  },
+  {
+    "timestamp": "2024-08-25T14:32:17Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m trying to figure out the best way to integrate the real-time call data into our analytics dashboard. Any thoughts on libraries we should use?",
+    "message_id": "msg_acc_0036_01",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-09-03T09:45:02Z",
+    "author": "Maya",
+    "text": "I just pushed an update to the call metrics API! Let me know if you run into any issues with the new endpoints.",
+    "message_id": "msg_acc_0036_02",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-09-12T16:20:55Z",
+    "author": "Liam",
+    "text": "Quick heads up: I found a bug in the call duration calculations. I\u2019ll be working on a fix and will provide updates shortly.",
+    "message_id": "msg_acc_0036_03",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-10-01T11:12:30Z",
+    "author": "Ava",
+    "text": "Does anyone have the latest testing data for the queue performance metrics? I need it for the new feature I'm implementing.",
+    "message_id": "msg_acc_0036_04",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-10-15T15:47:16Z",
+    "author": "Ethan",
+    "text": "Just a quick update: the user feedback survey is ready! I\u2019ll be sending it out by the end of the week.",
+    "message_id": "msg_acc_0036_05",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-11-05T13:25:40Z",
+    "author": "Sophia",
+    "text": "Can someone clarify the requirements for the call volume reports? I want to make sure I\u2019m on the right track before I start coding.",
+    "message_id": "msg_acc_0036_06",
+    "account_id": "acc_0036"
+  },
+  {
+    "timestamp": "2024-08-20T15:45:32Z",
+    "author": "Jake",
+    "text": "Hey team, just a heads-up that I pushed some updates to the API today. Can someone confirm if the new endpoints are responding as expected?",
+    "message_id": "msg_acc_0037_01",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-08-25T09:22:18Z",
+    "author": "Lily",
+    "text": "Quick question: what's the preferred format for request payloads in the new app? I want to make sure I'm aligned with the specs.",
+    "message_id": "msg_acc_0037_02",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-09-02T11:15:47Z",
+    "author": "Arjun",
+    "text": "I ran into a bug while testing the login flow. It seems like the session tokens aren't being stored correctly. Anyone else seeing this?",
+    "message_id": "msg_acc_0037_03",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-09-10T14:50:09Z",
+    "author": "Sophie",
+    "text": "Just finished implementing the new authentication feature! \ud83c\udf89 It should make things a lot smoother for users.",
+    "message_id": "msg_acc_0037_04",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-09-15T18:05:54Z",
+    "author": "Mike",
+    "text": "Is anyone working on the documentation for the API endpoints? I think we should get that wrapped up before our next demo.",
+    "message_id": "msg_acc_0037_05",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-09-22T07:30:12Z",
+    "author": "Emily",
+    "text": "Can someone take a look at the performance of the data fetching? It feels a bit sluggish on my end and I want to see if it's just me.",
+    "message_id": "msg_acc_0037_06",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-10-05T12:44:03Z",
+    "author": "Tom",
+    "text": "I added unit tests for the new features. Everything looks good on my end, but let me know if you spot any issues!",
+    "message_id": "msg_acc_0037_07",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-10-12T16:55:21Z",
+    "author": "Nina",
+    "text": "Reminder: we have a code review scheduled for tomorrow at 3 PM. Please make sure your branches are ready!",
+    "message_id": "msg_acc_0037_08",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-11-01T10:30:00Z",
+    "author": "Chris",
+    "text": "Just got confirmation from QA that the latest build is stable. We're green to push it to production later this week!",
+    "message_id": "msg_acc_0037_09",
+    "account_id": "acc_0037"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:18Z",
+    "author": "Liam",
+    "text": "Hey team, quick question about the call routing feature\u2014we need to decide if we're going to implement live updates or a batch process for the analytics. Any thoughts?",
+    "message_id": "msg_acc_0038_01",
+    "account_id": "acc_0038"
+  },
+  {
+    "timestamp": "2024-10-12T09:45:00Z",
+    "author": "Mia",
+    "text": "Just a heads up, I fixed the bug that was causing the dashboard to crash when loading call stats. It should be good to go now!",
+    "message_id": "msg_acc_0038_02",
+    "account_id": "acc_0038"
+  },
+  {
+    "timestamp": "2024-08-22T10:15:30Z",
+    "author": "Emma",
+    "text": "Hey team, I'm having some trouble with the API integration for the calendar sync feature. Can someone take a look at the logs with me later?",
+    "message_id": "msg_acc_0039_01",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-09-05T14:45:12Z",
+    "author": "Liam",
+    "text": "Quick update: I finished the initial UI mockups for the meeting assistant. Feedback would be awesome when you get a chance!",
+    "message_id": "msg_acc_0039_02",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-09-10T09:30:45Z",
+    "author": "Ava",
+    "text": "Just wanted to flag that the notification service is throwing errors intermittently. I\u2019ll dig into it after lunch.",
+    "message_id": "msg_acc_0039_03",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-09-15T16:20:10Z",
+    "author": "Noah",
+    "text": "Does anyone know if we have access to the latest API documentation? I think we're missing some endpoints for integrations.",
+    "message_id": "msg_acc_0039_04",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-09-25T11:05:55Z",
+    "author": "Sophia",
+    "text": "I just merged the branch for the voice command feature! \ud83c\udf89 Let\u2019s keep an eye on any issues that pop up.",
+    "message_id": "msg_acc_0039_05",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-10-01T13:40:22Z",
+    "author": "Lucas",
+    "text": "Reminder: our demo for the client is scheduled for next week. Let\u2019s make sure we\u2019re all set with the latest features!",
+    "message_id": "msg_acc_0039_06",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-10-08T15:25:07Z",
+    "author": "Mia",
+    "text": "I\u2019m working on the meeting summary generation logic today. If anyone has ideas on how to improve it, hit me up!",
+    "message_id": "msg_acc_0039_07",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-11-02T17:55:00Z",
+    "author": "Ethan",
+    "text": "I just deployed the latest version to staging. Please test out the new features and let me know if anything feels off.",
+    "message_id": "msg_acc_0039_08",
+    "account_id": "acc_0039"
+  },
+  {
+    "timestamp": "2024-08-21T10:45:00Z",
+    "author": "Sofia",
+    "text": "Hey team, quick question about the speech recognition API. Are we still on track to integrate it by the end of the week?",
+    "message_id": "msg_acc_0040_01",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:00Z",
+    "author": "Liam",
+    "text": "Just pushed a fix for the bug where the voice agent was failing to recognize certain keywords. Can someone test it out and let me know if it works?",
+    "message_id": "msg_acc_0040_02",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-09-12T09:15:00Z",
+    "author": "Ava",
+    "text": "I ran some performance tests this morning, and it looks like we need to optimize the audio processing. The response times are a bit sluggish.",
+    "message_id": "msg_acc_0040_03",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-10-01T08:30:00Z",
+    "author": "Noah",
+    "text": "Just a heads up, I\u2019ll be working on the user feedback integration today. Should have an update by this afternoon!",
+    "message_id": "msg_acc_0040_04",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-10-12T11:05:00Z",
+    "author": "Mia",
+    "text": "Does anyone know if we have access to the latest user testing data? I need it for the demo prep this week.",
+    "message_id": "msg_acc_0040_05",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-10-30T16:50:00Z",
+    "author": "Ethan",
+    "text": "I\u2019m seeing an issue with the app crashing when it tries to process long voice inputs. Working on it now, will keep you posted!",
+    "message_id": "msg_acc_0040_06",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-11-10T13:00:00Z",
+    "author": "Isabella",
+    "text": "The demo went well yesterday! Got some good feedback from the client. Let\u2019s discuss next steps in our meeting later.",
+    "message_id": "msg_acc_0040_07",
+    "account_id": "acc_0040"
+  },
+  {
+    "timestamp": "2024-09-12T14:32:10Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m running into an issue with the API response format. It seems to be returning nested objects where we expect flat data. Has anyone else faced this?",
+    "message_id": "msg_acc_0041_01",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-08-25T09:45:23Z",
+    "author": "Liam",
+    "text": "Quick update: I've finished implementing the new authentication flow. Should we do a code review this week to get it merged?",
+    "message_id": "msg_acc_0041_02",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-10-01T11:15:45Z",
+    "author": "Mia",
+    "text": "Just a heads up! I\u2019ll be out of the loop for a few days starting Friday. If anything urgent comes up, please ping me before then!",
+    "message_id": "msg_acc_0041_03",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-11-03T16:20:50Z",
+    "author": "Sophie",
+    "text": "I have a question about the new feature specs. Are we still planning to include dark mode, or did that get dropped from the MVP?",
+    "message_id": "msg_acc_0041_04",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-10-15T08:55:30Z",
+    "author": "Ethan",
+    "text": "Found a bug in the user profile update function. It\u2019s throwing a 500 error when trying to save changes. I\u2019ll dig into it now.",
+    "message_id": "msg_acc_0041_05",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-09-30T13:00:00Z",
+    "author": "Olivia",
+    "text": "I just pushed the latest changes to the repo. Can someone check the deployment status? I want to make sure everything is green before we announce.",
+    "message_id": "msg_acc_0041_06",
+    "account_id": "acc_0041"
+  },
+  {
+    "timestamp": "2024-08-21T14:03:12Z",
+    "author": "Maya",
+    "text": "Hey team, quick question! Are we using the latest version of the call center API? I think I spotted some discrepancies with the data we're pulling in.",
+    "message_id": "msg_acc_0042_01",
+    "account_id": "acc_0042"
+  },
+  {
+    "timestamp": "2024-09-14T09:45:37Z",
+    "author": "Liam",
+    "text": "Just a heads up, I ran into a bug with the reporting dashboard. The call duration is showing as negative values sometimes. Looking into it now!",
+    "message_id": "msg_acc_0042_02",
+    "account_id": "acc_0042"
+  },
+  {
+    "timestamp": "2024-10-02T16:22:09Z",
+    "author": "Zara",
+    "text": "I pushed a small update to the analytics module this morning. Should improve loading times by about 15%. Let me know if you notice any issues!",
+    "message_id": "msg_acc_0042_03",
+    "account_id": "acc_0042"
+  },
+  {
+    "timestamp": "2024-11-10T11:30:45Z",
+    "author": "Nico",
+    "text": "Anyone have insights on user feedback from the recent rollout? I want to make sure we're addressing any pain points before the next sprint.",
+    "message_id": "msg_acc_0042_04",
+    "account_id": "acc_0042"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the call center analytics endpoint today, anyone else?",
+    "message_id": "msg_acc_0043_01",
+    "account_id": "acc_0043"
+  },
+  {
+    "timestamp": "2024-08-20T10:45:32Z",
+    "author": "Jake",
+    "text": "Hey team, can anyone confirm if the latest API endpoint supports pagination? I need to pull a large dataset and want to avoid overloading it.",
+    "message_id": "msg_acc_0044_01",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:18Z",
+    "author": "Maya",
+    "text": "Just pushed a fix for the login bug! It should resolve the issue some users were having. Let me know if you encounter any more problems.",
+    "message_id": "msg_acc_0044_02",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-09-15T09:30:45Z",
+    "author": "Leo",
+    "text": "Quick heads up! I\u2019m refactoring the authentication module today. If anyone is working on related features, it might be good to sync up.",
+    "message_id": "msg_acc_0044_03",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-10-01T16:12:00Z",
+    "author": "Sasha",
+    "text": "I\u2019m running into a CORS issue when trying to test the new integration. Has anyone else experienced this? I could use some troubleshooting tips.",
+    "message_id": "msg_acc_0044_04",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-10-12T11:55:03Z",
+    "author": "Ravi",
+    "text": "Just a quick update: I've completed the API documentation for the new features. You can check it out in the usual repo. Feedback is welcome!",
+    "message_id": "msg_acc_0044_05",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-11-02T13:40:26Z",
+    "author": "Tina",
+    "text": "Can someone clarify the expected response format for the user data endpoint? I\u2019m seeing some discrepancies in the sample responses.",
+    "message_id": "msg_acc_0044_06",
+    "account_id": "acc_0044"
+  },
+  {
+    "timestamp": "2024-08-20T09:15:42",
+    "author": "Jake",
+    "text": "Hey team, just wanted to check if we have any updates on the API documentation? I\u2019m trying to integrate it into the new app.",
+    "message_id": "msg_acc_0045_01",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-08-25T11:42:36",
+    "author": "Sofia",
+    "text": "I encountered an issue with the authentication flow. Users are getting a 401 error when trying to login. Anyone else seen this?",
+    "message_id": "msg_acc_0045_02",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-09-01T14:05:12",
+    "author": "Liam",
+    "text": "Quick update: I\u2019ve completed the initial setup for the new feature. Should be ready for review by the end of the week!",
+    "message_id": "msg_acc_0045_03",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-09-10T16:30:53",
+    "author": "Ava",
+    "text": "Can someone remind me of the process for pushing changes to the staging server? I want to avoid any hiccups.",
+    "message_id": "msg_acc_0045_04",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-09-15T10:22:41",
+    "author": "Noah",
+    "text": "Just a heads up, I\u2019ll be out tomorrow for a family commitment. I\u2019ll catch up on any messages when I\u2019m back!",
+    "message_id": "msg_acc_0045_05",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-10-05T13:18:29",
+    "author": "Emma",
+    "text": "I was looking at the analytics integration and noticed some discrepancies. I\u2019ll need to dig deeper into the data model.",
+    "message_id": "msg_acc_0045_06",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-10-25T15:47:11",
+    "author": "Oliver",
+    "text": "Great news! The last round of testing went well, and we\u2019re ready to move to the next phase. Let\u2019s keep the momentum going!",
+    "message_id": "msg_acc_0045_07",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-11-10T12:58:37",
+    "author": "Mia",
+    "text": "I\u2019m getting ready to demo the new app features next week. If anyone has suggestions for what to highlight, let me know!",
+    "message_id": "msg_acc_0045_08",
+    "account_id": "acc_0045"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the accessibility endpoint today, anyone else?",
+    "message_id": "msg_acc_0046_01",
+    "account_id": "acc_0046"
+  },
+  {
+    "timestamp": "2024-10-05T14:27:14Z",
+    "author": "Liam",
+    "text": "Hey team, I'm running into an issue where the meeting notes aren't saving correctly when the app is closed. Has anyone else experienced this? I\u2019ll dig into the logs but any insights would help!",
+    "message_id": "msg_acc_0047_01",
+    "account_id": "acc_0047"
+  },
+  {
+    "timestamp": "2024-08-25T14:32:10",
+    "author": "Jake",
+    "text": "Hey team, quick question about the audio processing library we're using. Is it compatible with the latest version of Python? I want to make sure before I update my local env.",
+    "message_id": "msg_acc_0048_01",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-09-02T09:15:47",
+    "author": "Linda",
+    "text": "Just pushed a fix for the bug where the timestamps were off in the transcriptions. Can someone pull and give it a test? Thanks!",
+    "message_id": "msg_acc_0048_02",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-09-10T11:52:03",
+    "author": "Raj",
+    "text": "I'm seeing some inconsistent results when testing the transcription accuracy. Anyone else run into this or is it just me?",
+    "message_id": "msg_acc_0048_03",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-09-20T16:42:29",
+    "author": "Maya",
+    "text": "FYI, I added a new feature for speaker identification in the transcription app. It\u2019s still in beta, but let me know your thoughts!",
+    "message_id": "msg_acc_0048_04",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-09-29T13:24:58",
+    "author": "Adam",
+    "text": "Heads up, I\u2019m working on the UI for the playback controls today. Should have something to show by EOD!",
+    "message_id": "msg_acc_0048_05",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-10-05T10:10:21",
+    "author": "Nina",
+    "text": "Can we schedule a quick sync to discuss the performance issues after the last deployment? It seems slower than usual.",
+    "message_id": "msg_acc_0048_06",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-10-12T15:55:33",
+    "author": "Chris",
+    "text": "I fixed the issue with the API not returning the correct JSON format for transcriptions. Everything should be good now, let me know if you hit any snags!",
+    "message_id": "msg_acc_0048_07",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-10-20T12:48:45",
+    "author": "Tina",
+    "text": "Just a reminder to update your local branches before starting new work. The last merge had some big changes!",
+    "message_id": "msg_acc_0048_08",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-11-02T17:05:12",
+    "author": "Leo",
+    "text": "We should consider adding support for multiple languages in the transcriptions. Anyone interested in brainstorming ideas?",
+    "message_id": "msg_acc_0048_09",
+    "account_id": "acc_0048"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:30Z",
+    "author": "Alex",
+    "text": "Hey team, I just pushed the latest changes to the meeting notes feature. Can someone review it when you get a chance?",
+    "message_id": "msg_acc_0049_01",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-08-25T14:45:00Z",
+    "author": "Jordan",
+    "text": "Quick heads up: I found a bug with the calendar integration that causes it to crash on load. Working on a fix now!",
+    "message_id": "msg_acc_0049_02",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-09-10T09:30:00Z",
+    "author": "Sam",
+    "text": "Does anyone know how to format the timestamps in the API response? I need them to match our frontend requirements.",
+    "message_id": "msg_acc_0049_03",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-09-15T16:20:45Z",
+    "author": "Riley",
+    "text": "Just merged the authentication updates into the main branch. Let's test it out to make sure everything still works smoothly.",
+    "message_id": "msg_acc_0049_04",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-09-22T11:55:10Z",
+    "author": "Chris",
+    "text": "I added the new user feedback feature to the app. It's still in beta but I\u2019d love thoughts on it if anyone has time to check it out!",
+    "message_id": "msg_acc_0049_05",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-10-01T13:05:00Z",
+    "author": "Taylor",
+    "text": "I\u2019m having trouble with the deployment process again. Can someone help me troubleshoot the CI/CD pipeline?",
+    "message_id": "msg_acc_0049_06",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-10-12T08:30:00Z",
+    "author": "Morgan",
+    "text": "Just a reminder that our demo for the meeting assistant is next week. Let\u2019s make sure everything is polished by then!",
+    "message_id": "msg_acc_0049_07",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-10-25T15:45:00Z",
+    "author": "Jamie",
+    "text": "I\u2019ve implemented the voice recognition feature. It seems to be working well but let\u2019s run some tests to confirm!",
+    "message_id": "msg_acc_0049_08",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-11-05T17:00:00Z",
+    "author": "Casey",
+    "text": "I noticed some latency issues in the app during peak hours. Should we look into optimizing the database queries?",
+    "message_id": "msg_acc_0049_09",
+    "account_id": "acc_0049"
+  },
+  {
+    "timestamp": "2024-09-01T10:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the voice recognition module. Should we implement a fallback response if the system doesn't understand the command?",
+    "message_id": "msg_acc_0050_01",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-08-25T14:15:30Z",
+    "author": "Maya",
+    "text": "Just pushed the latest updates for the dialogue flow logic. Let me know if you run into any issues!",
+    "message_id": "msg_acc_0050_02",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-10-05T09:45:00Z",
+    "author": "Sam",
+    "text": "Running into a bug with the audio playback feature. It seems to crash when trying to replay the last message. Anyone else experiencing this?",
+    "message_id": "msg_acc_0050_03",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-10-20T16:10:12Z",
+    "author": "Nina",
+    "text": "FYI, I added some new sample utterances for testing. Check them out in the repo when you get a chance!",
+    "message_id": "msg_acc_0050_04",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-11-01T11:30:00Z",
+    "author": "Leo",
+    "text": "I've completed the initial version of the analytics dashboard for tracking user interactions. Would love your feedback!",
+    "message_id": "msg_acc_0050_05",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-11-10T13:55:25Z",
+    "author": "Alex",
+    "text": "Is anyone available for a quick sync tomorrow? I want to discuss the integration with the third-party API.",
+    "message_id": "msg_acc_0050_06",
+    "account_id": "acc_0050"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, does anyone know the best way to handle unexpected API response errors in the voice agent? I want to make sure we\u2019re catching these gracefully.",
+    "message_id": "msg_acc_0051_01",
+    "account_id": "acc_0051"
+  },
+  {
+    "timestamp": "2024-10-10T09:17:32Z",
+    "author": "Liam",
+    "text": "Just pushed a fix for the audio playback issue on iOS. It should work smoothly now. Let me know if you encounter any more bugs!",
+    "message_id": "msg_acc_0051_02",
+    "account_id": "acc_0051"
+  },
+  {
+    "timestamp": "2024-08-25T16:45:10Z",
+    "author": "Maya",
+    "text": "Quick update: I've completed the user authentication flow. It\u2019s now integrated with the main branch. Please review when you get a chance!",
+    "message_id": "msg_acc_0051_03",
+    "account_id": "acc_0051"
+  },
+  {
+    "timestamp": "2024-11-02T11:05:27Z",
+    "author": "Sofia",
+    "text": "I\u2019m seeing some latency issues with the voice recognition module. Anyone else experiencing this, or could it just be my local setup?",
+    "message_id": "msg_acc_0051_04",
+    "account_id": "acc_0051"
+  },
+  {
+    "timestamp": "2024-10-15T13:03:58Z",
+    "author": "Ethan",
+    "text": "Reminder: We have the demo for the voice agent app on Thursday. Let's make sure all features are working by then!",
+    "message_id": "msg_acc_0051_05",
+    "account_id": "acc_0051"
+  },
+  {
+    "timestamp": "2024-08-25T09:15:42Z",
+    "author": "Liam",
+    "text": "Hey team, I\u2019m running into an issue with the API response times on the new app. Anyone else experiencing this, or is it just me?",
+    "message_id": "msg_acc_0053_01",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-09-02T14:20:03Z",
+    "author": "Olivia",
+    "text": "Just pushed a fix for the login bug! Let me know if you still see any issues. \ud83c\udf89",
+    "message_id": "msg_acc_0053_02",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-09-10T11:45:30Z",
+    "author": "Noah",
+    "text": "Quick heads up, I\u2019ll be integrating the new payment gateway today. Should have it wrapped up by EOD.",
+    "message_id": "msg_acc_0053_03",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-09-21T16:05:12Z",
+    "author": "Emma",
+    "text": "Can someone remind me where we stored the API documentation? I can't seem to find it. Thanks!",
+    "message_id": "msg_acc_0053_04",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-10-03T09:50:25Z",
+    "author": "Ava",
+    "text": "Just a quick update: I\u2019m working on the user profile section now and should have a draft ready for review by tomorrow.",
+    "message_id": "msg_acc_0053_05",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-10-12T13:35:48Z",
+    "author": "Mason",
+    "text": "Has anyone tested the app on mobile? I\u2019m getting some weird layout issues on my phone.",
+    "message_id": "msg_acc_0053_06",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-10-20T18:22:11Z",
+    "author": "Sophia",
+    "text": "I added a few new endpoints to the API yesterday. Let me know if you need access or have any questions!",
+    "message_id": "msg_acc_0053_07",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-10-30T10:12:57Z",
+    "author": "James",
+    "text": "Reminder: We have a demo scheduled for next week. Please make sure your parts are ready for presentation!",
+    "message_id": "msg_acc_0053_08",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-11-04T15:27:44Z",
+    "author": "Isabella",
+    "text": "I\u2019m wrapping up the testing phase today. So far, everything looks solid. I\u2019ll post a summary later.",
+    "message_id": "msg_acc_0053_09",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-11-14T08:18:59Z",
+    "author": "Ethan",
+    "text": "Final call for feedback on the new features! Let me know your thoughts by the end of the day so we can finalize everything.",
+    "message_id": "msg_acc_0053_10",
+    "account_id": "acc_0053"
+  },
+  {
+    "timestamp": "2024-09-03T14:22:10Z",
+    "author": "Emma",
+    "text": "Hey team, has anyone else been experiencing issues with the API response times? It's taking forever to load the user data.",
+    "message_id": "msg_acc_0054_01",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-10-12T09:45:35Z",
+    "author": "Liam",
+    "text": "Just pushed a fix for the login bug we encountered. Can someone test it out and let me know if it\u2019s working now?",
+    "message_id": "msg_acc_0054_02",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-08-25T16:05:18Z",
+    "author": "Sophia",
+    "text": "Quick update: I\u2019ve implemented the new feature for push notifications. Should be ready for review by EOD!",
+    "message_id": "msg_acc_0054_03",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-11-01T11:30:02Z",
+    "author": "Noah",
+    "text": "I\u2019m stuck on a dependency issue with the new module. Has anyone solved something similar recently? Any tips would be appreciated!",
+    "message_id": "msg_acc_0054_04",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-09-20T08:15:50Z",
+    "author": "Ava",
+    "text": "Reminder: our API documentation is getting updated this week. Make sure to check the changes before our next meeting!",
+    "message_id": "msg_acc_0054_05",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-10-25T13:00:00Z",
+    "author": "Oliver",
+    "text": "Looks like we\u2019re good to go with the integration! I\u2019ll schedule a demo for Monday to show off the new features.",
+    "message_id": "msg_acc_0054_06",
+    "account_id": "acc_0054"
+  },
+  {
+    "timestamp": "2024-08-25T14:35:17",
+    "author": "Sam",
+    "text": "Hey team, quick question about the color contrast settings in the accessibility app. Should we prioritize WCAG AA or AAA standards for the initial release?",
+    "message_id": "msg_acc_0056_01",
+    "account_id": "acc_0056"
+  },
+  {
+    "timestamp": "2024-09-10T09:12:45",
+    "author": "Maya",
+    "text": "I've run into a bug with the screen reader compatibility feature. It seems to be skipping some headings \u2013 I\u2019ll investigate further but wanted to give you all a heads up.",
+    "message_id": "msg_acc_0056_02",
+    "account_id": "acc_0056"
+  },
+  {
+    "timestamp": "2024-11-01T16:50:23",
+    "author": "Jordan",
+    "text": "Just pushed the latest update with the new voice command functionality! Let me know if you encounter any issues or have feedback.",
+    "message_id": "msg_acc_0056_03",
+    "account_id": "acc_0056"
+  },
+  {
+    "timestamp": "2024-08-22T14:30:45Z",
+    "author": "Jake",
+    "text": "Hey team, quick heads-up that I've pushed some changes to the authentication module. Let me know if you run into any issues!",
+    "message_id": "msg_acc_0057_01",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-09-05T09:15:12Z",
+    "author": "Liam",
+    "text": "Quick question: does anyone know if we have a preferred library for handling date formatting? I want to make sure it\u2019s consistent across the app.",
+    "message_id": "msg_acc_0057_02",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-09-12T11:45:00Z",
+    "author": "Ava",
+    "text": "Found a bug in the user profile settings\u2014changing the email doesn't trigger the validation. I\u2019ll file a ticket for it after lunch.",
+    "message_id": "msg_acc_0057_03",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-09-20T16:00:27Z",
+    "author": "Noah",
+    "text": "Just finished implementing the new UI for the dashboard! Can someone give it a quick review before I merge?",
+    "message_id": "msg_acc_0057_04",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-10-01T13:25:38Z",
+    "author": "Mia",
+    "text": "I\u2019m seeing some weird behavior with the API responses; sometimes they\u2019re taking too long to return. Anyone else experiencing this?",
+    "message_id": "msg_acc_0057_05",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-10-10T10:15:55Z",
+    "author": "Ethan",
+    "text": "FYI, I've updated the README with setup instructions for the new feature. Please take a look when you get a chance!",
+    "message_id": "msg_acc_0057_06",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-10-15T08:50:10Z",
+    "author": "Sofia",
+    "text": "Can someone remind me how we\u2019re structuring our error handling? I want to make sure I\u2019m aligning with the existing codebase.",
+    "message_id": "msg_acc_0057_07",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-10-25T15:40:05Z",
+    "author": "Ryan",
+    "text": "I\u2019ve made some adjustments to the deployment pipeline. It should be smoother now, but let me know if you run into any issues!",
+    "message_id": "msg_acc_0057_08",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-11-10T17:05:22Z",
+    "author": "Zoe",
+    "text": "Just completed the integration with the external payment gateway! Testing is next on my list. Any volunteers to help?",
+    "message_id": "msg_acc_0057_09",
+    "account_id": "acc_0057"
+  },
+  {
+    "timestamp": "2024-08-20T14:35:12",
+    "author": "Mark",
+    "text": "Hey team, I just pushed the latest changes to the repo. Can someone pull and check if the new API endpoints are working as expected?",
+    "message_id": "msg_acc_0058_01",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-09-05T10:12:45",
+    "author": "Emily",
+    "text": "Quick heads up! I found a bug in the user authentication flow. Users are getting a 500 error when logging in. I'll investigate further.",
+    "message_id": "msg_acc_0058_02",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-09-15T16:45:30",
+    "author": "Lucas",
+    "text": "Just wrapped up the new feature for the dashboard. Ready for a code review when someone gets a chance!",
+    "message_id": "msg_acc_0058_03",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-09-22T09:05:57",
+    "author": "Tina",
+    "text": "Can anyone remind me where we left off with the database schema changes? I need to sync up with the frontend team.",
+    "message_id": "msg_acc_0058_04",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-10-01T11:20:02",
+    "author": "Jake",
+    "text": "FYI, I've scheduled a meeting for Thursday to discuss the API integration next steps. Please mark your calendars!",
+    "message_id": "msg_acc_0058_05",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-10-10T13:30:15",
+    "author": "Sophie",
+    "text": "I updated the README file with setup instructions for the new environment. Check it out when you get a chance!",
+    "message_id": "msg_acc_0058_06",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-10-22T17:50:00",
+    "author": "Ethan",
+    "text": "Anyone else having issues with the build pipeline? Mine keeps failing at the testing stage. Could use some help.",
+    "message_id": "msg_acc_0058_07",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-11-02T15:40:23",
+    "author": "Olivia",
+    "text": "Just a quick update, I finished the integration with the payment gateway. Testing it now, should be ready for deployment soon.",
+    "message_id": "msg_acc_0058_08",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-11-10T08:15:40",
+    "author": "Ryan",
+    "text": "Heads up! I'll be out next week for vacation. If you need anything from me, please reach out before Friday!",
+    "message_id": "msg_acc_0058_09",
+    "account_id": "acc_0058"
+  },
+  {
+    "timestamp": "2024-08-22T09:15:42Z",
+    "author": "Jake",
+    "text": "Hey team, quick question: do we have any guidelines on how to handle call duration timeouts in the analytics app? I want to make sure we\u2019re aligned on this.",
+    "message_id": "msg_acc_0059_01",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-09-05T14:42:11Z",
+    "author": "Maya",
+    "text": "Just pushed the latest updates for the call scoring feature. Please pull from the repo and let me know if you encounter any issues!",
+    "message_id": "msg_acc_0059_02",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-09-15T11:03:27Z",
+    "author": "Liam",
+    "text": "I'm seeing a weird error when trying to fetch the call logs today. Has anyone else run into this or is it just my local setup?",
+    "message_id": "msg_acc_0059_03",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-10-01T16:27:54Z",
+    "author": "Sara",
+    "text": "Heads up, I'm planning to start working on the sentiment analysis integration later this week. If anyone has insights or resources, please share!",
+    "message_id": "msg_acc_0059_04",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-10-10T08:50:13Z",
+    "author": "Ethan",
+    "text": "Just a quick update: I completed the initial testing phase for the predictive analytics module. Results look promising!",
+    "message_id": "msg_acc_0059_05",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-10-20T13:35:09Z",
+    "author": "Olivia",
+    "text": "Can someone remind me of the endpoint structure we're using for the API? I\u2019m getting mixed up with the new changes.",
+    "message_id": "msg_acc_0059_06",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-11-05T10:17:45Z",
+    "author": "Noah",
+    "text": "We need to finalize the dashboard layout by the end of this week. Let\u2019s have a quick sync to discuss the design options!",
+    "message_id": "msg_acc_0059_07",
+    "account_id": "acc_0059"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the call center analytics endpoint today, anyone else?",
+    "message_id": "msg_acc_0060_01",
+    "account_id": "acc_0060"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the voice agent endpoint today, anyone else?",
+    "message_id": "msg_acc_0061_01",
+    "account_id": "acc_0061"
+  },
+  {
+    "timestamp": "2024-09-01T10:15:30Z",
+    "author": "Liam",
+    "text": "Hey team, quick question about the API endpoints for our meeting notes. Are we planning to add any extra fields for attachments or just stick with the basics for now?",
+    "message_id": "msg_acc_0062_01",
+    "account_id": "acc_0062"
+  },
+  {
+    "timestamp": "2024-10-05T14:45:12Z",
+    "author": "Maya",
+    "text": "Just a heads up, I ran into an issue with the calendar integration. The events aren\u2019t syncing properly. I\u2019ll dig into the logs and keep you posted!",
+    "message_id": "msg_acc_0062_02",
+    "account_id": "acc_0062"
+  },
+  {
+    "timestamp": "2024-10-29T09:30:45Z",
+    "author": "Noah",
+    "text": "Pushed a new update to the repo that improves the speech recognition accuracy. Let me know if you encounter any bugs. \ud83c\udf89",
+    "message_id": "msg_acc_0062_03",
+    "account_id": "acc_0062"
+  },
+  {
+    "timestamp": "2024-08-20T14:32:10",
+    "author": "Jake",
+    "text": "Hey team, I'm running into a 404 error on the new endpoint we're testing. Can someone check if it's been deployed properly?",
+    "message_id": "msg_acc_0063_01",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-08-25T09:15:44",
+    "author": "Maya",
+    "text": "Just a quick update: I've finished the initial implementation of the user authentication flow. Should have it ready for review by EOD!",
+    "message_id": "msg_acc_0063_02",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-09-01T11:22:37",
+    "author": "Liam",
+    "text": "Does anyone have experience with setting up GitHub Actions for our CI/CD pipeline? I could use some pointers!",
+    "message_id": "msg_acc_0063_03",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-09-10T16:47:01",
+    "author": "Sofia",
+    "text": "I noticed the performance on the dashboard is a bit sluggish. Might need to optimize some of those API calls. Thoughts?",
+    "message_id": "msg_acc_0063_04",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-09-18T08:55:23",
+    "author": "Ethan",
+    "text": "Heads up! I just merged the new feature branch into main. Let's keep an eye on it in case any bugs pop up.",
+    "message_id": "msg_acc_0063_05",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-10-05T13:10:56",
+    "author": "Chloe",
+    "text": "Quick question: Should we prioritize the mobile version of the app next sprint? I think it might help with engagement.",
+    "message_id": "msg_acc_0063_06",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-10-12T17:29:45",
+    "author": "Noah",
+    "text": "I'm seeing some weird behavior with the payment processing. Looks like it might be a race condition. Anyone else experiencing this?",
+    "message_id": "msg_acc_0063_07",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-11-03T10:04:12",
+    "author": "Ava",
+    "text": "Just pushed some minor bug fixes related to the notifications feature. Please test and let me know if you encounter anything else!",
+    "message_id": "msg_acc_0063_08",
+    "account_id": "acc_0063"
+  },
+  {
+    "timestamp": "2024-08-20T14:32:11Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m running into a CORS issue with the API when trying to fetch meeting notes. Has anyone else seen this?",
+    "message_id": "msg_acc_0064_01",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-09-05T09:45:27Z",
+    "author": "Maya",
+    "text": "Just pushed the latest changes to the meeting scheduling module! Let me know if you encounter any bugs.",
+    "message_id": "msg_acc_0064_02",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-09-12T11:15:03Z",
+    "author": "Liam",
+    "text": "Quick update: I've implemented the voice recognition feature. Testing it now\u2014should be ready for you all to review by EOD.",
+    "message_id": "msg_acc_0064_03",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-09-18T10:05:47Z",
+    "author": "Ava",
+    "text": "Does anyone have time for a quick sync this afternoon? I want to discuss the UI changes for the assistant.",
+    "message_id": "msg_acc_0064_04",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-10-01T16:22:39Z",
+    "author": "Ethan",
+    "text": "I found a bug in the calendar sync feature. It\u2019s not pulling the correct events from Google Calendar. Working on a fix now.",
+    "message_id": "msg_acc_0064_05",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-10-12T13:37:55Z",
+    "author": "Sophia",
+    "text": "Just finished integrating the notification system! Should help keep users updated on upcoming meetings.",
+    "message_id": "msg_acc_0064_06",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-10-25T09:50:01Z",
+    "author": "Oliver",
+    "text": "Can someone remind me how we\u2019re handling user authentication? I need to set up the login flow for the app.",
+    "message_id": "msg_acc_0064_07",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-11-10T15:04:30Z",
+    "author": "Isabella",
+    "text": "The initial user feedback on the assistant is in, and it's pretty positive! We should plan a meeting to discuss the next steps.",
+    "message_id": "msg_acc_0064_08",
+    "account_id": "acc_0064"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45Z",
+    "author": "Emily",
+    "text": "Hey team, quick question about the voice recognition module. Has anyone tested the new command parsing feature? I\u2019m getting some inconsistencies.",
+    "message_id": "msg_acc_0065_01",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-10-01T09:15:10Z",
+    "author": "Jasper",
+    "text": "Just pushed a new update to the voice agent app! It includes better response times for the FAQ queries. Let me know if you experience any issues!",
+    "message_id": "msg_acc_0065_02",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-08-20T16:37:12Z",
+    "author": "Maya",
+    "text": "I\u2019ve been working on the user onboarding flow. I\u2019d love some feedback once I set up the demo. Expect a link later today!",
+    "message_id": "msg_acc_0065_03",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-09-25T12:50:08Z",
+    "author": "Leon",
+    "text": "Running into a bug where the app crashes when trying to process longer voice inputs. Anyone else experiencing this, or is it just me?",
+    "message_id": "msg_acc_0065_04",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-10-10T11:05:22Z",
+    "author": "Sophie",
+    "text": "Looks like the latest API changes have affected our call handling. I\u2019m on it, but just a heads up if you notice any delays.",
+    "message_id": "msg_acc_0065_05",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-08-29T08:45:33Z",
+    "author": "Rahul",
+    "text": "Is anyone else finding the logging output a bit noisy? I'm thinking about tweaking the log levels for better clarity.",
+    "message_id": "msg_acc_0065_06",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-11-02T10:22:55Z",
+    "author": "Laura",
+    "text": "Just finished testing the integration with the new text-to-speech engine. The voices sound much more natural now! \ud83c\udf89",
+    "message_id": "msg_acc_0065_07",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-10-15T15:30:17Z",
+    "author": "Omar",
+    "text": "Reminder that our sprint demo is next week. If anyone has updates on their features, please prepare to share!",
+    "message_id": "msg_acc_0065_08",
+    "account_id": "acc_0065"
+  },
+  {
+    "timestamp": "2024-09-05T10:23:47Z",
+    "author": "Jenna",
+    "text": "Hey team, has anyone figured out how to implement the contextual understanding for the voice agent? I'm running into some issues with handling follow-up questions. Any tips?",
+    "message_id": "msg_acc_0066_01",
+    "account_id": "acc_0066"
+  },
+  {
+    "timestamp": "2024-10-12T14:55:12Z",
+    "author": "Mike",
+    "text": "Quick update: I've pushed the latest changes for the voice recognition module. Should improve accuracy a bit! Let me know if you encounter any issues.",
+    "message_id": "msg_acc_0066_02",
+    "account_id": "acc_0066"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:10Z",
+    "author": "Alex",
+    "text": "Hey team, quick question about the meeting notes feature. Should we allow users to edit notes after they've been saved, or should it be a one-time entry?",
+    "message_id": "msg_acc_0067_01",
+    "account_id": "acc_0067"
+  },
+  {
+    "timestamp": "2024-10-12T09:45:33Z",
+    "author": "Jamie",
+    "text": "Just a heads up, I ran into a bug with the calendar integration. It looks like the API isn't returning the correct timezone info. I'll dig into it more this afternoon.",
+    "message_id": "msg_acc_0067_02",
+    "account_id": "acc_0067"
+  },
+  {
+    "timestamp": "2024-11-01T16:30:50Z",
+    "author": "Morgan",
+    "text": "Finished implementing the voice command functionality! Just need to do some testing, but I think it\u2019s ready for a demo next week. Let me know if you want to take a look!",
+    "message_id": "msg_acc_0067_03",
+    "account_id": "acc_0067"
+  },
+  {
+    "timestamp": "2024-09-12T14:23:45Z",
+    "author": "Jamie",
+    "text": "Hey team, quick question about the API endpoints\u2014are we still on track to finalize the user authentication flow by the end of the week?",
+    "message_id": "msg_acc_0068_01",
+    "account_id": "acc_0068"
+  },
+  {
+    "timestamp": "2024-10-01T09:15:30Z",
+    "author": "Alex",
+    "text": "Just a heads up, I ran into an issue with the calendar integration not syncing correctly. I\u2019ll be digging into it today and will keep you posted!",
+    "message_id": "msg_acc_0068_02",
+    "account_id": "acc_0068"
+  },
+  {
+    "timestamp": "2024-11-03T16:45:12Z",
+    "author": "Jordan",
+    "text": "All right, I just pushed the latest changes for the meeting reminders. Should be working now! Let me know if you spot any bugs.",
+    "message_id": "msg_acc_0068_03",
+    "account_id": "acc_0068"
+  },
+  {
+    "timestamp": "2024-09-01T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m running into a weird issue with the voice recognition feature. It\u2019s not picking up on certain accents. Has anyone else experienced this?",
+    "message_id": "msg_acc_0069_01",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-09-10T09:15:30Z",
+    "author": "Emily",
+    "text": "Quick update: I\u2019ve pushed the new color contrast settings to the dev branch! Let me know if you encounter any bugs.",
+    "message_id": "msg_acc_0069_02",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-09-15T16:45:12Z",
+    "author": "Sam",
+    "text": "Question about the AR component: are we using any specific libraries for gesture recognition, or are we building it from scratch?",
+    "message_id": "msg_acc_0069_03",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-10-02T11:30:05Z",
+    "author": "Jordan",
+    "text": "I found a couple of accessibility issues during testing on mobile. The text resizing isn\u2019t working properly. I\u2019ll create a ticket for this.",
+    "message_id": "msg_acc_0069_04",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-10-10T20:50:22Z",
+    "author": "Alex",
+    "text": "Just merged the latest changes! The user feedback form is now live. Please test it out and let me know if the submission process is smooth.",
+    "message_id": "msg_acc_0069_05",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-10-15T08:12:33Z",
+    "author": "Taylor",
+    "text": "Reminder: our next accessibility standards review is this Friday. Make sure to have your notes ready!",
+    "message_id": "msg_acc_0069_06",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-11-01T13:54:48Z",
+    "author": "Chris",
+    "text": "I\u2019m looking into the loading times for the app. It feels sluggish on older devices. Anyone have suggestions for optimization?",
+    "message_id": "msg_acc_0069_07",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-11-10T17:25:10Z",
+    "author": "Morgan",
+    "text": "I\u2019ve updated the README with the new API endpoints. Check it out when you get a chance to ensure everything looks good!",
+    "message_id": "msg_acc_0069_08",
+    "account_id": "acc_0069"
+  },
+  {
+    "timestamp": "2024-08-19T10:32:15Z",
+    "author": "Jake",
+    "text": "Hey team, I\u2019m running into an issue with the API response times this morning. Anyone else experiencing slow requests?",
+    "message_id": "msg_acc_0070_01",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-09-02T14:45:03Z",
+    "author": "Maya",
+    "text": "Just pushed a new feature for user authentication! \ud83c\udf89 Check it out in the staging branch when you get a chance.",
+    "message_id": "msg_acc_0070_02",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-09-15T09:20:49Z",
+    "author": "Liam",
+    "text": "Quick question about the database schema: are we still planning on using the new foreign key relationships, or should we revert to the old structure?",
+    "message_id": "msg_acc_0070_03",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-10-01T16:11:27Z",
+    "author": "Sophia",
+    "text": "I ran some tests on the new API endpoints and found a couple of bugs. I\u2019ll put together a report for us to review in the next sync.",
+    "message_id": "msg_acc_0070_04",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-10-10T11:57:32Z",
+    "author": "Ethan",
+    "text": "Heads up, I\u2019ll be taking a few hours this afternoon to fix that critical bug. Should have it sorted by then!",
+    "message_id": "msg_acc_0070_05",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-10-23T08:50:11Z",
+    "author": "Olivia",
+    "text": "Just a reminder to update your local environments with the latest dependencies. There were some major updates pushed last night!",
+    "message_id": "msg_acc_0070_06",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-11-03T15:14:58Z",
+    "author": "Noah",
+    "text": "Can someone help me understand the error logs from the last deployment? I\u2019m seeing some weird issues with the image processing function.",
+    "message_id": "msg_acc_0070_07",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-11-10T17:25:09Z",
+    "author": "Ava",
+    "text": "I\u2019ve finished integrating the new payment API! Let\u2019s plan a quick demo tomorrow to go over how it works.",
+    "message_id": "msg_acc_0070_08",
+    "account_id": "acc_0070"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:42Z",
+    "author": "Jake",
+    "text": "Hey team, I ran into an issue with the color contrast tool. It's not picking up some CSS variables as expected. Has anyone else seen this?",
+    "message_id": "msg_acc_0072_01",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-09-03T14:47:26Z",
+    "author": "Sarah",
+    "text": "Just pushed some updates to the accessibility guidelines document. Please take a look and let me know if I missed anything important!",
+    "message_id": "msg_acc_0072_02",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-09-15T09:30:11Z",
+    "author": "Mark",
+    "text": "Quick question: what's our plan for keyboard navigation testing? I want to make sure we're covering all necessary scenarios.",
+    "message_id": "msg_acc_0072_03",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-09-30T11:05:54Z",
+    "author": "Lily",
+    "text": "Heads up! I found a bug where the screen reader isn't reading out some of our custom components. Working on a fix now.",
+    "message_id": "msg_acc_0072_04",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-10-05T16:20:19Z",
+    "author": "Tom",
+    "text": "I added a new feature for voice commands in our app. Would love some feedback on the implementation before we merge it.",
+    "message_id": "msg_acc_0072_05",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-10-22T13:45:33Z",
+    "author": "Emma",
+    "text": "Just a quick update: I've been optimizing the app's load time for users with slower connections. Initial tests show a 20% improvement!",
+    "message_id": "msg_acc_0072_06",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-11-10T08:12:05Z",
+    "author": "Ryan",
+    "text": "Does anyone have experience with ARIA roles? I need some guidance on how to best implement them for our custom buttons.",
+    "message_id": "msg_acc_0072_07",
+    "account_id": "acc_0072"
+  },
+  {
+    "timestamp": "2024-08-25T14:32:10Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the user intent parsing. Are we storing the intents as objects in the database or handling them in memory? Just want to make sure I'm aligned with the design.",
+    "message_id": "msg_acc_0073_01",
+    "account_id": "acc_0073"
+  },
+  {
+    "timestamp": "2024-09-12T09:45:23Z",
+    "author": "Priya",
+    "text": "I ran into an issue with the voice recognition API throwing intermittent timeouts. It's affecting our testing phase. Anyone else experiencing this, or should I dig deeper?",
+    "message_id": "msg_acc_0073_02",
+    "account_id": "acc_0073"
+  },
+  {
+    "timestamp": "2024-10-03T16:18:45Z",
+    "author": "Liam",
+    "text": "Just pushed a new update to the conversation flow logic. Check out the new handling for follow-up questions\u2014it should improve the user experience significantly. Let me know what you think!",
+    "message_id": "msg_acc_0073_03",
+    "account_id": "acc_0073"
+  },
+  {
+    "timestamp": "2024-11-02T11:56:30Z",
+    "author": "Sofia",
+    "text": "Hey everyone! Just a reminder that we'll be demoing the voice agent app next week. Make sure your parts are ready for presentation. Let\u2019s catch up for a quick sync on Monday?",
+    "message_id": "msg_acc_0073_04",
+    "account_id": "acc_0073"
+  },
+  {
+    "timestamp": "2024-09-02T14:23:45Z",
+    "author": "Jason",
+    "text": "Hey team, I'm running into an issue with the API authentication on the new app. Can anyone help me troubleshoot or point me toward the right documentation?",
+    "message_id": "msg_acc_0074_01",
+    "account_id": "acc_0074"
+  },
+  {
+    "timestamp": "2024-10-12T09:15:27Z",
+    "author": "Linda",
+    "text": "Quick update: I wrapped up the user authentication feature yesterday and pushed it to the dev branch. Let me know if you find any bugs!",
+    "message_id": "msg_acc_0074_02",
+    "account_id": "acc_0074"
+  },
+  {
+    "timestamp": "2024-08-25T16:37:10Z",
+    "author": "Raj",
+    "text": "Question about the database schema: should we include a field for user roles in the new app? I think it might help with permissions later.",
+    "message_id": "msg_acc_0074_03",
+    "account_id": "acc_0074"
+  },
+  {
+    "timestamp": "2024-09-05T10:15:32",
+    "author": "Sophie",
+    "text": "Hey team, I ran into a bug when trying to fetch meeting notes from the API. It seems like the endpoint is returning a 404. Anyone else experiencing this?",
+    "message_id": "msg_acc_0075_01",
+    "account_id": "acc_0075"
+  },
+  {
+    "timestamp": "2024-09-12T14:22:18",
+    "author": "Ben",
+    "text": "Quick update: I finished the integration with the calendar API! \ud83c\udf89 Just need to write some tests before we can merge it into the main branch.",
+    "message_id": "msg_acc_0075_02",
+    "account_id": "acc_0075"
+  },
+  {
+    "timestamp": "2024-10-01T09:45:09",
+    "author": "Priya",
+    "text": "Hey all, can someone remind me how to set up the local dev environment? I think I missed the setup steps during onboarding.",
+    "message_id": "msg_acc_0075_03",
+    "account_id": "acc_0075"
+  },
+  {
+    "timestamp": "2024-10-20T16:07:45",
+    "author": "Mike",
+    "text": "I noticed the meeting reminders are getting sent out late. I'm looking into the scheduling logic now to see if we can optimize it.",
+    "message_id": "msg_acc_0075_04",
+    "account_id": "acc_0075"
+  },
+  {
+    "timestamp": "2024-11-10T11:50:03",
+    "author": "Emma",
+    "text": "Just a heads up, I\u2019ll be out sick tomorrow, so I might not be able to answer questions right away. If something urgent comes up, please ping me here!",
+    "message_id": "msg_acc_0075_05",
+    "account_id": "acc_0075"
+  },
+  {
+    "timestamp": "2024-09-01T14:22:10Z",
+    "author": "Sam",
+    "text": "Hey team, quick question about the API endpoints. Should we include filters for the date range in the meeting summaries, or just return everything?",
+    "message_id": "msg_acc_0076_01",
+    "account_id": "acc_0076"
+  },
+  {
+    "timestamp": "2024-09-15T10:45:30Z",
+    "author": "Jesse",
+    "text": "Just pushed a fix for the bug where the meeting notes weren't saving correctly. Let me know if you find any other issues!",
+    "message_id": "msg_acc_0076_02",
+    "account_id": "acc_0076"
+  },
+  {
+    "timestamp": "2024-10-03T16:37:50Z",
+    "author": "Katie",
+    "text": "Reminder that our demo for the meeting assistant app is coming up next week! Let\u2019s make sure we have everything polished by then.",
+    "message_id": "msg_acc_0076_03",
+    "account_id": "acc_0076"
+  },
+  {
+    "timestamp": "2024-10-20T09:15:22Z",
+    "author": "Ryan",
+    "text": "I\u2019ve noticed some slow response times when fetching meeting histories. Has anyone else experienced this, or is it just on my end?",
+    "message_id": "msg_acc_0076_04",
+    "account_id": "acc_0076"
+  },
+  {
+    "timestamp": "2024-11-10T12:00:00Z",
+    "author": "Alex",
+    "text": "I\u2019ve started working on the integration with the calendar API. Should have a prototype ready by the end of the week!",
+    "message_id": "msg_acc_0076_05",
+    "account_id": "acc_0076"
+  },
+  {
+    "timestamp": "2024-09-01T09:15:32Z",
+    "author": "Alex",
+    "text": "Hey team, I\u2019m running into a 500 error when trying to fetch call data from the API. Has anyone else seen this?",
+    "message_id": "msg_acc_0077_01",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-05T11:43:25Z",
+    "author": "Jordan",
+    "text": "Quick update: I've finished the dashboard prototype. I\u2019ll share a link for feedback later today!",
+    "message_id": "msg_acc_0077_02",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-10T14:27:58Z",
+    "author": "Sam",
+    "text": "Can someone remind me of the best way to handle pagination for our call records? I want to make sure I'm following the right pattern.",
+    "message_id": "msg_acc_0077_03",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-12T16:02:14Z",
+    "author": "Taylor",
+    "text": "Just pushed a fix for the filtering bug on the analytics page. Let me know if you spot any more issues!",
+    "message_id": "msg_acc_0077_04",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-15T13:10:45Z",
+    "author": "Morgan",
+    "text": "I\u2019m working on the integration with the speech analytics API. Should have something ready to demo by next week!",
+    "message_id": "msg_acc_0077_05",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-20T17:33:12Z",
+    "author": "Casey",
+    "text": "Facing some issues with the new user authentication flow. It seems like users can't log in at all. Anyone available to pair on this?",
+    "message_id": "msg_acc_0077_06",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-23T10:55:03Z",
+    "author": "Riley",
+    "text": "Just a heads up, I\u2019ll be out for the next couple of days. If you need anything, ping me before EOD!",
+    "message_id": "msg_acc_0077_07",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-10-01T08:45:00Z",
+    "author": "Jamie",
+    "text": "I\u2019ve added a new feature for real-time call monitoring. You can check it out in the dev branch!",
+    "message_id": "msg_acc_0077_08",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-10-05T12:59:44Z",
+    "author": "Pat",
+    "text": "Are we still planning to have a code review session this week? I want to make sure we address any issues before the next release.",
+    "message_id": "msg_acc_0077_09",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-10-10T15:22:36Z",
+    "author": "Avery",
+    "text": "I need some help with writing tests for the new reporting module. Any volunteers to review my code?",
+    "message_id": "msg_acc_0077_10",
+    "account_id": "acc_0077"
+  },
+  {
+    "timestamp": "2024-09-01T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, has anyone had a chance to test the new voice recognition API? I'm hitting some weird errors during the integration.",
+    "message_id": "msg_acc_0078_01",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-10-05T14:22:47Z",
+    "author": "Maya",
+    "text": "Quick update: I've pushed the latest changes to the repo. The wake word detection should work better now. Let me know if you see any issues!",
+    "message_id": "msg_acc_0078_02",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-08-20T09:45:12Z",
+    "author": "Liam",
+    "text": "Can someone clarify the requirements for the voice agent's response time? I'm trying to optimize but need to know the target.",
+    "message_id": "msg_acc_0078_03",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-11-10T16:30:05Z",
+    "author": "Sofia",
+    "text": "Just noticed that the speech-to-text functionality is lagging on my end. Could it be a server issue or something else?",
+    "message_id": "msg_acc_0078_04",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-09-22T11:55:20Z",
+    "author": "Ethan",
+    "text": "I finished the basic UI for the voice agent app today. Looking for feedback if anyone has a moment to check it out!",
+    "message_id": "msg_acc_0078_05",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-10-15T13:00:00Z",
+    "author": "Olivia",
+    "text": "Heads up! We need to schedule a meeting to discuss how we\u2019re handling user data privacy with the voice agent. Let\u2019s find a time that works.",
+    "message_id": "msg_acc_0078_06",
+    "account_id": "acc_0078"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:30Z",
+    "author": "Maya",
+    "text": "Hey team, quick question! Are we planning to implement voice commands for the next update, or should we focus on the existing features first?",
+    "message_id": "msg_acc_0079_01",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-08-25T14:03:45Z",
+    "author": "Liam",
+    "text": "Just pushed a fix for the color contrast issue on the settings page. Should improve accessibility for users with visual impairments. Let me know if you see any other discrepancies!",
+    "message_id": "msg_acc_0079_02",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-09-01T09:45:12Z",
+    "author": "Ava",
+    "text": "I'm getting some strange errors when trying to run the app on iOS 16. Has anyone else experienced this? Looking for some debugging tips!",
+    "message_id": "msg_acc_0079_03",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-09-05T11:27:58Z",
+    "author": "Zoe",
+    "text": "Just a heads up, I\u2019ll be out of the office from the 10th to the 15th. If anyone needs me, just drop me a message, and I\u2019ll try to respond!",
+    "message_id": "msg_acc_0079_04",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-09-12T15:00:33Z",
+    "author": "Noah",
+    "text": "I updated the README with the latest installation instructions. Check it out when you get a chance, and let me know if anything is missing!",
+    "message_id": "msg_acc_0079_05",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-09-18T13:02:10Z",
+    "author": "Ethan",
+    "text": "I'm looking at the user feedback from the last beta test, and it seems like we need to focus on improving text-to-speech clarity. Anyone else have thoughts on this?",
+    "message_id": "msg_acc_0079_06",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-10-02T10:50:25Z",
+    "author": "Olivia",
+    "text": "Just a quick update: the new accessibility features are being demoed on Friday. Let\u2019s make sure everything is polished before then!",
+    "message_id": "msg_acc_0079_07",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-10-15T09:22:18Z",
+    "author": "Jackson",
+    "text": "I fixed the bug related to keyboard navigation. It should be much smoother now. Please test it out and let me know if you find anything else!",
+    "message_id": "msg_acc_0079_08",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-11-01T14:44:09Z",
+    "author": "Sophia",
+    "text": "Hey everyone, I\u2019m working on the UI updates for the dashboard. If you have any design suggestions or examples, feel free to share!",
+    "message_id": "msg_acc_0079_09",
+    "account_id": "acc_0079"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:42Z",
+    "author": "Jake",
+    "text": "Hey team, I just pushed some updates to the API docs. Can someone take a look and confirm everything is clear?",
+    "message_id": "msg_acc_0080_01",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-09-05T14:32:18Z",
+    "author": "Sophie",
+    "text": "I\u2019m running into a CORS issue when trying to fetch data from the new endpoint. Has anyone else encountered this?",
+    "message_id": "msg_acc_0080_02",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-09-12T09:45:27Z",
+    "author": "Liam",
+    "text": "Quick update: I finished the unit tests for the user authentication module. Should be all good now!",
+    "message_id": "msg_acc_0080_03",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-09-19T11:20:13Z",
+    "author": "Mia",
+    "text": "Can someone help me with the build process? I'm getting a weird error that I can't seem to debug.",
+    "message_id": "msg_acc_0080_04",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-10-03T16:50:05Z",
+    "author": "Oliver",
+    "text": "Heads up! The new feature is ready for review. Check it out on the dev branch when you have a moment.",
+    "message_id": "msg_acc_0080_05",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-10-10T13:05:55Z",
+    "author": "Ava",
+    "text": "Just a reminder that our next sprint planning meeting is on Monday. Don't forget to bring your ideas!",
+    "message_id": "msg_acc_0080_06",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-10-22T08:30:12Z",
+    "author": "Ethan",
+    "text": "The API response time has improved significantly after the last optimization. Great work, everyone!",
+    "message_id": "msg_acc_0080_07",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-11-01T15:45:19Z",
+    "author": "Isabella",
+    "text": "I\u2019m working on integrating the new payment gateway. Should have a draft ready by the end of the week!",
+    "message_id": "msg_acc_0080_08",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-11-10T17:00:03Z",
+    "author": "Noah",
+    "text": "Encountered a critical bug in the deployment. I\u2019ll keep everyone updated as I investigate.",
+    "message_id": "msg_acc_0080_09",
+    "account_id": "acc_0080"
+  },
+  {
+    "timestamp": "2024-08-20T12:45:32Z",
+    "author": "Maya",
+    "text": "Hey team, I'm running into a weird issue with the audio processing module. It keeps throwing a null reference error. Has anyone seen this before?",
+    "message_id": "msg_acc_0081_01",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-08-25T14:22:10Z",
+    "author": "Raj",
+    "text": "Just pushed a new feature for handling voice prompts. Can someone pull and test it? Would love some quick feedback!",
+    "message_id": "msg_acc_0081_02",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-09-01T09:15:45Z",
+    "author": "Ella",
+    "text": "Quick update: I've optimized the speech recognition model. Initial tests show about a 15% improvement in accuracy. \ud83c\udf89",
+    "message_id": "msg_acc_0081_03",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-09-05T16:30:18Z",
+    "author": "Liam",
+    "text": "Question: What\u2019s the best way to handle rate limits from the API? I want to avoid hitting them while still processing requests efficiently.",
+    "message_id": "msg_acc_0081_04",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-09-10T11:05:55Z",
+    "author": "Nia",
+    "text": "Just a heads up, I\u2019ll be out for the rest of the week. If anyone needs anything from me, let me know today!",
+    "message_id": "msg_acc_0081_05",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-09-15T08:50:00Z",
+    "author": "Omar",
+    "text": "I think we might need to revisit the conversation flow design. Some of the user testing feedback was pretty critical. Let\u2019s discuss in our next meeting?",
+    "message_id": "msg_acc_0081_06",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-09-18T17:22:33Z",
+    "author": "Zara",
+    "text": "Just merged the latest changes into the main branch. Please make sure to pull before starting any new features!",
+    "message_id": "msg_acc_0081_07",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-10-01T13:00:01Z",
+    "author": "Kian",
+    "text": "Reminder: The demo with the client is next week. Let\u2019s ensure everything is polished and ready to go!",
+    "message_id": "msg_acc_0081_08",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-10-10T15:45:27Z",
+    "author": "Ava",
+    "text": "Anyone have time to pair on debugging the integration tests? They\u2019re failing intermittently and I\u2019m not sure why.",
+    "message_id": "msg_acc_0081_09",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-10-22T10:30:48Z",
+    "author": "Jasper",
+    "text": "I\u2019m working on the new voice command feature and should have a working prototype by the end of the week. Excited to show it off!",
+    "message_id": "msg_acc_0081_10",
+    "account_id": "acc_0081"
+  },
+  {
+    "timestamp": "2024-08-20T14:23:45Z",
+    "author": "Lucas",
+    "text": "Hey team, I'm running into an issue with the speech-to-text API. It's returning a lot of errors on longer audio files. Anyone else facing this?",
+    "message_id": "msg_acc_0082_01",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-09-05T09:15:32Z",
+    "author": "Ava",
+    "text": "Just pushed an update that improves the handling of punctuation in transcriptions. Let's keep an eye on the results from our next round of tests!",
+    "message_id": "msg_acc_0082_02",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-09-15T12:47:19Z",
+    "author": "Ethan",
+    "text": "Quick reminder: the deadline for the podcast app demo is next Friday. Let\u2019s make sure we\u2019re all on track!",
+    "message_id": "msg_acc_0082_03",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-09-22T16:02:18Z",
+    "author": "Maya",
+    "text": "Can anyone share their thoughts on the new UI design for the transcription viewer? I\u2019d love some feedback before we finalize it!",
+    "message_id": "msg_acc_0082_04",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-10-03T11:34:56Z",
+    "author": "Noah",
+    "text": "I've added a new feature to allow users to edit transcripts directly. Check it out and let me know if you spot any bugs!",
+    "message_id": "msg_acc_0082_05",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-10-15T08:25:44Z",
+    "author": "Sofia",
+    "text": "I noticed a spike in the processing time for audio files. Might be related to the new model we integrated. I\u2019ll dig into it this afternoon.",
+    "message_id": "msg_acc_0082_06",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-11-01T10:10:10Z",
+    "author": "Liam",
+    "text": "Just a heads up, I\u2019ll be out next week. If anyone needs to reach me, Slack me or send an email, I\u2019ll try to check in when I can.",
+    "message_id": "msg_acc_0082_07",
+    "account_id": "acc_0082"
+  },
+  {
+    "timestamp": "2024-08-25T14:30:12Z",
+    "author": "Jake",
+    "text": "Hey team, quick question: does anyone know if we have a style guide for the new app? I want to make sure I'm aligned with the design.",
+    "message_id": "msg_acc_0083_01",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-09-05T09:45:03Z",
+    "author": "Sophie",
+    "text": "Just pushed a fix for the API timeout issue we were facing. Let me know if anyone encounters it again!",
+    "message_id": "msg_acc_0083_02",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-09-15T16:20:45Z",
+    "author": "Liam",
+    "text": "Reminder: we have a demo scheduled for Wednesday at 3 PM. Please make sure to review the latest features before then.",
+    "message_id": "msg_acc_0083_03",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-09-20T11:12:27Z",
+    "author": "Mia",
+    "text": "I'm running into a problem with the authentication flow. Can someone else take a look? I feel like I've missed something.",
+    "message_id": "msg_acc_0083_04",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-10-01T08:55:19Z",
+    "author": "Noah",
+    "text": "Just a heads up, I added a new endpoint for the user profile retrieval. Documentation will be updated shortly!",
+    "message_id": "msg_acc_0083_05",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-10-10T13:30:07Z",
+    "author": "Emma",
+    "text": "Can we set up a quick meeting to discuss the caching strategy? I think we need to revisit some of our assumptions.",
+    "message_id": "msg_acc_0083_06",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-10-15T19:05:45Z",
+    "author": "Ava",
+    "text": "The latest build is live on staging. Please test the new feature and report any issues you find!",
+    "message_id": "msg_acc_0083_07",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-10-22T10:25:18Z",
+    "author": "Ethan",
+    "text": "Anyone know why our CI/CD pipeline is failing? I checked the logs, but I'm not seeing anything obvious.",
+    "message_id": "msg_acc_0083_08",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-11-03T15:40:36Z",
+    "author": "Oliver",
+    "text": "Just finished implementing the new UI changes! Let me know what you think\u2014looking for any feedback before we merge.",
+    "message_id": "msg_acc_0083_09",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-11-12T12:15:54Z",
+    "author": "Aiden",
+    "text": "I'm updating the README to include the new environment variables. Should be done shortly!",
+    "message_id": "msg_acc_0083_10",
+    "account_id": "acc_0083"
+  },
+  {
+    "timestamp": "2024-09-01T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, just a quick update! I pushed the latest changes to the feature branch. Please take a look when you get a chance!",
+    "message_id": "msg_acc_0084_01",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-09-15T09:15:30Z",
+    "author": "Nina",
+    "text": "Quick question: has anyone figured out the API rate limits for our new app? I'm running into some errors and want to make sure I'm not exceeding them.",
+    "message_id": "msg_acc_0084_02",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-10-02T11:42:10Z",
+    "author": "Liam",
+    "text": "Just noticed a bug with the user signup flow. It throws a 500 error when you submit the form. I\u2019ll investigate and keep you posted on what I find.",
+    "message_id": "msg_acc_0084_03",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-10-10T16:05:25Z",
+    "author": "Sophie",
+    "text": "I\u2019ve added some new tests for the authentication module. Let\u2019s make sure to run them before merging to the main branch!",
+    "message_id": "msg_acc_0084_04",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-10-20T08:30:15Z",
+    "author": "Ethan",
+    "text": "Can anyone remind me what the naming conventions are for our API endpoints? I want to make sure I\u2019m consistent with the new features.",
+    "message_id": "msg_acc_0084_05",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-11-01T13:57:50Z",
+    "author": "Mia",
+    "text": "Just a heads-up, I\u2019ll be out of the office next week. If you need anything from my side, let me know before the end of the week!",
+    "message_id": "msg_acc_0084_06",
+    "account_id": "acc_0084"
+  },
+  {
+    "timestamp": "2024-09-02T10:15:32Z",
+    "author": "Mia",
+    "text": "Hey team, I'm running into an issue with the audio file upload feature. It keeps throwing a 500 error. Anyone else experiencing this?",
+    "message_id": "msg_acc_0085_01",
+    "account_id": "acc_0085"
+  },
+  {
+    "timestamp": "2024-10-05T14:45:12Z",
+    "author": "Raj",
+    "text": "Just a quick update: I've finished implementing the speaker identification feature! Should make the transcriptions way clearer. Excited for y'all to check it out!",
+    "message_id": "msg_acc_0085_02",
+    "account_id": "acc_0085"
+  },
+  {
+    "timestamp": "2024-08-25T09:30:45Z",
+    "author": "Lena",
+    "text": "Quick question: Are we following any specific guidelines for the timestamp format in the transcriptions? Need to make sure it aligns with the user requirements.",
+    "message_id": "msg_acc_0085_03",
+    "account_id": "acc_0085"
+  },
+  {
+    "timestamp": "2024-11-10T16:20:07Z",
+    "author": "Ethan",
+    "text": "Hey everyone, I just pushed a fix for the bug in the syncing process. Let me know if you encounter any further issues. Cheers!",
+    "message_id": "msg_acc_0085_04",
+    "account_id": "acc_0085"
+  },
+  {
+    "timestamp": "2024-08-20T09:15:32Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the data schema. Are we still planning to include the call duration in the analytics dashboard?",
+    "message_id": "msg_acc_0086_01",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-09-02T14:25:47Z",
+    "author": "Mia",
+    "text": "I've run into a bug when fetching call records. The API is returning a 500 error intermittently. Has anyone else seen this?",
+    "message_id": "msg_acc_0086_02",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-09-10T11:45:10Z",
+    "author": "Leo",
+    "text": "Just pushed an update for the call metrics aggregation. Let me know if you notice any discrepancies in the reports!",
+    "message_id": "msg_acc_0086_03",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-09-15T16:30:21Z",
+    "author": "Sophie",
+    "text": "Reminder: our sprint review is on Friday. Please make sure your tasks are updated in JIRA before then!",
+    "message_id": "msg_acc_0086_04",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-09-22T08:12:05Z",
+    "author": "Chris",
+    "text": "Does anyone have insights on the call sentiment analysis feature? I think we need to clarify the requirements a bit.",
+    "message_id": "msg_acc_0086_05",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-10-02T13:50:55Z",
+    "author": "Ava",
+    "text": "Just deployed the latest version to staging. If you have time, please test the new UI for the analytics dashboard!",
+    "message_id": "msg_acc_0086_06",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-10-12T17:05:40Z",
+    "author": "Ben",
+    "text": "I'm stuck with the integration tests for the new API endpoints. If anyone has experience with this, I'd appreciate a pair of eyes!",
+    "message_id": "msg_acc_0086_07",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-10-25T09:22:18Z",
+    "author": "Nina",
+    "text": "Great news! The customer feedback on our prototype has been positive. Let's keep the momentum going into the next phase!",
+    "message_id": "msg_acc_0086_08",
+    "account_id": "acc_0086"
+  },
+  {
+    "timestamp": "2024-08-18T14:23:45",
+    "author": "Sara",
+    "text": "Hey team, quick question about the color contrast ratios. Are we using the WCAG 2.1 guidelines or have we decided to stick with 2.0 for now?",
+    "message_id": "msg_acc_0087_01",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-08-20T09:15:32",
+    "author": "Mike",
+    "text": "Just pushed a fix for the screen reader compatibility issue. Let me know if you notice any improvements!",
+    "message_id": "msg_acc_0087_02",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-09-05T11:47:18",
+    "author": "Jenna",
+    "text": "Heads up! I've noticed some inconsistencies in the keyboard navigation across different screens. I\u2019ll be working on a fix today.",
+    "message_id": "msg_acc_0087_03",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-09-15T16:03:50",
+    "author": "Alex",
+    "text": "Can anyone share insights on how we\u2019re implementing ARIA roles in the new layout? I want to make sure I\u2019m aligned with everyone.",
+    "message_id": "msg_acc_0087_04",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-09-22T10:27:19",
+    "author": "Sam",
+    "text": "I\u2019ve updated the user settings page to include more accessible options. Check it out and let me know what you think!",
+    "message_id": "msg_acc_0087_05",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-10-03T13:42:07",
+    "author": "Kim",
+    "text": "Encountered a bug where the voice command feature is not responding on iOS. Has anyone else faced this?",
+    "message_id": "msg_acc_0087_06",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-10-12T08:55:54",
+    "author": "Ryan",
+    "text": "Working on adding tooltips for the action buttons. Should improve usability for screen reader users. Will update once it's done!",
+    "message_id": "msg_acc_0087_07",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-10-21T15:30:21",
+    "author": "Nina",
+    "text": "Just merged the changes for multilingual support! Let\u2019s test it out and see how it handles different languages.",
+    "message_id": "msg_acc_0087_08",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-11-05T17:11:39",
+    "author": "Liam",
+    "text": "I\u2019ve scheduled a demo for our latest features next week. Please mark your calendars and be ready for some feedback!",
+    "message_id": "msg_acc_0087_09",
+    "account_id": "acc_0087"
+  },
+  {
+    "timestamp": "2024-09-05T14:22:17Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the API docs. Has anyone figured out the best way to handle the new authentication flow? I\u2019m running into some confusion with the token exchange process.",
+    "message_id": "msg_acc_0088_01",
+    "account_id": "acc_0088"
+  },
+  {
+    "timestamp": "2024-10-10T09:45:30Z",
+    "author": "Maya",
+    "text": "Just pushed a new feature for the user settings page. Everything seems to work on my end, but please take a look and let me know if you run into any issues. Thanks!",
+    "message_id": "msg_acc_0088_02",
+    "account_id": "acc_0088"
+  },
+  {
+    "timestamp": "2024-08-25T16:10:04Z",
+    "author": "Eli",
+    "text": "We\u2019re experiencing some intermittent errors with the data fetching in the new app. I\u2019m tracking down the root cause, but if anyone has insights, please share. Could save me some time!",
+    "message_id": "msg_acc_0088_03",
+    "account_id": "acc_0088"
+  },
+  {
+    "timestamp": "2024-08-20T14:32:10Z",
+    "author": "Emily",
+    "text": "Hey team, I\u2019m having trouble with the audio file upload feature. Is anyone else experiencing the same issue?",
+    "message_id": "msg_acc_0089_01",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-09-05T09:15:45Z",
+    "author": "Jack",
+    "text": "Just pushed the latest changes to the transcription service. You can check it out on the staging branch!",
+    "message_id": "msg_acc_0089_02",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-09-12T11:50:22Z",
+    "author": "Ava",
+    "text": "Quick reminder: we need to finalize the UI design by the end of the week. Let\u2019s aim for a review session on Friday.",
+    "message_id": "msg_acc_0089_03",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-09-28T16:02:30Z",
+    "author": "Liam",
+    "text": "I noticed some discrepancies in the timestamps for the transcriptions. Has anyone looked into that yet?",
+    "message_id": "msg_acc_0089_04",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-10-03T13:45:12Z",
+    "author": "Maya",
+    "text": "I\u2019m working on optimizing the transcription algorithm. Should have some benchmarks ready by Monday.",
+    "message_id": "msg_acc_0089_05",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-10-14T09:17:55Z",
+    "author": "Ethan",
+    "text": "Can someone remind me of the latest version of the API we\u2019re using? I need to check compatibility with my latest updates.",
+    "message_id": "msg_acc_0089_06",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-10-19T17:23:45Z",
+    "author": "Sofia",
+    "text": "Great news! The initial tests for the new audio processing library went smoothly. I\u2019ll document the results this weekend.",
+    "message_id": "msg_acc_0089_07",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-10-25T10:30:05Z",
+    "author": "Noah",
+    "text": "I encountered a bug when trying to edit the transcription. The save button is unresponsive. Anyone else seen this?",
+    "message_id": "msg_acc_0089_08",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-11-02T15:45:30Z",
+    "author": "Oliver",
+    "text": "Just a heads up, I\u2019ll be out of the office next week. Let me know if you need anything before then!",
+    "message_id": "msg_acc_0089_09",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-11-10T12:10:55Z",
+    "author": "Chloe",
+    "text": "Does anyone have insights on the user feedback from the beta tests? We should start planning for the next iteration.",
+    "message_id": "msg_acc_0089_10",
+    "account_id": "acc_0089"
+  },
+  {
+    "timestamp": "2024-09-05T14:32:10Z",
+    "author": "Jake",
+    "text": "Hey team, I'm running into an issue with the API response format. Can someone double-check the latest specs? It seems like the timestamp is missing in the data payload.",
+    "message_id": "msg_acc_0090_01",
+    "account_id": "acc_0090"
+  },
+  {
+    "timestamp": "2024-10-12T09:45:22Z",
+    "author": "Emily",
+    "text": "Quick update on the meeting summary feature: I just pushed the latest changes to the dev branch. Please review when you get a chance!",
+    "message_id": "msg_acc_0090_02",
+    "account_id": "acc_0090"
+  },
+  {
+    "timestamp": "2024-10-28T11:23:05Z",
+    "author": "Brian",
+    "text": "Has anyone figured out how to integrate the calendar API with our app? I could use some pointers or examples if you have any!",
+    "message_id": "msg_acc_0090_03",
+    "account_id": "acc_0090"
+  },
+  {
+    "timestamp": "2024-11-03T16:01:48Z",
+    "author": "Sofia",
+    "text": "Just a heads up, I noticed some performance issues during testing. I\u2019ll start profiling the app tomorrow to pinpoint what\u2019s causing the slowdown.",
+    "message_id": "msg_acc_0090_04",
+    "account_id": "acc_0090"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:45Z",
+    "author": "Maya",
+    "text": "Hey team, I\u2019m running into an issue with the color contrast ratios in the latest build. Can someone take a look at the stylesheets and see if there\u2019s anything off? Thanks!",
+    "message_id": "msg_acc_0091_01",
+    "account_id": "acc_0091"
+  },
+  {
+    "timestamp": "2024-10-12T10:45:30Z",
+    "author": "Jamal",
+    "text": "Quick update: I just finished implementing the voice command feature. It seems to be working smoothly during my tests. Ready for you all to give it a spin!",
+    "message_id": "msg_acc_0091_02",
+    "account_id": "acc_0091"
+  },
+  {
+    "timestamp": "2024-08-20T09:15:42Z",
+    "author": "Jake",
+    "text": "Hey team, quick question: does anyone know if the latest API version supports callback URLs for the voice interactions? I couldn't find it in the docs.",
+    "message_id": "msg_acc_0092_01",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-08-25T14:42:07Z",
+    "author": "Maya",
+    "text": "Just merged the new speech recognition feature into the main branch. Please pull the latest and test it out when you get a chance!",
+    "message_id": "msg_acc_0092_02",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-09-02T11:05:33Z",
+    "author": "Sam",
+    "text": "Encountered a bug in the voice agent that causes it to crash when processing long commands. Working on a fix now; should have an update soon.",
+    "message_id": "msg_acc_0092_03",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-09-09T16:27:19Z",
+    "author": "Tina",
+    "text": "Reminder: the demo for our app is next week! Let\u2019s make sure all features are functioning smoothly before then. Everyone on track to test?",
+    "message_id": "msg_acc_0092_04",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-10-01T10:56:14Z",
+    "author": "Leo",
+    "text": "The user feedback on our alpha version is in! Let\u2019s schedule a meeting to go through the main issues and prioritize fixes.",
+    "message_id": "msg_acc_0092_05",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-10-15T13:22:45Z",
+    "author": "Nina",
+    "text": "I just implemented the new intent recognition algorithm. Initial tests are looking promising! Let me know if you want to take a look.",
+    "message_id": "msg_acc_0092_06",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-11-02T08:47:59Z",
+    "author": "Raj",
+    "text": "Heads up, I'm seeing some latency issues in the voice processing that I can't reproduce locally. Anyone else experiencing this?",
+    "message_id": "msg_acc_0092_07",
+    "account_id": "acc_0092"
+  },
+  {
+    "timestamp": "2024-09-05T14:27:43Z",
+    "author": "Liam",
+    "text": "Hey team, just ran into a weird issue with the audio file uploads. They\u2019re throwing a 500 error. Has anyone else seen this yet?",
+    "message_id": "msg_acc_0093_01",
+    "account_id": "acc_0093"
+  },
+  {
+    "timestamp": "2024-10-12T09:15:22Z",
+    "author": "Sophia",
+    "text": "Quick update: I've implemented the new auto-punctuation feature! Just need to wrap up some tests and then we can get it merged. Let me know if anyone wants to take a look!",
+    "message_id": "msg_acc_0093_02",
+    "account_id": "acc_0093"
+  },
+  {
+    "timestamp": "2024-09-02T10:15:34Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the calendar API integration. Should we be handling time zone conversions ourselves or relying on the API to provide it?",
+    "message_id": "msg_acc_0094_01",
+    "account_id": "acc_0094"
+  },
+  {
+    "timestamp": "2024-10-05T14:45:12Z",
+    "author": "Emily",
+    "text": "Just pushed the latest changes for the meeting notes feature. Please test it out and let me know if you encounter any issues!",
+    "message_id": "msg_acc_0094_02",
+    "account_id": "acc_0094"
+  },
+  {
+    "timestamp": "2024-08-25T09:30:50Z",
+    "author": "Raj",
+    "text": "Heads up, I encountered a bug where the app crashes when saving meeting agendas. I\u2019ll dig into it and keep you all updated.",
+    "message_id": "msg_acc_0094_03",
+    "account_id": "acc_0094"
+  },
+  {
+    "timestamp": "2024-11-10T16:20:18Z",
+    "author": "Sara",
+    "text": "I\u2019ve updated the design mockups based on yesterday's feedback. They\u2019re in the Figma file now\u2014take a look when you get a chance!",
+    "message_id": "msg_acc_0094_04",
+    "account_id": "acc_0094"
+  },
+  {
+    "timestamp": "2024-08-20T10:15:30Z",
+    "author": "Jake",
+    "text": "Hey team, quick question about the meeting notes feature. Should we allow users to edit notes after a meeting ends, or keep them as read-only?",
+    "message_id": "msg_acc_0095_01",
+    "account_id": "acc_0095"
+  },
+  {
+    "timestamp": "2024-09-05T14:45:12Z",
+    "author": "Lisa",
+    "text": "Just pushed an update for the task reminder function! It now sends a notification 10 minutes before a meeting starts. Let me know if you notice any issues.",
+    "message_id": "msg_acc_0095_02",
+    "account_id": "acc_0095"
+  },
+  {
+    "timestamp": "2024-10-01T09:30:45Z",
+    "author": "Alex",
+    "text": "Running into a problem with the calendar integration. It seems like the API isn't returning the correct event data. I\u2019ll dig in and see what\u2019s up.",
+    "message_id": "msg_acc_0095_03",
+    "account_id": "acc_0095"
+  },
+  {
+    "timestamp": "2024-10-15T11:05:00Z",
+    "author": "Maya",
+    "text": "Just finished the UI updates for the meeting dashboard! Check it out when you get a chance and let me know what you think.",
+    "message_id": "msg_acc_0095_04",
+    "account_id": "acc_0095"
+  },
+  {
+    "timestamp": "2024-11-12T08:20:22Z",
+    "author": "Ryan",
+    "text": "Hey everyone, heads up! We have a bug report in regarding the voice recognition feature\u2014it\u2019s not picking up commands accurately. Let\u2019s prioritize fixing that.",
+    "message_id": "msg_acc_0095_05",
+    "account_id": "acc_0095"
+  },
+  {
+    "timestamp": "2024-09-02T14:23:45Z",
+    "author": "Jake",
+    "text": "Hey team, I'm running into an issue where the API isn't returning the expected analytics data for the last 24 hours. Has anyone else experienced this yet?",
+    "message_id": "msg_acc_0096_01",
+    "account_id": "acc_0096"
+  },
+  {
+    "timestamp": "2024-08-25T09:15:12Z",
+    "author": "Maya",
+    "text": "Just pushed a new feature for sentiment analysis! \ud83c\udf89 It should be live in the testing environment. Let me know if you find any bugs!",
+    "message_id": "msg_acc_0096_02",
+    "account_id": "acc_0096"
+  },
+  {
+    "timestamp": "2024-10-10T16:45:30Z",
+    "author": "Ethan",
+    "text": "Quick heads up: I added some logging to the call duration endpoints. Should help us track down that latency issue we discussed last week.",
+    "message_id": "msg_acc_0096_03",
+    "account_id": "acc_0096"
+  },
+  {
+    "timestamp": "2024-08-30T11:07:20Z",
+    "author": "Sophia",
+    "text": "Can anyone remind me how to set up the mock API for testing? I think I missed that part in the onboarding doc.",
+    "message_id": "msg_acc_0096_04",
+    "account_id": "acc_0096"
+  },
+  {
+    "timestamp": "2024-11-01T13:30:05Z",
+    "author": "Liam",
+    "text": "Just finished reviewing the latest pull request. Everything looks solid! Merging it now so we can start the integration tests.",
+    "message_id": "msg_acc_0096_05",
+    "account_id": "acc_0096"
+  },
+  {
+    "timestamp": "2024-08-22T00:00:00",
+    "author": "dev",
+    "text": "hey team \u2014 seeing some weird latency on the podcast transcription endpoint today, anyone else?",
+    "message_id": "msg_acc_0097_01",
+    "account_id": "acc_0097"
+  },
+  {
+    "timestamp": "2024-09-05T14:23:10Z",
+    "author": "Liam",
+    "text": "Hey team, I ran into an issue with the color contrast checker on mobile. It seems like it\u2019s not picking up some elements correctly. Anyone else experiencing this?",
+    "message_id": "msg_acc_0098_01",
+    "account_id": "acc_0098"
+  },
+  {
+    "timestamp": "2024-08-22T14:35:12Z",
+    "author": "Alice",
+    "text": "Hey team, quick heads up! I just merged the new UI changes for the meeting scheduler. Please pull the latest and give it a test!",
+    "message_id": "msg_acc_0100_01",
+    "account_id": "acc_0100"
+  },
+  {
+    "timestamp": "2024-09-05T09:17:45Z",
+    "author": "Jake",
+    "text": "Is anyone else experiencing issues with the API response times? Mine have been super slow today. \ud83e\udd14",
+    "message_id": "msg_acc_0100_02",
+    "account_id": "acc_0100"
+  },
+  {
+    "timestamp": "2024-09-29T10:45:30Z",
+    "author": "Sofia",
+    "text": "Just finished implementing the voice recognition feature! \ud83c\udf89 I\u2019ll push it to the branch later today for testing.",
+    "message_id": "msg_acc_0100_03",
+    "account_id": "acc_0100"
+  },
+  {
+    "timestamp": "2024-10-12T11:20:56Z",
+    "author": "Liam",
+    "text": "Reminder: our sprint review is scheduled for Thursday at 3 PM. Make sure to prepare your demos!",
+    "message_id": "msg_acc_0100_04",
+    "account_id": "acc_0100"
+  },
+  {
+    "timestamp": "2024-10-29T16:02:01Z",
+    "author": "Emma",
+    "text": "Has anyone figured out the issue with the calendar sync? I\u2019ve been troubleshooting but no luck so far.",
+    "message_id": "msg_acc_0100_05",
+    "account_id": "acc_0100"
+  },
+  {
+    "timestamp": "2024-11-10T08:15:30Z",
+    "author": "Noah",
+    "text": "Just a quick update: I've started working on the user feedback integration. Should have a draft ready by the end of the week!",
+    "message_id": "msg_acc_0100_06",
+    "account_id": "acc_0100"
+  }
+]

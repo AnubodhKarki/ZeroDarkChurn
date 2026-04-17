@@ -1,0 +1,129 @@
+{
+  "generated_at": "2024-11-15",
+  "total_planted_churn": 15,
+  "total_fp_traps": 5,
+  "planted_churn": [
+    {
+      "account_id": "acc_0001",
+      "company_name": "Rodriguez, Figueroa and Sanchez",
+      "signal_mix": "health_only",
+      "notes": "usage drop >45% over last 14 days + error rate spike in last 7 days"
+    },
+    {
+      "account_id": "acc_0002",
+      "company_name": "Doyle Ltd",
+      "signal_mix": "health_only",
+      "notes": "usage drop >45% over last 14 days + error rate spike in last 7 days"
+    },
+    {
+      "account_id": "acc_0003",
+      "company_name": "Mcclain, Miller and Henderson",
+      "signal_mix": "health_only",
+      "notes": "usage drop >45% over last 14 days + error rate spike in last 7 days"
+    },
+    {
+      "account_id": "acc_0004",
+      "company_name": "Davis and Sons",
+      "signal_mix": "health_only",
+      "notes": "usage drop >45% over last 14 days + error rate spike in last 7 days"
+    },
+    {
+      "account_id": "acc_0005",
+      "company_name": "Guzman, Hoffman and Baldwin",
+      "signal_mix": "health_only",
+      "notes": "usage drop >45% over last 14 days + error rate spike in last 7 days"
+    },
+    {
+      "account_id": "acc_0006",
+      "company_name": "Gardner, Robinson and Lawrence",
+      "signal_mix": "risk_only",
+      "notes": "competitor VoxCore mentioned in tickets/transcripts; modest or normal health metrics"
+    },
+    {
+      "account_id": "acc_0007",
+      "company_name": "Blake and Sons",
+      "signal_mix": "risk_only",
+      "notes": "competitor TranscriBit mentioned in tickets/transcripts; modest or normal health metrics"
+    },
+    {
+      "account_id": "acc_0008",
+      "company_name": "Henderson, Ramirez and Lewis",
+      "signal_mix": "risk_only",
+      "notes": "competitor SpeechLayer mentioned in tickets/transcripts; modest or normal health metrics"
+    },
+    {
+      "account_id": "acc_0009",
+      "company_name": "Garcia-James",
+      "signal_mix": "risk_only",
+      "notes": "competitor AudioNest mentioned in tickets/transcripts; modest or normal health metrics"
+    },
+    {
+      "account_id": "acc_0010",
+      "company_name": "Abbott-Munoz",
+      "signal_mix": "risk_only",
+      "notes": "competitor VoxCore mentioned in tickets/transcripts; modest or normal health metrics"
+    },
+    {
+      "account_id": "acc_0011",
+      "company_name": "Blair PLC",
+      "signal_mix": "combined",
+      "notes": "usage drop >45% last 14 days + competitor TranscriBit mentioned + enterprise tier (high value) \u2014 clearest catches"
+    },
+    {
+      "account_id": "acc_0012",
+      "company_name": "Dudley Group",
+      "signal_mix": "combined",
+      "notes": "usage drop >45% last 14 days + competitor SpeechLayer mentioned + growth tier (high value) \u2014 clearest catches"
+    },
+    {
+      "account_id": "acc_0013",
+      "company_name": "Arnold Ltd",
+      "signal_mix": "combined",
+      "notes": "usage drop >45% last 14 days + competitor AudioNest mentioned + enterprise tier (high value) \u2014 clearest catches"
+    },
+    {
+      "account_id": "acc_0014",
+      "company_name": "Mcclure, Ward and Lee",
+      "signal_mix": "combined",
+      "notes": "usage drop >45% last 14 days + competitor VoxCore mentioned + growth tier (high value) \u2014 clearest catches"
+    },
+    {
+      "account_id": "acc_0015",
+      "company_name": "Williams and Sons",
+      "signal_mix": "combined",
+      "notes": "usage drop >45% last 14 days + competitor TranscriBit mentioned + enterprise tier (high value) \u2014 clearest catches"
+    }
+  ],
+  "false_positive_traps": [
+    {
+      "account_id": "acc_0016",
+      "company_name": "Galloway-Wyatt",
+      "trap_type": "seasonal_dip",
+      "notes": "usage dropped ~40% in last 14 days \u2014 looks like health churn but is a slow business period (team offsite + pre-launch lull). No error spike, no webhook degradation. Communications explain the context. Should NOT trigger outreach."
+    },
+    {
+      "account_id": "acc_0017",
+      "company_name": "James Group",
+      "trap_type": "seasonal_dip",
+      "notes": "usage dropped ~40% in last 14 days \u2014 looks like health churn but is a slow business period (team offsite + pre-launch lull). No error spike, no webhook degradation. Communications explain the context. Should NOT trigger outreach."
+    },
+    {
+      "account_id": "acc_0018",
+      "company_name": "Flowers, Martin and Kelly",
+      "trap_type": "transient_error_spike",
+      "notes": "error rate elevated in last 7 days but NO usage drop. Caused by a DNS misconfiguration on the customer's own infrastructure \u2014 they explain this in their ticket and transcript. Should NOT trigger outreach."
+    },
+    {
+      "account_id": "acc_0019",
+      "company_name": "Adams, Zuniga and Wong",
+      "trap_type": "transient_error_spike",
+      "notes": "error rate elevated in last 7 days but NO usage drop. Caused by a DNS misconfiguration on the customer's own infrastructure \u2014 they explain this in their ticket and transcript. Should NOT trigger outreach."
+    },
+    {
+      "account_id": "acc_0020",
+      "company_name": "Reid, Ferguson and Sanchez",
+      "trap_type": "loyal_competitor_mention",
+      "notes": "developer mentions evaluating SpeechLayer but explicitly states they decided to stay with DevAPICo"
+    }
+  ]
+}
