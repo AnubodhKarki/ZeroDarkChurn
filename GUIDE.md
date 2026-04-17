@@ -301,6 +301,54 @@ The main limitations of synthetic data are: the LLM-generated communications are
 
 ---
 
+## Deployment Architecture
+
+The app is hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Anubodh/ZeroDarkChurn) as a Docker container. Here is how the full deployment pipeline works.
+
+### How a code change reaches production
+
+```
+git push → GitHub Actions CI (pytest) → hf-deploy.yml → HF Spaces (Docker build) → Live app
+```
+
+Every push to `main` triggers two sequential workflows:
+
+1. **`ci.yml`** — runs the full test suite (34 tests, 2 skipped). No API keys required — the factory and cache tests use a fake `sk-test` key with mocked provider calls, and the live-API tests auto-skip.
+2. **`hf-deploy.yml`** — force-pushes the repository to `https://huggingface.co/spaces/Anubodh/ZeroDarkChurn`. HF Spaces detects the push, rebuilds the Docker image, and restarts the container.
+
+### The Dockerfile
+
+```dockerfile
+FROM python:3.11-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
+EXPOSE 7860
+CMD ["streamlit", "run", "dashboard/app.py", \
+     "--server.port=7860", "--server.address=0.0.0.0"]
+```
+
+Port `7860` is mandatory — HF Spaces routes external traffic to that port for Docker-based apps.
+
+### Secrets
+
+| Location | Key | Purpose |
+|---|---|---|
+| GitHub repo secrets | `HF_TOKEN` | Authenticates the GitHub Actions push to HF Spaces |
+| HF Spaces secrets | `LLM_PROVIDER` | Tells the app which LLM provider to use (`openai` or `anthropic`) |
+| HF Spaces secrets | `OPENAI_API_KEY` | Powers the "Analyse & Draft" button in the dashboard |
+
+### Why the dashboard loads instantly without API keys
+
+The committed `data/output/results.parquet` contains pre-computed results for all 100 accounts. The dashboard reads this file at startup — no pipeline run, no LLM call. API keys are only needed when someone clicks "Analyse & Draft" on a specific account whose communications have changed since the last pipeline run.
+
+### Dependency fix for CI
+
+`openai==1.51.2` and `anthropic==0.34.2` both pass a `proxies` keyword argument to `httpx` internally. This argument was removed in `httpx 0.28.0`. CI was installing the latest `httpx` and failing with `TypeError: Client.__init__() got an unexpected keyword argument 'proxies'`. Fixed by pinning `httpx<0.28.0` in `requirements.txt`.
+
+---
+
 ## The Numbers That Matter
 
 - **100** synthetic accounts, **90 days** of daily usage data each

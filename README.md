@@ -94,18 +94,22 @@ streamlit run dashboard/app.py
 
 ---
 
-## Deploy to Streamlit Community Cloud
+## Deploy to Hugging Face Spaces
 
-1. Fork this repo
-2. Go to [share.streamlit.io](https://share.streamlit.io) → New app → point to `dashboard/app.py`
-3. In **Secrets**, add:
-   ```toml
-   LLM_PROVIDER = "openai"
-   OPENAI_API_KEY = "sk-..."
+The app is deployed via Docker on [Hugging Face Spaces](https://huggingface.co/spaces/Anubodh/ZeroDarkChurn). Every push to `main` automatically rebuilds the Space via GitHub Actions.
+
+### Deploy your own fork
+
+1. Create a Space at [huggingface.co/spaces](https://huggingface.co/spaces) — choose **Docker**
+2. Add secrets in **Space Settings → Secrets**:
    ```
-4. Deploy — the dashboard loads immediately from the committed `results.parquet`
+   LLM_PROVIDER = openai
+   OPENAI_API_KEY = sk-...
+   ```
+3. Add your HF access token to GitHub repo secrets as `HF_TOKEN`
+4. Push to `main` — the `.github/workflows/hf-deploy.yml` workflow pushes automatically to HF
 
-The "Analyse & Draft" button will call the LLM only when an account's communications differ from the stored checksum.
+The dashboard loads immediately from the committed `results.parquet` — no pipeline re-run needed. The "Analyse & Draft" button only calls the LLM when an account's communications differ from the stored checksum.
 
 ---
 
