@@ -1,0 +1,24 @@
+# LLM providers
+openai==1.51.2
+anthropic==0.34.2
+
+# Data
+pandas==2.2.3
+numpy==2.1.1
+faker==30.3.0
+pyarrow==17.0.0
+
+# Pipeline
+python-dotenv==1.0.1
+
+# Dashboard
+streamlit==1.39.0
+plotly==5.24.1
+
+# Notebooks
+jupyter==1.1.1
+nbformat==5.10.4
+
+# Tests
+pytest==8.3.3
+pytest-mock==3.14.0
