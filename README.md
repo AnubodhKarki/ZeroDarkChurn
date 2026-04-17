@@ -1,3 +1,12 @@
+---
+title: ZeroDarkChurn
+emoji: 📉
+colorFrom: blue
+colorTo: red
+sdk: docker
+pinned: false
+---
+
 # Zero Dark Churn — Silent Churn Detection System
 
 ![CI](https://github.com/AnubodhKarki/ZeroDarkChurn/actions/workflows/ci.yml/badge.svg)
